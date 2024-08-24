@@ -21,6 +21,9 @@ import ListItemText from '@mui/material/ListItemText';
 import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import dist from "./assets/csvjson.json"
+import Papa from 'papaparse';
+
+
 
 function App() {
   const crops = ['Wheat','Rice','Soya']
@@ -32,11 +35,13 @@ function App() {
   const [data1, setData1] = useState([]);
   const [data2, setData2] = useState();
 
-  const handleChange = (event) => {
+  const handleChange = (event,key) => {
+    const itemKey = key.key.slice(2); //Removes the .$ from the key.
+    console.log(itemKey)
     const {
-      target: { value },
+      target: { value},
     } = event;
-    console.log(value);
+    setData2(value);
     setdistName(
       typeof value === 'string' ? value.split(',') : value,
     );
@@ -54,16 +59,26 @@ function App() {
     
   };
   
-
+  const params={
+    "numbers": data2,
+  }
   
 
   const call = ()=>{
     var hi="numbers"
-    axios.get("http://coeai4agri.bits-pilani.ac.in/cyp_satran/",{
-    
-    })
+    axios.post("https://cors-anywhere.herokuapp.com/http://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
+      'content-type': 'application/json',
+   },
+})
   .then(function (response) {
     console.log(response.data);
+    console.log(Papa.parse(response.data));
+    Papa.parse(response.data, {
+      complete: (result) => {
+          setData1(result.data);
+      },
+      header: true,
+  });
   })
   .catch(function (error) {
     console.log(error);
@@ -134,8 +149,8 @@ function App() {
           }}
         >
           {dist.map((dist) => (
-            <MenuItem key={dist.DistrictID} value={dist.DistrictName}>
-              <Checkbox checked={distName.indexOf(dist.DistrictName) > -1} />
+            <MenuItem key={dist.DistrictID} value={dist.DistrictID}>
+              <Checkbox checked={distName.indexOf(dist.DistrictID) > -1} />
               <ListItemText primary={dist.DistrictName} />
             </MenuItem>
           ))}
@@ -152,14 +167,14 @@ function App() {
     <Table className='table' striped bordered hover>
       <thead>
         <tr>
-          <th>#</th>
-          <th>State</th>
+          <th>District ID</th>
+          <th>District Name</th>
           <th>Actual</th>
           <th>Predicted</th>
         </tr>
       </thead>
       <tbody>
-        {/* {data1.map((data1)=>{return(<><tr><td>{data1.createdAt}</td><td>{data1.name}</td><td>{data1.Colour}</td></tr></>);})} */}
+        {data1.map((data1)=>{return(<><tr><td>{data1.DistrictID}</td><td>{data1.DistrictName}</td><td>{data1.Actual}</td><td>{data1.Predicted}</td></tr></>);})}
       </tbody>
     </Table>
     {data==="Wheat"?<>
