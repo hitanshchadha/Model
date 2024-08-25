@@ -200,9 +200,9 @@ function App() {
     //     {data1.map((data1)=>{return(<><tr><td>{data1.DistrictID}</td><td>{data1.DistrictName}</td><td>{data1.Actual}</td><td>{data1.Predicted}</td></tr></>);})}
     //   </tbody>
     // </Table>
-    <DataGrid  columns={columns} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid>
+    <DataGrid className='table1' disableColumnMenu disableColumnSorting disableColumnResize columns={columns} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid>
       :
-       <h1> {error} </h1>
+       <h1 style={{color:'red'}}> {error} </h1>
    :
    <span> <Spinner/> </span>}
     

@@ -58,9 +58,7 @@
   justify-content: space-evenly;
   margin-top: 2rem;
 }
-.table{
-  margin-top: 2rem;
-}
+
 .form{
   margin: 1rem;
   width: 550px;
@@ -92,13 +90,14 @@
   height: auto;
   
 }
-.table{
-max-width: 50%;
-}
 
+.table1{
+  margin-left: 2rem;
+}
 .Map{
   width: 40vw;
   height: 40vw;
+  margin-left: 2rem;
 }
 @media only screen and (max-width: 900px) {
   .sec-2{
@@ -107,9 +106,7 @@ max-width: 50%;
     
     
   }
-  .table{
-    max-width: 90vw;
-  }
+
   .Map{
     margin-top: 2rem;
     margin-left: 2vw;
