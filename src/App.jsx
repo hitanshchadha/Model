@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 import './App.css'
 import Table from 'react-bootstrap/Table';
-
+import { DataGrid } from '@mui/x-data-grid';
 import Form from 'react-bootstrap/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'react-bootstrap';
@@ -22,6 +22,7 @@ import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import dist from "./assets/csvjson.json"
 import Papa from 'papaparse';
+import Spinner from './spinner';
 
 
 
@@ -34,6 +35,8 @@ function App() {
   const [data, setData] = useState("");
   const [data1, setData1] = useState([]);
   const [data2, setData2] = useState();
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, seterror] = useState()
 
   const handleChange = (event,key) => {
     const itemKey = key.key.slice(2); //Removes the .$ from the key.
@@ -64,9 +67,9 @@ function App() {
   }
   
 
-  const call = ()=>{
-    var hi="numbers"
-    axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
+  const call = async()=>{
+    setIsLoading(true)
+    await axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
       'content-type': 'application/json',
    },
 })
@@ -76,15 +79,33 @@ function App() {
     Papa.parse(response.data, {
       complete: (result) => {
           setData1(result.data);
+          setIsLoading(false);
+          seterror(null)
       },
       header: true,
   });
   })
   .catch(function (error) {
-    console.log(error);
+    setIsLoading(false);
+    console.log(error.message);
+    seterror(error.message)
   });
     }
-    
+    const columns = [
+      { field: 'DistrictID', headerName: 'DistrictID', flex:1 },
+      { field: 'DistrictName', headerName: 'DistrictName',flex:1 },
+      { field: 'Actual', headerName: 'Actual' ,flex:1},
+      { field: 'Predicted', headerName: 'Predicted', flex:1 },]
+  
+      function generateRandom() {
+        var length = 8,
+            charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+            retVal = "";
+        for (var i = 0, n = charset.length; i < length; ++i) {
+            retVal += charset.charAt(Math.floor(Math.random() * n));
+        }
+        return retVal;
+    }
   return (
     <>
     
@@ -164,19 +185,27 @@ function App() {
 
 
           <div className="sec-2">
-    <Table className='table' striped bordered hover>
-      <thead>
-        <tr>
-          <th>District ID</th>
-          <th>District Name</th>
-          <th>Actual</th>
-          <th>Predicted</th>
-        </tr>
-      </thead>
-      <tbody>
-        {data1.map((data1)=>{return(<><tr><td>{data1.DistrictID}</td><td>{data1.DistrictName}</td><td>{data1.Actual}</td><td>{data1.Predicted}</td></tr></>);})}
-      </tbody>
-    </Table>
+          {!isLoading ?
+      error===null?
+    //   <Table className='table' striped bordered hover>
+    //   <thead>
+    //     <tr>
+    //       <th>District ID</th>
+    //       <th>District Name</th>
+    //       <th>Actual</th>
+    //       <th>Predicted</th>
+    //     </tr>
+    //   </thead>
+    //   <tbody>
+    //     {data1.map((data1)=>{return(<><tr><td>{data1.DistrictID}</td><td>{data1.DistrictName}</td><td>{data1.Actual}</td><td>{data1.Predicted}</td></tr></>);})}
+    //   </tbody>
+    // </Table>
+    <DataGrid  columns={columns} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid>
+      :
+       <h1> {error} </h1>
+   :
+   <span> <Spinner/> </span>}
+    
     {data==="Wheat"?<>
     <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
     {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
