@@ -66,7 +66,7 @@ function App() {
 
   const call = ()=>{
     var hi="numbers"
-    axios.post("https://cors-anywhere.herokuapp.com/http://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
+    axios.post("http://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
       'content-type': 'application/json',
    },
 })
@@ -97,11 +97,11 @@ function App() {
       </Navbar>
 
     <div className="middle">
-      <img src={hero} className='hero-img' height={300} alt="" />
+      <img src={hero} className='hero-img' alt="" />
       <h2 style={{marginTop:20}}>Make AI in India and Make AI work for India</h2>
       </div>
       <div className='dropdown-container'>
-      <FormControl sx={{ m: 1, width: 300 }}>
+      <FormControl sx={{ m: 1, width: 400 }}>
         <InputLabel>Crop Name</InputLabel>
         <Select
           value={cropName??""}
@@ -127,7 +127,7 @@ function App() {
       
   
 
-    <FormControl sx={{ m: 1, width: 300 }}>
+    <FormControl sx={{ m: 1, width: 400 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
           labelId="demo-multiple-checkbox-label"
@@ -178,12 +178,12 @@ function App() {
       </tbody>
     </Table>
     {data==="Wheat"?<>
-    <iframe title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/" scrolling="no" frameborder="0" style={{"width": 500, "min-width": 100  ,"height":800}}></iframe>
+    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
     {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
     </>
     :<></>}
     {data==="Rice"?<>
-      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/" scrolling="no" frameborder="0" style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/"  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
       </script>
     </>
     :<></>}
