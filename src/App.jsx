@@ -66,7 +66,7 @@ function App() {
 
   const call = ()=>{
     var hi="numbers"
-    axios.post("http://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
+    axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
       'content-type': 'application/json',
    },
 })
