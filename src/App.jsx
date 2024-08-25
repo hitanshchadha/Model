@@ -11,7 +11,7 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import bits from './assets/University_Logo_AllCampuses.png'
-import hero from './assets/Project OverviewOne-Pager Professional Docs Banner in Black White Sleek Monochrome Style.png'
+import hero from './assets/ai_image.png'
 import MultiSelect from 'react-bootstrap-multiselect';
 import OutlinedInput from '@mui/material/OutlinedInput';
 import InputLabel from '@mui/material/InputLabel';
@@ -98,7 +98,7 @@ function App() {
 
     <div className="middle">
       <img src={hero} className='hero-img' height={300} alt="" />
-      <h1 style={{marginTop:20}}>Make AI in India and Make AI work for India</h1>
+      <h2 style={{marginTop:20}}>Make AI in India and Make AI work for India</h2>
       </div>
       <div className='dropdown-container'>
       <FormControl sx={{ m: 1, width: 300 }}>
