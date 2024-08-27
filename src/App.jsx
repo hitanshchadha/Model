@@ -32,7 +32,7 @@ import PerfTable from './assets/Pred-Table.jpg'
 
 
 function App() {
-  const crops = ['Wheat','Rice','Soya']
+  const crops = ['Wheat']
   
  
   const [distName, setdistName] = React.useState([]);
@@ -227,7 +227,7 @@ Model:SaTran <br />
         </Select>
         
       </FormControl>
-      <Button className='search' onClick={call}> Predict Yeild</Button>
+      <Button className='search' onClick={call}> Predict Yield</Button>
       <Button className='search' onClick={()=>{setperf(true)}}> Model Performance</Button>
       </div>
       
@@ -269,8 +269,9 @@ Model:SaTran <br />
     <img src={PerfGraph} alt="" /> </div></>:<></>}
 
     </div>
-    <Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yeild For Last 3 years</Button>
-    {yeild?<><Table className='table' striped bordered hover>
+    <Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button>
+    
+    {yeild?<><h5>Note: Click each Table row in the below Table to get Advisory</h5><Table className='table' striped bordered hover>
       <thead>
         <tr>
           <th>District Name</th>
@@ -278,8 +279,18 @@ Model:SaTran <br />
         </tr>
       </thead>
       <tbody>
-        {distperf.map((distperf)=>{ return(data2[0]==distperf.dist_id?<><tr><td>{distperf.dist}</td><td>{distperf.YieldBuAc}</td></tr>
-          <Button className='search' onClick={()=>{setcomp(distperf.YieldBuAc);setadv(true)}}> Click Here to show Advisory</Button></>:<></>);})}
+        
+        {distperf.map((distperf)=>{ for (let index = 0; index < data2.length; index++) {
+          if(data2[index]==distperf.dist_id){
+            return(<>
+            <tr onClick={()=>{setcomp(distperf.YieldBuAc);setadv(true)}}><td>{distperf.dist}</td><td>{distperf.YieldBuAc}</td></tr>
+            </>);
+          }
+          
+          
+        } 
+      }
+        )}
       </tbody>
     </Table></>:<></>}
     {adv?<>{data1[0].Predicted>comp?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
