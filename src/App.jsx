@@ -21,8 +21,13 @@ import ListItemText from '@mui/material/ListItemText';
 import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import dist from "./assets/csvjson.json"
+import distperf from './assets/csvjson (2).json'
 import Papa from 'papaparse';
 import Spinner from './spinner';
+import PerfGraph from './assets/Pred-Graph.jpg'
+import PerfTable from './assets/Pred-Table.jpg'
+
+
 
 
 
@@ -33,11 +38,15 @@ function App() {
   const [distName, setdistName] = React.useState([]);
   const [cropName, setcropName] = React.useState();
   const [data, setData] = useState("");
-  const [data1, setData1] = useState([]);
-  const [data2, setData2] = useState();
+  const [data1, setData1] = useState([
+  ]);
+  const [data2, setData2] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [error, seterror] = useState()
-
+  const [perf,setperf]=useState(false);
+  const [yeild,setyeild]=useState(false);
+  const [comp,setcomp]=useState();
+  const [adv,setadv]=useState(false);
   const handleChange = (event,key) => {
     const itemKey = key.key.slice(2); //Removes the .$ from the key.
     console.log(itemKey)
@@ -92,8 +101,7 @@ function App() {
   });
     }
     const columns = [
-      { field: 'DistrictID', headerName: 'DistrictID', flex:1 },
-      { field: 'DistrictName', headerName: 'DistrictName',flex:1 },
+      { field: 'DistrictName', headerName: 'District',flex:1 },
       { field: 'Actual', headerName: 'Actual' ,flex:1},
       { field: 'Predicted', headerName: 'Predicted', flex:1 },]
   
@@ -119,7 +127,7 @@ function App() {
 
     <div className="middle">
       <img src={hero} className='hero-img' alt="" />
-      <h2 style={{marginTop:20}}>Make AI in India and Make AI work for India</h2>
+      <h2 style={{marginTop:20}}>Crop Yield Prediction By Foundation Model </h2>
       </div>
       <div className='dropdown-container'>
       <FormControl sx={{ m: 1, width: 400 }}>
@@ -144,10 +152,50 @@ function App() {
           ))}
         </Select>
       </FormControl>
+      <div className='wheat-data' style={{display:'flex', marginTop:'2rem', justifyContent:'space-evenly', alignItems:'center', width:'100vw'}}>
+      
+      {data==="Wheat"?<>
+        <div className='metadata' style={{textAlign:'left'}}>
+    <h1>Metadata</h1>
+    <h5>
+    Region: India ∥ 506 Districts <br />
+
+Satellite: Landsat 8 <br />
+
+Data form: Image Time series <br />
+
+Crops: Wheat & Rice <br />
+
+Duration: <br />
+
+Training: 2014-2018 <br />
+
+Validation: 2019 <br />
+
+Testing: 2020 <br />
+
+Metric: RMSE & MAE <br />
+
+Unit Bu/ac <br />
+
+Model:SaTran <br />
+    </h5>
+    </div>
+
+    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
+    {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+    
+    </>
+    :<></>}</div>
+    {data==="Rice"?<>
+      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/"  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+      </script>
+    </>
+    :<></>}
 
       
   
-
+      <div className='dropdown-2'>
     <FormControl sx={{ m: 1, width: 400 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
@@ -167,6 +215,7 @@ function App() {
                 },
               },
             },
+            PaperProps: { sx: { maxHeight: 200 } },
           }}
         >
           {dist.map((dist) => (
@@ -176,10 +225,13 @@ function App() {
             </MenuItem>
           ))}
         </Select>
+        
       </FormControl>
-
-
-    <Button className='search' onClick={call}> Search</Button>
+      <Button className='search' onClick={call}> Predict Yeild</Button>
+      <Button className='search' onClick={()=>{setperf(true)}}> Model Performance</Button>
+      </div>
+      
+    
     </div>
     
 
@@ -205,22 +257,33 @@ function App() {
        <h1 style={{color:'red'}}> {error} </h1>
    :
    <span> <Spinner/> </span>}
+   
     
-    {data==="Wheat"?<>
-    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
-    {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
-    </>
-    :<></>}
-    {data==="Rice"?<>
-      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/"  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
-      </script>
-    </>
-    :<></>}
+    
     </div>
-    <h1>ADVISORY</h1>
-    <div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
-    }}>
-    <h3>Higher Yield prediction</h3>
+    <div className="sec-3">
+    {perf?<><h1> Model Performance</h1>
+    <div className='Model-perf'  style={
+      {display:'flex', justifyContent:'space-evenly', alignItems:'center', width:'100vw', marginTop:20}
+    }> <img src={PerfTable} alt="" />
+    <img src={PerfGraph} alt="" /> </div></>:<></>}
+
+    </div>
+    <Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yeild For Last 3 years</Button>
+    {yeild?<><Table className='table' striped bordered hover>
+      <thead>
+        <tr>
+          <th>District Name</th>
+          <th>Avg Yeild for Last 3 Years</th>
+        </tr>
+      </thead>
+      <tbody>
+        {distperf.map((distperf)=>{ return(data2[0]==distperf.dist_id?<><tr><td>{distperf.dist}</td><td>{distperf.YieldBuAc}</td></tr>
+          <Button className='search' onClick={()=>{setcomp(distperf.YieldBuAc);setadv(true)}}> Click Here to show Advisory</Button></>:<></>);})}
+      </tbody>
+    </Table></>:<></>}
+    {adv?<>{data1[0].Predicted>comp?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
+    }}><h1>ADVISORY</h1><h3>Higher Yield prediction</h3>
 <b>Expected Conditions:</b> <br /> Our model indicates a higher-than-average yield for your crops this
 season. This could be due to favorable weather conditions, improved farming practices, or
 better seed quality. <br />
@@ -231,8 +294,8 @@ prevent post-harvest losses. Ensure your storage facilities are clean, dry, and 
 ● Market Strategy: Consider the possibility of price fluctuations due to increased supply. <br />
 ● Value Addition: Explore opportunities for value addition, such as processing or
 packaging, to increase your returns from the higher yield. <br />
-</div>
-<h3>Lower Yield Prediction</h3>
+</div></div>:<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
+    }}><h1>ADVISORY</h1><h3>Lower Yield Prediction</h3>
 <b>Expected Conditions:</b> <br /> Our model has predicted a lower-than-average yield this season,
 possibly due to adverse weather conditions, pest infestations, or other factors. <br />
 <b style={{textAlign:'left'}}>Advisory:</b><br />
@@ -244,7 +307,11 @@ already, consider enrolling in the government's crop insurance schemes to protec
 investment. <br />
 ● Efficient Use of Resources: Focus on optimizing the use of water, fertilizers, and
 pesticides to reduce waste and improve efficiency.
-</div>
+</div></div>}</>:<></> }
+   
+    <div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
+    }}>
+    
     </div>
     </>
   )

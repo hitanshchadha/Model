@@ -1,0 +1,2127 @@
+[
+  {
+    "dist_id": 3,
+    "dist": "anantapur",
+    "YieldBuAc": 9.367880777
+  },
+  {
+    "dist_id": 7,
+    "dist": "guntur",
+    "YieldBuAc": 24.83231889
+  },
+  {
+    "dist_id": 9,
+    "dist": "kurnool",
+    "YieldBuAc": 22.30447804
+  },
+  {
+    "dist_id": 11,
+    "dist": "prakasam",
+    "YieldBuAc": 29.73930405
+  },
+  {
+    "dist_id": 12,
+    "dist": "srikakulam",
+    "YieldBuAc": 16.35661723
+  },
+  {
+    "dist_id": 15,
+    "dist": "west godavari",
+    "YieldBuAc": 11.44963206
+  },
+  {
+    "dist_id": 16,
+    "dist": "changlang",
+    "YieldBuAc": 34.20019966
+  },
+  {
+    "dist_id": 17,
+    "dist": "east kameng",
+    "YieldBuAc": 48.62376213
+  },
+  {
+    "dist_id": 18,
+    "dist": "east siang",
+    "YieldBuAc": 39.40457787
+  },
+  {
+    "dist_id": 20,
+    "dist": "lohit",
+    "YieldBuAc": 31.5236623
+  },
+  {
+    "dist_id": 21,
+    "dist": "lower dibang valley",
+    "YieldBuAc": 30.03669709
+  },
+  {
+    "dist_id": 23,
+    "dist": "papum pare",
+    "YieldBuAc": 38.21500571
+  },
+  {
+    "dist_id": 24,
+    "dist": "tawang",
+    "YieldBuAc": 26.02189105
+  },
+  {
+    "dist_id": 25,
+    "dist": "tirap",
+    "YieldBuAc": 50.11072733
+  },
+  {
+    "dist_id": 29,
+    "dist": "west kameng",
+    "YieldBuAc": 21.41229892
+  },
+  {
+    "dist_id": 31,
+    "dist": "barpeta",
+    "YieldBuAc": 17.54618939
+  },
+  {
+    "dist_id": 32,
+    "dist": "bongaigaon",
+    "YieldBuAc": 17.39749287
+  },
+  {
+    "dist_id": 33,
+    "dist": "cachar",
+    "YieldBuAc": 18.14097547
+  },
+  {
+    "dist_id": 34,
+    "dist": "darrang",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 35,
+    "dist": "dhemaji",
+    "YieldBuAc": 6.393950372
+  },
+  {
+    "dist_id": 36,
+    "dist": "dhuburi",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 37,
+    "dist": "dibrugarh",
+    "YieldBuAc": 17.99227895
+  },
+  {
+    "dist_id": 38,
+    "dist": "goalpara",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 39,
+    "dist": "golaghat",
+    "YieldBuAc": 7.137432973
+  },
+  {
+    "dist_id": 40,
+    "dist": "hailakandi",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 41,
+    "dist": "jorhat",
+    "YieldBuAc": 17.99227895
+  },
+  {
+    "dist_id": 42,
+    "dist": "kamrup",
+    "YieldBuAc": 14.57225899
+  },
+  {
+    "dist_id": 43,
+    "dist": "karbi anglong",
+    "YieldBuAc": 18.14097547
+  },
+  {
+    "dist_id": 44,
+    "dist": "karimganj",
+    "YieldBuAc": 20.81751284
+  },
+  {
+    "dist_id": 45,
+    "dist": "kokrajhar",
+    "YieldBuAc": 36.43064747
+  },
+  {
+    "dist_id": 46,
+    "dist": "lakhimpur",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 47,
+    "dist": "marigaon",
+    "YieldBuAc": 17.69488591
+  },
+  {
+    "dist_id": 48,
+    "dist": "nagaon",
+    "YieldBuAc": 16.80270679
+  },
+  {
+    "dist_id": 49,
+    "dist": "nalbari",
+    "YieldBuAc": 17.84358243
+  },
+  {
+    "dist_id": 50,
+    "dist": "north cachar hills",
+    "YieldBuAc": 14.72095551
+  },
+  {
+    "dist_id": 51,
+    "dist": "sibsagar",
+    "YieldBuAc": 15.01834855
+  },
+  {
+    "dist_id": 52,
+    "dist": "sonitpur",
+    "YieldBuAc": 11.89572162
+  },
+  {
+    "dist_id": 53,
+    "dist": "tinsukia",
+    "YieldBuAc": 15.91052767
+  },
+  {
+    "dist_id": 54,
+    "dist": "araria",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 55,
+    "dist": "aurangabad",
+    "YieldBuAc": 16.35661723
+  },
+  {
+    "dist_id": 56,
+    "dist": "banka",
+    "YieldBuAc": 17.84358243
+  },
+  {
+    "dist_id": 57,
+    "dist": "begusarai",
+    "YieldBuAc": 14.57225899
+  },
+  {
+    "dist_id": 59,
+    "dist": "bhagalpur",
+    "YieldBuAc": 17.84358243
+  },
+  {
+    "dist_id": 60,
+    "dist": "bhojpur",
+    "YieldBuAc": 42.08111524
+  },
+  {
+    "dist_id": 61,
+    "dist": "buxar",
+    "YieldBuAc": 30.03669709
+  },
+  {
+    "dist_id": 62,
+    "dist": "darbhanga",
+    "YieldBuAc": 37.17413007
+  },
+  {
+    "dist_id": 63,
+    "dist": "gaya",
+    "YieldBuAc": 17.69488591
+  },
+  {
+    "dist_id": 64,
+    "dist": "gopalganj",
+    "YieldBuAc": 47.73158301
+  },
+  {
+    "dist_id": 65,
+    "dist": "jamui",
+    "YieldBuAc": 27.21146321
+  },
+  {
+    "dist_id": 66,
+    "dist": "jehanabad",
+    "YieldBuAc": 36.28195095
+  },
+  {
+    "dist_id": 67,
+    "dist": "katihar",
+    "YieldBuAc": 49.21854821
+  },
+  {
+    "dist_id": 68,
+    "dist": "khagaria",
+    "YieldBuAc": 44.31156304
+  },
+  {
+    "dist_id": 69,
+    "dist": "kishanganj",
+    "YieldBuAc": 53.23335426
+  },
+  {
+    "dist_id": 70,
+    "dist": "lakhisarai",
+    "YieldBuAc": 36.87673703
+  },
+  {
+    "dist_id": 71,
+    "dist": "madhepura",
+    "YieldBuAc": 46.54201084
+  },
+  {
+    "dist_id": 72,
+    "dist": "madhubani",
+    "YieldBuAc": 23.4940502
+  },
+  {
+    "dist_id": 73,
+    "dist": "munger",
+    "YieldBuAc": 40.29675699
+  },
+  {
+    "dist_id": 74,
+    "dist": "muzaffarpur",
+    "YieldBuAc": 50.11072733
+  },
+  {
+    "dist_id": 75,
+    "dist": "nalanda",
+    "YieldBuAc": 51.44899601
+  },
+  {
+    "dist_id": 76,
+    "dist": "nawada",
+    "YieldBuAc": 49.21854821
+  },
+  {
+    "dist_id": 77,
+    "dist": "pashchim champaran",
+    "YieldBuAc": 40.74284655
+  },
+  {
+    "dist_id": 78,
+    "dist": "patna",
+    "YieldBuAc": 49.96203081
+  },
+  {
+    "dist_id": 79,
+    "dist": "purba champaran",
+    "YieldBuAc": 22.30447804
+  },
+  {
+    "dist_id": 80,
+    "dist": "purnia",
+    "YieldBuAc": 43.2706874
+  },
+  {
+    "dist_id": 81,
+    "dist": "rohtas",
+    "YieldBuAc": 37.32282659
+  },
+  {
+    "dist_id": 82,
+    "dist": "saharsa",
+    "YieldBuAc": 44.60895608
+  },
+  {
+    "dist_id": 83,
+    "dist": "samastipur",
+    "YieldBuAc": 35.38977182
+  },
+  {
+    "dist_id": 84,
+    "dist": "saran",
+    "YieldBuAc": 40.59415003
+  },
+  {
+    "dist_id": 85,
+    "dist": "sheikhpura",
+    "YieldBuAc": 36.72804051
+  },
+  {
+    "dist_id": 86,
+    "dist": "sheohar",
+    "YieldBuAc": 36.57934399
+  },
+  {
+    "dist_id": 87,
+    "dist": "sitamarhi",
+    "YieldBuAc": 41.18893611
+  },
+  {
+    "dist_id": 88,
+    "dist": "siwan",
+    "YieldBuAc": 47.88027953
+  },
+  {
+    "dist_id": 89,
+    "dist": "supaul",
+    "YieldBuAc": 41.33763264
+  },
+  {
+    "dist_id": 90,
+    "dist": "vaishali",
+    "YieldBuAc": 25.57580149
+  },
+  {
+    "dist_id": 91,
+    "dist": "chandigarh",
+    "YieldBuAc": 41.04023959
+  },
+  {
+    "dist_id": 92,
+    "dist": "bastar",
+    "YieldBuAc": 14.42356247
+  },
+  {
+    "dist_id": 93,
+    "dist": "bilaspur",
+    "YieldBuAc": 33.7541101
+  },
+  {
+    "dist_id": 94,
+    "dist": "dantewada",
+    "YieldBuAc": 50.55681689
+  },
+  {
+    "dist_id": 95,
+    "dist": "dhamtari",
+    "YieldBuAc": 38.66109527
+  },
+  {
+    "dist_id": 96,
+    "dist": "durg",
+    "YieldBuAc": 38.80979179
+  },
+  {
+    "dist_id": 97,
+    "dist": "janjgir-champa",
+    "YieldBuAc": 43.41938392
+  },
+  {
+    "dist_id": 98,
+    "dist": "jashpur",
+    "YieldBuAc": 45.64983172
+  },
+  {
+    "dist_id": 99,
+    "dist": "kanker",
+    "YieldBuAc": 17.39749287
+  },
+  {
+    "dist_id": 101,
+    "dist": "korba",
+    "YieldBuAc": 22.45317456
+  },
+  {
+    "dist_id": 102,
+    "dist": "koriya",
+    "YieldBuAc": 33.15932402
+  },
+  {
+    "dist_id": 103,
+    "dist": "mahasamund",
+    "YieldBuAc": 36.57934399
+  },
+  {
+    "dist_id": 104,
+    "dist": "raigarh",
+    "YieldBuAc": 31.37496578
+  },
+  {
+    "dist_id": 105,
+    "dist": "raipur",
+    "YieldBuAc": 28.25233885
+  },
+  {
+    "dist_id": 106,
+    "dist": "raj nandgaon",
+    "YieldBuAc": 24.53492584
+  },
+  {
+    "dist_id": 107,
+    "dist": "surguja",
+    "YieldBuAc": 42.5272048
+  },
+  {
+    "dist_id": 108,
+    "dist": "dadra and nagar haveli",
+    "YieldBuAc": 39.25588135
+  },
+  {
+    "dist_id": 111,
+    "dist": "delhi",
+    "YieldBuAc": 29.29321449
+  },
+  {
+    "dist_id": 114,
+    "dist": "ahmadabad",
+    "YieldBuAc": 37.02543355
+  },
+  {
+    "dist_id": 115,
+    "dist": "amreli",
+    "YieldBuAc": 49.36724473
+  },
+  {
+    "dist_id": 116,
+    "dist": "anand",
+    "YieldBuAc": 42.08111524
+  },
+  {
+    "dist_id": 117,
+    "dist": "banas kantha",
+    "YieldBuAc": 46.09592128
+  },
+  {
+    "dist_id": 118,
+    "dist": "bharuch",
+    "YieldBuAc": 26.31928409
+  },
+  {
+    "dist_id": 119,
+    "dist": "bhavnagar",
+    "YieldBuAc": 38.80979179
+  },
+  {
+    "dist_id": 120,
+    "dist": "dahod",
+    "YieldBuAc": 36.28195095
+  },
+  {
+    "dist_id": 121,
+    "dist": "gandhinagar",
+    "YieldBuAc": 40.29675699
+  },
+  {
+    "dist_id": 123,
+    "dist": "junagadh",
+    "YieldBuAc": 43.86547348
+  },
+  {
+    "dist_id": 124,
+    "dist": "kachchh",
+    "YieldBuAc": 39.40457787
+  },
+  {
+    "dist_id": 125,
+    "dist": "kheda",
+    "YieldBuAc": 39.99936395
+  },
+  {
+    "dist_id": 126,
+    "dist": "mahesana",
+    "YieldBuAc": 16.65401027
+  },
+  {
+    "dist_id": 127,
+    "dist": "narmada",
+    "YieldBuAc": 41.63502568
+  },
+  {
+    "dist_id": 128,
+    "dist": "navsari",
+    "YieldBuAc": 45.20374216
+  },
+  {
+    "dist_id": 129,
+    "dist": "panch mahals",
+    "YieldBuAc": 50.70551341
+  },
+  {
+    "dist_id": 132,
+    "dist": "rajkot",
+    "YieldBuAc": 50.55681689
+  },
+  {
+    "dist_id": 133,
+    "dist": "sabar kantha",
+    "YieldBuAc": 46.39331432
+  },
+  {
+    "dist_id": 134,
+    "dist": "surat",
+    "YieldBuAc": 44.7576526
+  },
+  {
+    "dist_id": 135,
+    "dist": "surendranagar",
+    "YieldBuAc": 17.54618939
+  },
+  {
+    "dist_id": 137,
+    "dist": "vadodara",
+    "YieldBuAc": 38.51239875
+  },
+  {
+    "dist_id": 138,
+    "dist": "valsad",
+    "YieldBuAc": 32.86193098
+  },
+  {
+    "dist_id": 139,
+    "dist": "ambala",
+    "YieldBuAc": 27.65755277
+  },
+  {
+    "dist_id": 139,
+    "dist": "ambala",
+    "YieldBuAc": 39.55327439
+  },
+  {
+    "dist_id": 145,
+    "dist": "jhajjar",
+    "YieldBuAc": 29.73930405
+  },
+  {
+    "dist_id": 149,
+    "dist": "kurukshetra",
+    "YieldBuAc": 40.74284655
+  },
+  {
+    "dist_id": 151,
+    "dist": "panchkula",
+    "YieldBuAc": 33.7541101
+  },
+  {
+    "dist_id": 158,
+    "dist": "bilaspur",
+    "YieldBuAc": 35.09237878
+  },
+  {
+    "dist_id": 159,
+    "dist": "chamba",
+    "YieldBuAc": 45.05504564
+  },
+  {
+    "dist_id": 160,
+    "dist": "hamirpur",
+    "YieldBuAc": 44.16286652
+  },
+  {
+    "dist_id": 161,
+    "dist": "kangra",
+    "YieldBuAc": 44.01417
+  },
+  {
+    "dist_id": 162,
+    "dist": "kinnaur",
+    "YieldBuAc": 43.41938392
+  },
+  {
+    "dist_id": 163,
+    "dist": "kullu",
+    "YieldBuAc": 45.94722476
+  },
+  {
+    "dist_id": 164,
+    "dist": "lahul and spiti",
+    "YieldBuAc": 34.20019966
+  },
+  {
+    "dist_id": 165,
+    "dist": "mandi",
+    "YieldBuAc": 43.56808044
+  },
+  {
+    "dist_id": 166,
+    "dist": "shimla",
+    "YieldBuAc": 47.28549345
+  },
+  {
+    "dist_id": 167,
+    "dist": "sirmaur",
+    "YieldBuAc": 53.67944382
+  },
+  {
+    "dist_id": 168,
+    "dist": "solan",
+    "YieldBuAc": 56.5046777
+  },
+  {
+    "dist_id": 169,
+    "dist": "una",
+    "YieldBuAc": 48.62376213
+  },
+  {
+    "dist_id": 171,
+    "dist": "bagdam",
+    "YieldBuAc": 45.05504564
+  },
+  {
+    "dist_id": 173,
+    "dist": "doda",
+    "YieldBuAc": 11.7470251
+  },
+  {
+    "dist_id": 174,
+    "dist": "jammu",
+    "YieldBuAc": 21.11490588
+  },
+  {
+    "dist_id": 176,
+    "dist": "kathua",
+    "YieldBuAc": 28.40103537
+  },
+  {
+    "dist_id": 179,
+    "dist": "pulwama",
+    "YieldBuAc": 32.41584142
+  },
+  {
+    "dist_id": 180,
+    "dist": "punch",
+    "YieldBuAc": 29.59060753
+  },
+  {
+    "dist_id": 181,
+    "dist": "rajauri",
+    "YieldBuAc": 32.11844838
+  },
+  {
+    "dist_id": 183,
+    "dist": "udhampur",
+    "YieldBuAc": 31.07757274
+  },
+  {
+    "dist_id": 184,
+    "dist": "bokaro",
+    "YieldBuAc": 24.2375328
+  },
+  {
+    "dist_id": 185,
+    "dist": "chatra",
+    "YieldBuAc": 25.27840845
+  },
+  {
+    "dist_id": 186,
+    "dist": "deoghar",
+    "YieldBuAc": 36.72804051
+  },
+  {
+    "dist_id": 187,
+    "dist": "dhanbad",
+    "YieldBuAc": 41.48632916
+  },
+  {
+    "dist_id": 188,
+    "dist": "dumka",
+    "YieldBuAc": 41.04023959
+  },
+  {
+    "dist_id": 189,
+    "dist": "garhwa",
+    "YieldBuAc": 37.76891615
+  },
+  {
+    "dist_id": 190,
+    "dist": "giridih",
+    "YieldBuAc": 39.40457787
+  },
+  {
+    "dist_id": 191,
+    "dist": "godda",
+    "YieldBuAc": 48.92115517
+  },
+  {
+    "dist_id": 192,
+    "dist": "gumla",
+    "YieldBuAc": 48.32636909
+  },
+  {
+    "dist_id": 193,
+    "dist": "hazaribag",
+    "YieldBuAc": 30.7801797
+  },
+  {
+    "dist_id": 194,
+    "dist": "jamtara",
+    "YieldBuAc": 37.17413007
+  },
+  {
+    "dist_id": 195,
+    "dist": "koderma",
+    "YieldBuAc": 46.83940389
+  },
+  {
+    "dist_id": 196,
+    "dist": "latehar",
+    "YieldBuAc": 52.63856818
+  },
+  {
+    "dist_id": 197,
+    "dist": "lohardaga",
+    "YieldBuAc": 37.62021963
+  },
+  {
+    "dist_id": 198,
+    "dist": "pakur",
+    "YieldBuAc": 46.98810041
+  },
+  {
+    "dist_id": 199,
+    "dist": "palamu",
+    "YieldBuAc": 26.61667713
+  },
+  {
+    "dist_id": 202,
+    "dist": "ranchi",
+    "YieldBuAc": 30.03669709
+  },
+  {
+    "dist_id": 203,
+    "dist": "sahibganj",
+    "YieldBuAc": 41.48632916
+  },
+  {
+    "dist_id": 204,
+    "dist": "saraikela kharsawan",
+    "YieldBuAc": 45.64983172
+  },
+  {
+    "dist_id": 205,
+    "dist": "simdega",
+    "YieldBuAc": 41.18893611
+  },
+  {
+    "dist_id": 206,
+    "dist": "bagalkot",
+    "YieldBuAc": 29.44191101
+  },
+  {
+    "dist_id": 207,
+    "dist": "bangalore rural",
+    "YieldBuAc": 38.80979179
+  },
+  {
+    "dist_id": 208,
+    "dist": "bangalore urban",
+    "YieldBuAc": 18.14097547
+  },
+  {
+    "dist_id": 209,
+    "dist": "belgaum",
+    "YieldBuAc": 35.53846834
+  },
+  {
+    "dist_id": 210,
+    "dist": "bellary",
+    "YieldBuAc": 33.0106275
+  },
+  {
+    "dist_id": 211,
+    "dist": "bidar",
+    "YieldBuAc": 34.05150314
+  },
+  {
+    "dist_id": 212,
+    "dist": "bijapur",
+    "YieldBuAc": 40.89154307
+  },
+  {
+    "dist_id": 213,
+    "dist": "chamrajnagar",
+    "YieldBuAc": 42.82459784
+  },
+  {
+    "dist_id": 214,
+    "dist": "chikmagalur",
+    "YieldBuAc": 44.90634912
+  },
+  {
+    "dist_id": 215,
+    "dist": "chitradurga",
+    "YieldBuAc": 41.7837222
+  },
+  {
+    "dist_id": 217,
+    "dist": "davanagere",
+    "YieldBuAc": 35.68716486
+  },
+  {
+    "dist_id": 218,
+    "dist": "dharwad",
+    "YieldBuAc": 49.36724473
+  },
+  {
+    "dist_id": 219,
+    "dist": "gadag",
+    "YieldBuAc": 53.82814034
+  },
+  {
+    "dist_id": 220,
+    "dist": "gulbarga",
+    "YieldBuAc": 52.04378209
+  },
+  {
+    "dist_id": 221,
+    "dist": "hassan",
+    "YieldBuAc": 49.06985169
+  },
+  {
+    "dist_id": 222,
+    "dist": "haveri",
+    "YieldBuAc": 51.15160297
+  },
+  {
+    "dist_id": 223,
+    "dist": "kodagu",
+    "YieldBuAc": 10.11136338
+  },
+  {
+    "dist_id": 224,
+    "dist": "kolar",
+    "YieldBuAc": 16.35661723
+  },
+  {
+    "dist_id": 225,
+    "dist": "koppal",
+    "YieldBuAc": 35.98455791
+  },
+  {
+    "dist_id": 226,
+    "dist": "mandya",
+    "YieldBuAc": 36.28195095
+  },
+  {
+    "dist_id": 227,
+    "dist": "mysore",
+    "YieldBuAc": 37.76891615
+  },
+  {
+    "dist_id": 228,
+    "dist": "raichur",
+    "YieldBuAc": 31.37496578
+  },
+  {
+    "dist_id": 229,
+    "dist": "shimoga",
+    "YieldBuAc": 38.06630919
+  },
+  {
+    "dist_id": 230,
+    "dist": "tumkur",
+    "YieldBuAc": 8.921791216
+  },
+  {
+    "dist_id": 231,
+    "dist": "udupi",
+    "YieldBuAc": 51.74638905
+  },
+  {
+    "dist_id": 248,
+    "dist": "anuppur",
+    "YieldBuAc": 36.13325443
+  },
+  {
+    "dist_id": 249,
+    "dist": "ashoknagar",
+    "YieldBuAc": 36.57934399
+  },
+  {
+    "dist_id": 250,
+    "dist": "balaghat",
+    "YieldBuAc": 48.32636909
+  },
+  {
+    "dist_id": 251,
+    "dist": "barwani",
+    "YieldBuAc": 36.72804051
+  },
+  {
+    "dist_id": 252,
+    "dist": "betul",
+    "YieldBuAc": 30.7801797
+  },
+  {
+    "dist_id": 254,
+    "dist": "bhopal",
+    "YieldBuAc": 33.30802054
+  },
+  {
+    "dist_id": 255,
+    "dist": "burhanpur",
+    "YieldBuAc": 48.77245865
+  },
+  {
+    "dist_id": 256,
+    "dist": "chhatarpur",
+    "YieldBuAc": 49.81333429
+  },
+  {
+    "dist_id": 257,
+    "dist": "chhindwara",
+    "YieldBuAc": 54.72031946
+  },
+  {
+    "dist_id": 258,
+    "dist": "damoh",
+    "YieldBuAc": 45.94722476
+  },
+  {
+    "dist_id": 259,
+    "dist": "datia",
+    "YieldBuAc": 52.93596122
+  },
+  {
+    "dist_id": 260,
+    "dist": "dewas",
+    "YieldBuAc": 32.86193098
+  },
+  {
+    "dist_id": 261,
+    "dist": "dhar",
+    "YieldBuAc": 30.92887622
+  },
+  {
+    "dist_id": 262,
+    "dist": "dindori",
+    "YieldBuAc": 39.70197091
+  },
+  {
+    "dist_id": 264,
+    "dist": "guna",
+    "YieldBuAc": 42.37850828
+  },
+  {
+    "dist_id": 265,
+    "dist": "gwalior",
+    "YieldBuAc": 38.06630919
+  },
+  {
+    "dist_id": 266,
+    "dist": "harda",
+    "YieldBuAc": 29.59060753
+  },
+  {
+    "dist_id": 267,
+    "dist": "hoshangabad",
+    "YieldBuAc": 35.53846834
+  },
+  {
+    "dist_id": 268,
+    "dist": "indore",
+    "YieldBuAc": 31.07757274
+  },
+  {
+    "dist_id": 269,
+    "dist": "jabalpur",
+    "YieldBuAc": 34.34889618
+  },
+  {
+    "dist_id": 270,
+    "dist": "jhabua",
+    "YieldBuAc": 55.7611951
+  },
+  {
+    "dist_id": 271,
+    "dist": "katni",
+    "YieldBuAc": 53.82814034
+  },
+  {
+    "dist_id": 272,
+    "dist": "mandla",
+    "YieldBuAc": 53.5307473
+  },
+  {
+    "dist_id": 273,
+    "dist": "mandsaur",
+    "YieldBuAc": 47.28549345
+  },
+  {
+    "dist_id": 275,
+    "dist": "narsinghpur",
+    "YieldBuAc": 50.40812037
+  },
+  {
+    "dist_id": 276,
+    "dist": "neemuch",
+    "YieldBuAc": 30.03669709
+  },
+  {
+    "dist_id": 277,
+    "dist": "panna",
+    "YieldBuAc": 31.22626926
+  },
+  {
+    "dist_id": 278,
+    "dist": "raisen",
+    "YieldBuAc": 51.74638905
+  },
+  {
+    "dist_id": 279,
+    "dist": "rajgarh",
+    "YieldBuAc": 46.69070736
+  },
+  {
+    "dist_id": 280,
+    "dist": "ratlam",
+    "YieldBuAc": 42.37850828
+  },
+  {
+    "dist_id": 281,
+    "dist": "rewa",
+    "YieldBuAc": 53.67944382
+  },
+  {
+    "dist_id": 282,
+    "dist": "sagar",
+    "YieldBuAc": 32.56453794
+  },
+  {
+    "dist_id": 283,
+    "dist": "satna",
+    "YieldBuAc": 37.17413007
+  },
+  {
+    "dist_id": 284,
+    "dist": "sehore",
+    "YieldBuAc": 34.94368226
+  },
+  {
+    "dist_id": 285,
+    "dist": "seoni",
+    "YieldBuAc": 41.18893611
+  },
+  {
+    "dist_id": 286,
+    "dist": "shahdol",
+    "YieldBuAc": 32.71323446
+  },
+  {
+    "dist_id": 287,
+    "dist": "shajapur",
+    "YieldBuAc": 25.87319453
+  },
+  {
+    "dist_id": 288,
+    "dist": "sheopur",
+    "YieldBuAc": 31.96975186
+  },
+  {
+    "dist_id": 289,
+    "dist": "shivpuri",
+    "YieldBuAc": 20.5201198
+  },
+  {
+    "dist_id": 290,
+    "dist": "sidhi",
+    "YieldBuAc": 25.87319453
+  },
+  {
+    "dist_id": 291,
+    "dist": "tikamgarh",
+    "YieldBuAc": 36.13325443
+  },
+  {
+    "dist_id": 292,
+    "dist": "ujjain",
+    "YieldBuAc": 45.79852824
+  },
+  {
+    "dist_id": 293,
+    "dist": "umaria",
+    "YieldBuAc": 34.34889618
+  },
+  {
+    "dist_id": 294,
+    "dist": "vidisha",
+    "YieldBuAc": 38.21500571
+  },
+  {
+    "dist_id": 296,
+    "dist": "ahmednagar",
+    "YieldBuAc": 12.93659726
+  },
+  {
+    "dist_id": 297,
+    "dist": "akola",
+    "YieldBuAc": 47.88027953
+  },
+  {
+    "dist_id": 298,
+    "dist": "amravati",
+    "YieldBuAc": 46.39331432
+  },
+  {
+    "dist_id": 299,
+    "dist": "aurangabad",
+    "YieldBuAc": 43.86547348
+  },
+  {
+    "dist_id": 301,
+    "dist": "bid",
+    "YieldBuAc": 53.97683686
+  },
+  {
+    "dist_id": 302,
+    "dist": "buldana",
+    "YieldBuAc": 45.35243868
+  },
+  {
+    "dist_id": 303,
+    "dist": "chandrapur",
+    "YieldBuAc": 41.63502568
+  },
+  {
+    "dist_id": 304,
+    "dist": "dhule",
+    "YieldBuAc": 28.25233885
+  },
+  {
+    "dist_id": 305,
+    "dist": "garhchiroli",
+    "YieldBuAc": 29.88800057
+  },
+  {
+    "dist_id": 306,
+    "dist": "gondiya",
+    "YieldBuAc": 43.41938392
+  },
+  {
+    "dist_id": 308,
+    "dist": "hingoli",
+    "YieldBuAc": 43.12199088
+  },
+  {
+    "dist_id": 309,
+    "dist": "jalgaon",
+    "YieldBuAc": 45.35243868
+  },
+  {
+    "dist_id": 310,
+    "dist": "jalna",
+    "YieldBuAc": 30.7801797
+  },
+  {
+    "dist_id": 311,
+    "dist": "kolhapur",
+    "YieldBuAc": 44.7576526
+  },
+  {
+    "dist_id": 312,
+    "dist": "latur",
+    "YieldBuAc": 23.4940502
+  },
+  {
+    "dist_id": 313,
+    "dist": "nagpur",
+    "YieldBuAc": 26.31928409
+  },
+  {
+    "dist_id": 314,
+    "dist": "nanded",
+    "YieldBuAc": 29.29321449
+  },
+  {
+    "dist_id": 315,
+    "dist": "nandurbar",
+    "YieldBuAc": 35.68716486
+  },
+  {
+    "dist_id": 316,
+    "dist": "nashik",
+    "YieldBuAc": 36.72804051
+  },
+  {
+    "dist_id": 317,
+    "dist": "osmanabad",
+    "YieldBuAc": 37.62021963
+  },
+  {
+    "dist_id": 318,
+    "dist": "parbhani",
+    "YieldBuAc": 41.93241872
+  },
+  {
+    "dist_id": 319,
+    "dist": "pune",
+    "YieldBuAc": 31.07757274
+  },
+  {
+    "dist_id": 322,
+    "dist": "sangli",
+    "YieldBuAc": 27.50885625
+  },
+  {
+    "dist_id": 323,
+    "dist": "satara",
+    "YieldBuAc": 49.51594125
+  },
+  {
+    "dist_id": 325,
+    "dist": "solapur",
+    "YieldBuAc": 48.47506561
+  },
+  {
+    "dist_id": 327,
+    "dist": "wardha",
+    "YieldBuAc": 41.18893611
+  },
+  {
+    "dist_id": 328,
+    "dist": "washim",
+    "YieldBuAc": 42.5272048
+  },
+  {
+    "dist_id": 329,
+    "dist": "yavatmal",
+    "YieldBuAc": 50.25942385
+  },
+  {
+    "dist_id": 330,
+    "dist": "bishnupur",
+    "YieldBuAc": 67.65691672
+  },
+  {
+    "dist_id": 331,
+    "dist": "chandel",
+    "YieldBuAc": 68.40039932
+  },
+  {
+    "dist_id": 332,
+    "dist": "churachandpur",
+    "YieldBuAc": 69.88736453
+  },
+  {
+    "dist_id": 333,
+    "dist": "east imphal",
+    "YieldBuAc": 74.34826014
+  },
+  {
+    "dist_id": 334,
+    "dist": "senapati",
+    "YieldBuAc": 66.91343412
+  },
+  {
+    "dist_id": 335,
+    "dist": "tamenglong",
+    "YieldBuAc": 34.79498574
+  },
+  {
+    "dist_id": 336,
+    "dist": "thoubal",
+    "YieldBuAc": 36.87673703
+  },
+  {
+    "dist_id": 337,
+    "dist": "ukhrul",
+    "YieldBuAc": 28.99582145
+  },
+  {
+    "dist_id": 338,
+    "dist": "west imphal",
+    "YieldBuAc": 34.4975927
+  },
+  {
+    "dist_id": 339,
+    "dist": "east garo hills",
+    "YieldBuAc": 25.42710497
+  },
+  {
+    "dist_id": 345,
+    "dist": "west khasi hills",
+    "YieldBuAc": 32.71323446
+  },
+  {
+    "dist_id": 354,
+    "dist": "dimapur",
+    "YieldBuAc": 23.79144324
+  },
+  {
+    "dist_id": 355,
+    "dist": "kohima",
+    "YieldBuAc": 22.15578152
+  },
+  {
+    "dist_id": 356,
+    "dist": "mokokchung",
+    "YieldBuAc": 23.94013976
+  },
+  {
+    "dist_id": 357,
+    "dist": "mon",
+    "YieldBuAc": 21.85838848
+  },
+  {
+    "dist_id": 358,
+    "dist": "phek",
+    "YieldBuAc": 26.17058757
+  },
+  {
+    "dist_id": 359,
+    "dist": "tuensang",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 360,
+    "dist": "wokha",
+    "YieldBuAc": 23.19665716
+  },
+  {
+    "dist_id": 361,
+    "dist": "zunheboto",
+    "YieldBuAc": 35.68716486
+  },
+  {
+    "dist_id": 363,
+    "dist": "baleshwar",
+    "YieldBuAc": 23.79144324
+  },
+  {
+    "dist_id": 372,
+    "dist": "ganjam",
+    "YieldBuAc": 29.73930405
+  },
+  {
+    "dist_id": 376,
+    "dist": "kalahandi",
+    "YieldBuAc": 16.35661723
+  },
+  {
+    "dist_id": 379,
+    "dist": "keonjhar",
+    "YieldBuAc": 18.58706503
+  },
+  {
+    "dist_id": 381,
+    "dist": "koraput",
+    "YieldBuAc": 22.30447804
+  },
+  {
+    "dist_id": 383,
+    "dist": "mayurbhanj",
+    "YieldBuAc": 32.71323446
+  },
+  {
+    "dist_id": 389,
+    "dist": "sambalpur",
+    "YieldBuAc": 26.17058757
+  },
+  {
+    "dist_id": 391,
+    "dist": "sundargarh",
+    "YieldBuAc": 22.7505676
+  },
+  {
+    "dist_id": 396,
+    "dist": "amritsar",
+    "YieldBuAc": 22.007085
+  },
+  {
+    "dist_id": 399,
+    "dist": "fatehgarh sahib",
+    "YieldBuAc": 22.89926412
+  },
+  {
+    "dist_id": 401,
+    "dist": "gurdaspur",
+    "YieldBuAc": 27.21146321
+  },
+  {
+    "dist_id": 402,
+    "dist": "hoshiarpur",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 403,
+    "dist": "jalandhar",
+    "YieldBuAc": 24.2375328
+  },
+  {
+    "dist_id": 404,
+    "dist": "kapurthala",
+    "YieldBuAc": 17.24879635
+  },
+  {
+    "dist_id": 405,
+    "dist": "ludhiana",
+    "YieldBuAc": 19.62794068
+  },
+  {
+    "dist_id": 406,
+    "dist": "mansa",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 407,
+    "dist": "moga",
+    "YieldBuAc": 15.16704507
+  },
+  {
+    "dist_id": 409,
+    "dist": "nawan shehar",
+    "YieldBuAc": 19.92533372
+  },
+  {
+    "dist_id": 410,
+    "dist": "patiala",
+    "YieldBuAc": 13.97747291
+  },
+  {
+    "dist_id": 411,
+    "dist": "rupnagar",
+    "YieldBuAc": 22.007085
+  },
+  {
+    "dist_id": 412,
+    "dist": "sangrur",
+    "YieldBuAc": 25.42710497
+  },
+  {
+    "dist_id": 413,
+    "dist": "ajmer",
+    "YieldBuAc": 27.21146321
+  },
+  {
+    "dist_id": 414,
+    "dist": "alwar",
+    "YieldBuAc": 28.10364233
+  },
+  {
+    "dist_id": 415,
+    "dist": "banswara",
+    "YieldBuAc": 26.91407017
+  },
+  {
+    "dist_id": 416,
+    "dist": "baran",
+    "YieldBuAc": 32.56453794
+  },
+  {
+    "dist_id": 417,
+    "dist": "barmer",
+    "YieldBuAc": 22.89926412
+  },
+  {
+    "dist_id": 418,
+    "dist": "bharatpur",
+    "YieldBuAc": 36.28195095
+  },
+  {
+    "dist_id": 419,
+    "dist": "bhilwara",
+    "YieldBuAc": 27.80624929
+  },
+  {
+    "dist_id": 421,
+    "dist": "bundi",
+    "YieldBuAc": 19.33054764
+  },
+  {
+    "dist_id": 422,
+    "dist": "chittaurgarh",
+    "YieldBuAc": 24.2375328
+  },
+  {
+    "dist_id": 424,
+    "dist": "dausa",
+    "YieldBuAc": 24.08883628
+  },
+  {
+    "dist_id": 426,
+    "dist": "dungarpur",
+    "YieldBuAc": 29.73930405
+  },
+  {
+    "dist_id": 427,
+    "dist": "ganganagar",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 428,
+    "dist": "hanumangarh",
+    "YieldBuAc": 24.38622932
+  },
+  {
+    "dist_id": 429,
+    "dist": "jaipur",
+    "YieldBuAc": 34.64628922
+  },
+  {
+    "dist_id": 431,
+    "dist": "jalor",
+    "YieldBuAc": 27.65755277
+  },
+  {
+    "dist_id": 432,
+    "dist": "jhalawar",
+    "YieldBuAc": 32.2671449
+  },
+  {
+    "dist_id": 434,
+    "dist": "jodhpur",
+    "YieldBuAc": 23.34535368
+  },
+  {
+    "dist_id": 435,
+    "dist": "karauli",
+    "YieldBuAc": 29.14451797
+  },
+  {
+    "dist_id": 436,
+    "dist": "kota",
+    "YieldBuAc": 20.37142328
+  },
+  {
+    "dist_id": 437,
+    "dist": "nagaur",
+    "YieldBuAc": 24.83231889
+  },
+  {
+    "dist_id": 438,
+    "dist": "pali",
+    "YieldBuAc": 21.11490588
+  },
+  {
+    "dist_id": 439,
+    "dist": "rajsamand",
+    "YieldBuAc": 13.38268682
+  },
+  {
+    "dist_id": 440,
+    "dist": "sawai madhopur",
+    "YieldBuAc": 17.54618939
+  },
+  {
+    "dist_id": 441,
+    "dist": "sikar",
+    "YieldBuAc": 17.10009983
+  },
+  {
+    "dist_id": 442,
+    "dist": "sirohi",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 443,
+    "dist": "tonk",
+    "YieldBuAc": 19.18185111
+  },
+  {
+    "dist_id": 444,
+    "dist": "udaipur",
+    "YieldBuAc": 17.39749287
+  },
+  {
+    "dist_id": 479,
+    "dist": "adilabad",
+    "YieldBuAc": 23.94013976
+  },
+  {
+    "dist_id": 481,
+    "dist": "karimnagar",
+    "YieldBuAc": 13.97747291
+  },
+  {
+    "dist_id": 483,
+    "dist": "mahbubnagar",
+    "YieldBuAc": 19.7766372
+  },
+  {
+    "dist_id": 484,
+    "dist": "medak",
+    "YieldBuAc": 18.43836851
+  },
+  {
+    "dist_id": 485,
+    "dist": "nalgonda",
+    "YieldBuAc": 21.85838848
+  },
+  {
+    "dist_id": 486,
+    "dist": "nizamabad",
+    "YieldBuAc": 17.99227895
+  },
+  {
+    "dist_id": 487,
+    "dist": "rangareddi",
+    "YieldBuAc": 19.92533372
+  },
+  {
+    "dist_id": 488,
+    "dist": "warangal",
+    "YieldBuAc": 29.29321449
+  },
+  {
+    "dist_id": 489,
+    "dist": "dhalai",
+    "YieldBuAc": 25.57580149
+  },
+  {
+    "dist_id": 490,
+    "dist": "north tripura",
+    "YieldBuAc": 25.87319453
+  },
+  {
+    "dist_id": 491,
+    "dist": "south tripura",
+    "YieldBuAc": 28.99582145
+  },
+  {
+    "dist_id": 492,
+    "dist": "west tripura",
+    "YieldBuAc": 18.88445807
+  },
+  {
+    "dist_id": 493,
+    "dist": "agra",
+    "YieldBuAc": 32.2671449
+  },
+  {
+    "dist_id": 494,
+    "dist": "aligarh",
+    "YieldBuAc": 28.10364233
+  },
+  {
+    "dist_id": 495,
+    "dist": "allahabad",
+    "YieldBuAc": 28.54973189
+  },
+  {
+    "dist_id": 496,
+    "dist": "ambedkar nagar",
+    "YieldBuAc": 26.17058757
+  },
+  {
+    "dist_id": 497,
+    "dist": "auraiya",
+    "YieldBuAc": 31.07757274
+  },
+  {
+    "dist_id": 498,
+    "dist": "azamgarh",
+    "YieldBuAc": 22.89926412
+  },
+  {
+    "dist_id": 500,
+    "dist": "baghpat",
+    "YieldBuAc": 29.88800057
+  },
+  {
+    "dist_id": 501,
+    "dist": "bahraich",
+    "YieldBuAc": 30.33409014
+  },
+  {
+    "dist_id": 502,
+    "dist": "ballia",
+    "YieldBuAc": 28.54973189
+  },
+  {
+    "dist_id": 503,
+    "dist": "balrampur",
+    "YieldBuAc": 31.22626926
+  },
+  {
+    "dist_id": 504,
+    "dist": "banda",
+    "YieldBuAc": 25.57580149
+  },
+  {
+    "dist_id": 505,
+    "dist": "bara banki",
+    "YieldBuAc": 23.64274672
+  },
+  {
+    "dist_id": 506,
+    "dist": "bareilly",
+    "YieldBuAc": 33.30802054
+  },
+  {
+    "dist_id": 507,
+    "dist": "basti",
+    "YieldBuAc": 17.99227895
+  },
+  {
+    "dist_id": 508,
+    "dist": "bijnor",
+    "YieldBuAc": 16.95140331
+  },
+  {
+    "dist_id": 509,
+    "dist": "bulandshahr",
+    "YieldBuAc": 19.18185111
+  },
+  {
+    "dist_id": 510,
+    "dist": "chandauli",
+    "YieldBuAc": 20.5201198
+  },
+  {
+    "dist_id": 511,
+    "dist": "chitrakoot",
+    "YieldBuAc": 24.38622932
+  },
+  {
+    "dist_id": 512,
+    "dist": "deoria",
+    "YieldBuAc": 14.57225899
+  },
+  {
+    "dist_id": 513,
+    "dist": "etah",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 514,
+    "dist": "etawah",
+    "YieldBuAc": 27.21146321
+  },
+  {
+    "dist_id": 515,
+    "dist": "faizabad",
+    "YieldBuAc": 21.2636024
+  },
+  {
+    "dist_id": 516,
+    "dist": "farrukhabad",
+    "YieldBuAc": 21.11490588
+  },
+  {
+    "dist_id": 517,
+    "dist": "fatehpur",
+    "YieldBuAc": 22.60187108
+  },
+  {
+    "dist_id": 518,
+    "dist": "firozabad",
+    "YieldBuAc": 26.76537365
+  },
+  {
+    "dist_id": 519,
+    "dist": "gautam buddha nagar",
+    "YieldBuAc": 19.03315459
+  },
+  {
+    "dist_id": 520,
+    "dist": "ghaziabad",
+    "YieldBuAc": 35.09237878
+  },
+  {
+    "dist_id": 521,
+    "dist": "ghazipur",
+    "YieldBuAc": 34.20019966
+  },
+  {
+    "dist_id": 522,
+    "dist": "gonda",
+    "YieldBuAc": 35.68716486
+  },
+  {
+    "dist_id": 523,
+    "dist": "gorakhpur",
+    "YieldBuAc": 65.72386196
+  },
+  {
+    "dist_id": 524,
+    "dist": "hamirpur",
+    "YieldBuAc": 65.12907588
+  },
+  {
+    "dist_id": 525,
+    "dist": "hardoi",
+    "YieldBuAc": 66.021255
+  },
+  {
+    "dist_id": 526,
+    "dist": "hathras",
+    "YieldBuAc": 63.04732459
+  },
+  {
+    "dist_id": 527,
+    "dist": "jalaun",
+    "YieldBuAc": 64.08820024
+  },
+  {
+    "dist_id": 528,
+    "dist": "jaunpur",
+    "YieldBuAc": 28.99582145
+  },
+  {
+    "dist_id": 529,
+    "dist": "jhansi",
+    "YieldBuAc": 35.68716486
+  },
+  {
+    "dist_id": 531,
+    "dist": "kannauj",
+    "YieldBuAc": 33.45671706
+  },
+  {
+    "dist_id": 532,
+    "dist": "kanpur dehat",
+    "YieldBuAc": 32.11844838
+  },
+  {
+    "dist_id": 534,
+    "dist": "kaushambi",
+    "YieldBuAc": 38.21500571
+  },
+  {
+    "dist_id": 535,
+    "dist": "kushinagar",
+    "YieldBuAc": 39.99936395
+  },
+  {
+    "dist_id": 537,
+    "dist": "lalitpur",
+    "YieldBuAc": 38.80979179
+  },
+  {
+    "dist_id": 538,
+    "dist": "lucknow",
+    "YieldBuAc": 49.81333429
+  },
+  {
+    "dist_id": 539,
+    "dist": "maharajganj",
+    "YieldBuAc": 46.2446178
+  },
+  {
+    "dist_id": 540,
+    "dist": "mahoba",
+    "YieldBuAc": 50.70551341
+  },
+  {
+    "dist_id": 541,
+    "dist": "mainpuri",
+    "YieldBuAc": 57.09946378
+  },
+  {
+    "dist_id": 542,
+    "dist": "mathura",
+    "YieldBuAc": 60.22209071
+  },
+  {
+    "dist_id": 543,
+    "dist": "mau",
+    "YieldBuAc": 55.16640902
+  },
+  {
+    "dist_id": 544,
+    "dist": "meerut",
+    "YieldBuAc": 42.22981176
+  },
+  {
+    "dist_id": 545,
+    "dist": "mirzapur",
+    "YieldBuAc": 45.20374216
+  },
+  {
+    "dist_id": 546,
+    "dist": "moradabad",
+    "YieldBuAc": 47.43418997
+  },
+  {
+    "dist_id": 547,
+    "dist": "muzaffarnagar",
+    "YieldBuAc": 44.90634912
+  },
+  {
+    "dist_id": 548,
+    "dist": "pilibhit",
+    "YieldBuAc": 45.64983172
+  },
+  {
+    "dist_id": 549,
+    "dist": "pratapgarh",
+    "YieldBuAc": 46.09592128
+  },
+  {
+    "dist_id": 550,
+    "dist": "rae bareli",
+    "YieldBuAc": 44.46025956
+  },
+  {
+    "dist_id": 551,
+    "dist": "rampur",
+    "YieldBuAc": 46.09592128
+  },
+  {
+    "dist_id": 552,
+    "dist": "saharanpur",
+    "YieldBuAc": 44.01417
+  },
+  {
+    "dist_id": 553,
+    "dist": "sant kabir nagar",
+    "YieldBuAc": 44.46025956
+  },
+  {
+    "dist_id": 554,
+    "dist": "sant ravi das nagar",
+    "YieldBuAc": 45.05504564
+  },
+  {
+    "dist_id": 555,
+    "dist": "shahjahanpur",
+    "YieldBuAc": 46.69070736
+  },
+  {
+    "dist_id": 556,
+    "dist": "shravasti",
+    "YieldBuAc": 23.94013976
+  },
+  {
+    "dist_id": 557,
+    "dist": "siddharth nagar",
+    "YieldBuAc": 26.31928409
+  },
+  {
+    "dist_id": 558,
+    "dist": "sitapur",
+    "YieldBuAc": 21.11490588
+  },
+  {
+    "dist_id": 559,
+    "dist": "sonbhadra",
+    "YieldBuAc": 28.25233885
+  },
+  {
+    "dist_id": 560,
+    "dist": "sultanpur",
+    "YieldBuAc": 28.54973189
+  },
+  {
+    "dist_id": 561,
+    "dist": "unnao",
+    "YieldBuAc": 29.59060753
+  },
+  {
+    "dist_id": 562,
+    "dist": "varanasi",
+    "YieldBuAc": 29.14451797
+  },
+  {
+    "dist_id": 563,
+    "dist": "almora",
+    "YieldBuAc": 42.67590132
+  },
+  {
+    "dist_id": 564,
+    "dist": "bageshwar",
+    "YieldBuAc": 46.98810041
+  },
+  {
+    "dist_id": 565,
+    "dist": "chamoli",
+    "YieldBuAc": 47.88027953
+  },
+  {
+    "dist_id": 566,
+    "dist": "champawat",
+    "YieldBuAc": 48.17767257
+  },
+  {
+    "dist_id": 567,
+    "dist": "dehra dun",
+    "YieldBuAc": 46.2446178
+  },
+  {
+    "dist_id": 568,
+    "dist": "haridwar",
+    "YieldBuAc": 49.21854821
+  },
+  {
+    "dist_id": 569,
+    "dist": "naini tal",
+    "YieldBuAc": 48.02897605
+  },
+  {
+    "dist_id": 570,
+    "dist": "pauri garhwal",
+    "YieldBuAc": 28.25233885
+  },
+  {
+    "dist_id": 571,
+    "dist": "pithoragarh",
+    "YieldBuAc": 22.45317456
+  },
+  {
+    "dist_id": 572,
+    "dist": "rudra prayag",
+    "YieldBuAc": 25.72449801
+  },
+  {
+    "dist_id": 573,
+    "dist": "tehri garhwal",
+    "YieldBuAc": 36.43064747
+  },
+  {
+    "dist_id": 574,
+    "dist": "udham singh nagar",
+    "YieldBuAc": 35.98455791
+  },
+  {
+    "dist_id": 575,
+    "dist": "uttarkashi",
+    "YieldBuAc": 31.82105534
+  },
+  {
+    "dist_id": 576,
+    "dist": "bankura",
+    "YieldBuAc": 35.38977182
+  },
+  {
+    "dist_id": 578,
+    "dist": "birbhum",
+    "YieldBuAc": 52.04378209
+  },
+  {
+    "dist_id": 580,
+    "dist": "darjiling",
+    "YieldBuAc": 48.92115517
+  },
+  {
+    "dist_id": 581,
+    "dist": "east midnapore",
+    "YieldBuAc": 49.51594125
+  },
+  {
+    "dist_id": 582,
+    "dist": "haora",
+    "YieldBuAc": 51.89508557
+  },
+  {
+    "dist_id": 583,
+    "dist": "hugli",
+    "YieldBuAc": 52.48987166
+  },
+  {
+    "dist_id": 584,
+    "dist": "jalpaiguri",
+    "YieldBuAc": 61.85775243
+  },
+  {
+    "dist_id": 587,
+    "dist": "maldah",
+    "YieldBuAc": 55.16640902
+  },
+  {
+    "dist_id": 588,
+    "dist": "murshidabad",
+    "YieldBuAc": 52.7872647
+  },
+  {
+    "dist_id": 589,
+    "dist": "nadia",
+    "YieldBuAc": 56.80207074
+  },
+  {
+    "dist_id": 591,
+    "dist": "puruliya",
+    "YieldBuAc": 67.80561324
+  },
+  {
+    "dist_id": 594,
+    "dist": "west midnapore",
+    "YieldBuAc": 70.92824017
+  }
+]
