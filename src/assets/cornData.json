@@ -1,0 +1,2247 @@
+[
+  {
+    "Dist_ID": 1,
+    "District_Name": "Andaman Islands",
+    "Average_yield": 28.51
+  },
+  {
+    "Dist_ID": 3,
+    "District_Name": "Anantapur",
+    "Average_yield": 55.1
+  },
+  {
+    "Dist_ID": 4,
+    "District_Name": "Chittoor",
+    "Average_yield": 62.1
+  },
+  {
+    "Dist_ID": 9,
+    "District_Name": "Kurnool",
+    "Average_yield": 82.3
+  },
+  {
+    "Dist_ID": 16,
+    "District_Name": "Changlang",
+    "Average_yield": 23.92
+  },
+  {
+    "Dist_ID": 17,
+    "District_Name": "East Kameng",
+    "Average_yield": 23.51
+  },
+  {
+    "Dist_ID": 18,
+    "District_Name": "East Siang",
+    "Average_yield": 31.39
+  },
+  {
+    "Dist_ID": 19,
+    "District_Name": "Kurung Kumey",
+    "Average_yield": 19.28
+  },
+  {
+    "Dist_ID": 20,
+    "District_Name": "Lohit",
+    "Average_yield": 19.57
+  },
+  {
+    "Dist_ID": 21,
+    "District_Name": "Lower Dibang Valley",
+    "Average_yield": 21.32
+  },
+  {
+    "Dist_ID": 22,
+    "District_Name": "Lower Subansiri",
+    "Average_yield": 35.08
+  },
+  {
+    "Dist_ID": 23,
+    "District_Name": "Papum Pare",
+    "Average_yield": 27.75
+  },
+  {
+    "Dist_ID": 24,
+    "District_Name": "Tawang",
+    "Average_yield": 36.46
+  },
+  {
+    "Dist_ID": 25,
+    "District_Name": "Tirap",
+    "Average_yield": 18.62
+  },
+  {
+    "Dist_ID": 26,
+    "District_Name": "Upper Dibang Valley",
+    "Average_yield": 22.69
+  },
+  {
+    "Dist_ID": 27,
+    "District_Name": "Upper Siang",
+    "Average_yield": 21.06
+  },
+  {
+    "Dist_ID": 28,
+    "District_Name": "Upper Subansiri",
+    "Average_yield": 23.12
+  },
+  {
+    "Dist_ID": 29,
+    "District_Name": "West Kameng",
+    "Average_yield": 28.16
+  },
+  {
+    "Dist_ID": 30,
+    "District_Name": "West Siang",
+    "Average_yield": 21.76
+  },
+  {
+    "Dist_ID": 31,
+    "District_Name": "Barpeta",
+    "Average_yield": 76.43
+  },
+  {
+    "Dist_ID": 32,
+    "District_Name": "Bongaigaon",
+    "Average_yield": 51.78
+  },
+  {
+    "Dist_ID": 33,
+    "District_Name": "Cachar",
+    "Average_yield": 17.82
+  },
+  {
+    "Dist_ID": 35,
+    "District_Name": "Dhemaji",
+    "Average_yield": 61.27
+  },
+  {
+    "Dist_ID": 36,
+    "District_Name": "Dhuburi",
+    "Average_yield": 68.13
+  },
+  {
+    "Dist_ID": 37,
+    "District_Name": "Dibrugarh",
+    "Average_yield": 27.08
+  },
+  {
+    "Dist_ID": 38,
+    "District_Name": "Goalpara",
+    "Average_yield": 57.07
+  },
+  {
+    "Dist_ID": 39,
+    "District_Name": "Golaghat",
+    "Average_yield": 15.08
+  },
+  {
+    "Dist_ID": 40,
+    "District_Name": "Hailakandi",
+    "Average_yield": 38.83
+  },
+  {
+    "Dist_ID": 41,
+    "District_Name": "Jorhat",
+    "Average_yield": 39.57
+  },
+  {
+    "Dist_ID": 42,
+    "District_Name": "Kamrup",
+    "Average_yield": 56.99
+  },
+  {
+    "Dist_ID": 43,
+    "District_Name": "Karbi Anglong",
+    "Average_yield": 35.52
+  },
+  {
+    "Dist_ID": 44,
+    "District_Name": "Karimganj",
+    "Average_yield": 35.17
+  },
+  {
+    "Dist_ID": 45,
+    "District_Name": "Kokrajhar",
+    "Average_yield": 10.61
+  },
+  {
+    "Dist_ID": 46,
+    "District_Name": "Lakhimpur",
+    "Average_yield": 45.07
+  },
+  {
+    "Dist_ID": 47,
+    "District_Name": "Marigaon",
+    "Average_yield": 26.79
+  },
+  {
+    "Dist_ID": 48,
+    "District_Name": "Nagaon",
+    "Average_yield": 53.08
+  },
+  {
+    "Dist_ID": 49,
+    "District_Name": "Nalbari",
+    "Average_yield": 41.96
+  },
+  {
+    "Dist_ID": 50,
+    "District_Name": "North Cachar Hills",
+    "Average_yield": 17.82
+  },
+  {
+    "Dist_ID": 51,
+    "District_Name": "Sibsagar",
+    "Average_yield": 47.39
+  },
+  {
+    "Dist_ID": 52,
+    "District_Name": "Sonitpur",
+    "Average_yield": 80.28
+  },
+  {
+    "Dist_ID": 53,
+    "District_Name": "Tinsukia",
+    "Average_yield": 9.22
+  },
+  {
+    "Dist_ID": 55,
+    "District_Name": "Aurangabad",
+    "Average_yield": 34.48
+  },
+  {
+    "Dist_ID": 56,
+    "District_Name": "Banka",
+    "Average_yield": 55.42
+  },
+  {
+    "Dist_ID": 57,
+    "District_Name": "Begusarai",
+    "Average_yield": 50.78
+  },
+  {
+    "Dist_ID": 58,
+    "District_Name": "Bhabua",
+    "Average_yield": 43.06
+  },
+  {
+    "Dist_ID": 59,
+    "District_Name": "Bhagalpur",
+    "Average_yield": 72.51
+  },
+  {
+    "Dist_ID": 60,
+    "District_Name": "Bhojpur",
+    "Average_yield": 30.89
+  },
+  {
+    "Dist_ID": 61,
+    "District_Name": "Buxar",
+    "Average_yield": 36.68
+  },
+  {
+    "Dist_ID": 63,
+    "District_Name": "Gaya",
+    "Average_yield": 45.12
+  },
+  {
+    "Dist_ID": 64,
+    "District_Name": "Gopalganj",
+    "Average_yield": 46.13
+  },
+  {
+    "Dist_ID": 65,
+    "District_Name": "Jamui",
+    "Average_yield": 42.86
+  },
+  {
+    "Dist_ID": 66,
+    "District_Name": "Jehanabad",
+    "Average_yield": 66.85
+  },
+  {
+    "Dist_ID": 70,
+    "District_Name": "Lakhisarai",
+    "Average_yield": 27.76
+  },
+  {
+    "Dist_ID": 72,
+    "District_Name": "Madhubani",
+    "Average_yield": 62.6
+  },
+  {
+    "Dist_ID": 73,
+    "District_Name": "Munger",
+    "Average_yield": 37.4
+  },
+  {
+    "Dist_ID": 74,
+    "District_Name": "Muzaffarpur",
+    "Average_yield": 36.52
+  },
+  {
+    "Dist_ID": 75,
+    "District_Name": "Nalanda",
+    "Average_yield": 61.47
+  },
+  {
+    "Dist_ID": 76,
+    "District_Name": "Nawada",
+    "Average_yield": 46.21
+  },
+  {
+    "Dist_ID": 77,
+    "District_Name": "Pashchim Champaran",
+    "Average_yield": 54.39
+  },
+  {
+    "Dist_ID": 78,
+    "District_Name": "Patna",
+    "Average_yield": 53.7
+  },
+  {
+    "Dist_ID": 79,
+    "District_Name": "Purba Champaran",
+    "Average_yield": 37.07
+  },
+  {
+    "Dist_ID": 81,
+    "District_Name": "Rohtas",
+    "Average_yield": 50.47
+  },
+  {
+    "Dist_ID": 82,
+    "District_Name": "Saharsa",
+    "Average_yield": 86.97
+  },
+  {
+    "Dist_ID": 84,
+    "District_Name": "Saran",
+    "Average_yield": 53.46
+  },
+  {
+    "Dist_ID": 85,
+    "District_Name": "Sheikhpura",
+    "Average_yield": 25.87
+  },
+  {
+    "Dist_ID": 86,
+    "District_Name": "Sheohar",
+    "Average_yield": 64.65
+  },
+  {
+    "Dist_ID": 87,
+    "District_Name": "Sitamarhi",
+    "Average_yield": 67.07
+  },
+  {
+    "Dist_ID": 88,
+    "District_Name": "Siwan",
+    "Average_yield": 52.97
+  },
+  {
+    "Dist_ID": 90,
+    "District_Name": "Vaishali",
+    "Average_yield": 51.65
+  },
+  {
+    "Dist_ID": 91,
+    "District_Name": "Chandigarh",
+    "Average_yield": 47.33
+  },
+  {
+    "Dist_ID": 92,
+    "District_Name": "Bastar",
+    "Average_yield": 52.23
+  },
+  {
+    "Dist_ID": 93,
+    "District_Name": "Bilaspur",
+    "Average_yield": 35.14
+  },
+  {
+    "Dist_ID": 94,
+    "District_Name": "Dantewada",
+    "Average_yield": 39.31
+  },
+  {
+    "Dist_ID": 95,
+    "District_Name": "Dhamtari",
+    "Average_yield": 51.28
+  },
+  {
+    "Dist_ID": 96,
+    "District_Name": "Durg",
+    "Average_yield": 31.39
+  },
+  {
+    "Dist_ID": 97,
+    "District_Name": "Janjgir-Champa",
+    "Average_yield": 42.7
+  },
+  {
+    "Dist_ID": 98,
+    "District_Name": "Jashpur",
+    "Average_yield": 37.75
+  },
+  {
+    "Dist_ID": 99,
+    "District_Name": "Kanker",
+    "Average_yield": 46.39
+  },
+  {
+    "Dist_ID": 101,
+    "District_Name": "Korba",
+    "Average_yield": 31.93
+  },
+  {
+    "Dist_ID": 102,
+    "District_Name": "Koriya",
+    "Average_yield": 33.32
+  },
+  {
+    "Dist_ID": 103,
+    "District_Name": "Mahasamund",
+    "Average_yield": 29.38
+  },
+  {
+    "Dist_ID": 104,
+    "District_Name": "Raigarh",
+    "Average_yield": 38.95
+  },
+  {
+    "Dist_ID": 105,
+    "District_Name": "Raipur",
+    "Average_yield": 31.73
+  },
+  {
+    "Dist_ID": 106,
+    "District_Name": "Raj Nandgaon",
+    "Average_yield": 32.59
+  },
+  {
+    "Dist_ID": 107,
+    "District_Name": "Surguja",
+    "Average_yield": 35.33
+  },
+  {
+    "Dist_ID": 108,
+    "District_Name": "Dadra and Nagar Haveli",
+    "Average_yield": 16.47
+  },
+  {
+    "Dist_ID": 110,
+    "District_Name": "Junagadh",
+    "Average_yield": 40.3
+  },
+  {
+    "Dist_ID": 114,
+    "District_Name": "Ahmadabad",
+    "Average_yield": 33.83
+  },
+  {
+    "Dist_ID": 115,
+    "District_Name": "Amreli",
+    "Average_yield": 31.25
+  },
+  {
+    "Dist_ID": 116,
+    "District_Name": "Anand",
+    "Average_yield": 26.58
+  },
+  {
+    "Dist_ID": 117,
+    "District_Name": "Banas Kantha",
+    "Average_yield": 32.72
+  },
+  {
+    "Dist_ID": 118,
+    "District_Name": "Bharuch",
+    "Average_yield": 26.53
+  },
+  {
+    "Dist_ID": 119,
+    "District_Name": "Bhavnagar",
+    "Average_yield": 34.71
+  },
+  {
+    "Dist_ID": 120,
+    "District_Name": "Dahod",
+    "Average_yield": 27.05
+  },
+  {
+    "Dist_ID": 121,
+    "District_Name": "Gandhinagar",
+    "Average_yield": 26.22
+  },
+  {
+    "Dist_ID": 123,
+    "District_Name": "Junagadh",
+    "Average_yield": 34.19
+  },
+  {
+    "Dist_ID": 124,
+    "District_Name": "Kachchh",
+    "Average_yield": 30.39
+  },
+  {
+    "Dist_ID": 125,
+    "District_Name": "Kheda",
+    "Average_yield": 31.39
+  },
+  {
+    "Dist_ID": 126,
+    "District_Name": "Mahesana",
+    "Average_yield": 26.76
+  },
+  {
+    "Dist_ID": 127,
+    "District_Name": "Narmada",
+    "Average_yield": 26.66
+  },
+  {
+    "Dist_ID": 128,
+    "District_Name": "Navsari",
+    "Average_yield": 27.81
+  },
+  {
+    "Dist_ID": 129,
+    "District_Name": "Panch Mahals",
+    "Average_yield": 29.58
+  },
+  {
+    "Dist_ID": 132,
+    "District_Name": "Rajkot",
+    "Average_yield": 30.58
+  },
+  {
+    "Dist_ID": 133,
+    "District_Name": "Sabar Kantha",
+    "Average_yield": 36.11
+  },
+  {
+    "Dist_ID": 134,
+    "District_Name": "Surat",
+    "Average_yield": 24.84
+  },
+  {
+    "Dist_ID": 135,
+    "District_Name": "Surendranagar",
+    "Average_yield": 24.12
+  },
+  {
+    "Dist_ID": 137,
+    "District_Name": "Vadodara",
+    "Average_yield": 28.52
+  },
+  {
+    "Dist_ID": 138,
+    "District_Name": "Valsad",
+    "Average_yield": 31.86
+  },
+  {
+    "Dist_ID": 139,
+    "District_Name": "Ambala",
+    "Average_yield": 48.2
+  },
+  {
+    "Dist_ID": 145,
+    "District_Name": "Jhajjar",
+    "Average_yield": 37.17
+  },
+  {
+    "Dist_ID": 149,
+    "District_Name": "Kurukshetra",
+    "Average_yield": 54.64
+  },
+  {
+    "Dist_ID": 151,
+    "District_Name": "Panchkula",
+    "Average_yield": 45.67
+  },
+  {
+    "Dist_ID": 158,
+    "District_Name": "Bilaspur",
+    "Average_yield": 36.11
+  },
+  {
+    "Dist_ID": 159,
+    "District_Name": "Chamba",
+    "Average_yield": 47.98
+  },
+  {
+    "Dist_ID": 160,
+    "District_Name": "Hamirpur",
+    "Average_yield": 38.3
+  },
+  {
+    "Dist_ID": 161,
+    "District_Name": "Kangra",
+    "Average_yield": 31.92
+  },
+  {
+    "Dist_ID": 162,
+    "District_Name": "Kinnaur",
+    "Average_yield": 43.59
+  },
+  {
+    "Dist_ID": 163,
+    "District_Name": "Kullu",
+    "Average_yield": 50.59
+  },
+  {
+    "Dist_ID": 164,
+    "District_Name": "Lahul and Spiti",
+    "Average_yield": 39.04
+  },
+  {
+    "Dist_ID": 165,
+    "District_Name": "Mandi",
+    "Average_yield": 16.67
+  },
+  {
+    "Dist_ID": 166,
+    "District_Name": "Shimla",
+    "Average_yield": 42.75
+  },
+  {
+    "Dist_ID": 167,
+    "District_Name": "Sirmaur",
+    "Average_yield": 47.07
+  },
+  {
+    "Dist_ID": 168,
+    "District_Name": "Solan",
+    "Average_yield": 47.09
+  },
+  {
+    "Dist_ID": 169,
+    "District_Name": "Una",
+    "Average_yield": 42.13
+  },
+  {
+    "Dist_ID": 170,
+    "District_Name": "Anantnag (Kashmir South)",
+    "Average_yield": 29.66
+  },
+  {
+    "Dist_ID": 171,
+    "District_Name": "Bagdam",
+    "Average_yield": 25.84
+  },
+  {
+    "Dist_ID": 172,
+    "District_Name": "Baramula (Kashmir North)",
+    "Average_yield": 24.75
+  },
+  {
+    "Dist_ID": 173,
+    "District_Name": "Doda",
+    "Average_yield": 24.4
+  },
+  {
+    "Dist_ID": 174,
+    "District_Name": "Jammu",
+    "Average_yield": 34
+  },
+  {
+    "Dist_ID": 176,
+    "District_Name": "Kathua",
+    "Average_yield": 50.78
+  },
+  {
+    "Dist_ID": 177,
+    "District_Name": "Kupwara (Muzaffarabad)",
+    "Average_yield": 23.25
+  },
+  {
+    "Dist_ID": 179,
+    "District_Name": "Pulwama",
+    "Average_yield": 16.9
+  },
+  {
+    "Dist_ID": 180,
+    "District_Name": "Punch",
+    "Average_yield": 35.5
+  },
+  {
+    "Dist_ID": 181,
+    "District_Name": "Rajauri",
+    "Average_yield": 36.85
+  },
+  {
+    "Dist_ID": 182,
+    "District_Name": "Srinagar",
+    "Average_yield": 19.79
+  },
+  {
+    "Dist_ID": 183,
+    "District_Name": "Udhampur",
+    "Average_yield": 39.94
+  },
+  {
+    "Dist_ID": 184,
+    "District_Name": "Bokaro",
+    "Average_yield": 27.46
+  },
+  {
+    "Dist_ID": 185,
+    "District_Name": "Chatra",
+    "Average_yield": 38.14
+  },
+  {
+    "Dist_ID": 186,
+    "District_Name": "Deoghar",
+    "Average_yield": 40.34
+  },
+  {
+    "Dist_ID": 187,
+    "District_Name": "Dhanbad",
+    "Average_yield": 27.33
+  },
+  {
+    "Dist_ID": 188,
+    "District_Name": "Dumka",
+    "Average_yield": 46.38
+  },
+  {
+    "Dist_ID": 189,
+    "District_Name": "Garhwa",
+    "Average_yield": 24.05
+  },
+  {
+    "Dist_ID": 190,
+    "District_Name": "Giridih",
+    "Average_yield": 33.88
+  },
+  {
+    "Dist_ID": 191,
+    "District_Name": "Godda",
+    "Average_yield": 24.47
+  },
+  {
+    "Dist_ID": 192,
+    "District_Name": "Gumla",
+    "Average_yield": 42.16
+  },
+  {
+    "Dist_ID": 193,
+    "District_Name": "Hazaribag",
+    "Average_yield": 35.28
+  },
+  {
+    "Dist_ID": 194,
+    "District_Name": "Jamtara",
+    "Average_yield": 29.35
+  },
+  {
+    "Dist_ID": 195,
+    "District_Name": "Koderma",
+    "Average_yield": 28.85
+  },
+  {
+    "Dist_ID": 196,
+    "District_Name": "Latehar",
+    "Average_yield": 22.18
+  },
+  {
+    "Dist_ID": 197,
+    "District_Name": "Lohardaga",
+    "Average_yield": 49.92
+  },
+  {
+    "Dist_ID": 198,
+    "District_Name": "Pakur",
+    "Average_yield": 30.28
+  },
+  {
+    "Dist_ID": 199,
+    "District_Name": "Palamu",
+    "Average_yield": 26.74
+  },
+  {
+    "Dist_ID": 202,
+    "District_Name": "Ranchi",
+    "Average_yield": 44.03
+  },
+  {
+    "Dist_ID": 203,
+    "District_Name": "Sahibganj",
+    "Average_yield": 24.66
+  },
+  {
+    "Dist_ID": 204,
+    "District_Name": "Saraikela Kharsawan",
+    "Average_yield": 28.92
+  },
+  {
+    "Dist_ID": 205,
+    "District_Name": "Simdega",
+    "Average_yield": 41.62
+  },
+  {
+    "Dist_ID": 206,
+    "District_Name": "Bagalkot",
+    "Average_yield": 65.81
+  },
+  {
+    "Dist_ID": 207,
+    "District_Name": "Bangalore Rural",
+    "Average_yield": 53.32
+  },
+  {
+    "Dist_ID": 209,
+    "District_Name": "Belgaum",
+    "Average_yield": 60.57
+  },
+  {
+    "Dist_ID": 210,
+    "District_Name": "Bellary",
+    "Average_yield": 48.89
+  },
+  {
+    "Dist_ID": 211,
+    "District_Name": "Bidar",
+    "Average_yield": 35.06
+  },
+  {
+    "Dist_ID": 212,
+    "District_Name": "Bijapur",
+    "Average_yield": 51.69
+  },
+  {
+    "Dist_ID": 213,
+    "District_Name": "Chamrajnagar",
+    "Average_yield": 54.71
+  },
+  {
+    "Dist_ID": 214,
+    "District_Name": "Chikmagalur",
+    "Average_yield": 49.95
+  },
+  {
+    "Dist_ID": 215,
+    "District_Name": "Chitradurga",
+    "Average_yield": 39.86
+  },
+  {
+    "Dist_ID": 217,
+    "District_Name": "Davanagere",
+    "Average_yield": 46.39
+  },
+  {
+    "Dist_ID": 218,
+    "District_Name": "Dharwad",
+    "Average_yield": 43.69
+  },
+  {
+    "Dist_ID": 219,
+    "District_Name": "Gadag",
+    "Average_yield": 36.83
+  },
+  {
+    "Dist_ID": 220,
+    "District_Name": "Gulbarga",
+    "Average_yield": 46.34
+  },
+  {
+    "Dist_ID": 222,
+    "District_Name": "Haveri",
+    "Average_yield": 46.45
+  },
+  {
+    "Dist_ID": 224,
+    "District_Name": "Kolar",
+    "Average_yield": 49.64
+  },
+  {
+    "Dist_ID": 225,
+    "District_Name": "Koppal",
+    "Average_yield": 33.59
+  },
+  {
+    "Dist_ID": 226,
+    "District_Name": "Mandya",
+    "Average_yield": 38.71
+  },
+  {
+    "Dist_ID": 227,
+    "District_Name": "Mysore",
+    "Average_yield": 47.82
+  },
+  {
+    "Dist_ID": 229,
+    "District_Name": "Shimoga",
+    "Average_yield": 63.37
+  },
+  {
+    "Dist_ID": 230,
+    "District_Name": "Tumkur",
+    "Average_yield": 31.59
+  },
+  {
+    "Dist_ID": 231,
+    "District_Name": "Udupi",
+    "Average_yield": 52.22
+  },
+  {
+    "Dist_ID": 232,
+    "District_Name": "Uttar Kannand",
+    "Average_yield": 78.51
+  },
+  {
+    "Dist_ID": 235,
+    "District_Name": "Idukki",
+    "Average_yield": 40.95
+  },
+  {
+    "Dist_ID": 242,
+    "District_Name": "Palakkad",
+    "Average_yield": 22.13
+  },
+  {
+    "Dist_ID": 248,
+    "District_Name": "Anuppur",
+    "Average_yield": 29.77
+  },
+  {
+    "Dist_ID": 249,
+    "District_Name": "Ashoknagar",
+    "Average_yield": 32.44
+  },
+  {
+    "Dist_ID": 250,
+    "District_Name": "Balaghat",
+    "Average_yield": 43.4
+  },
+  {
+    "Dist_ID": 251,
+    "District_Name": "Barwani",
+    "Average_yield": 72.19
+  },
+  {
+    "Dist_ID": 252,
+    "District_Name": "Betul",
+    "Average_yield": 49.21
+  },
+  {
+    "Dist_ID": 254,
+    "District_Name": "Bhopal",
+    "Average_yield": 34.82
+  },
+  {
+    "Dist_ID": 255,
+    "District_Name": "Burhanpur",
+    "Average_yield": 68.01
+  },
+  {
+    "Dist_ID": 256,
+    "District_Name": "Chhatarpur",
+    "Average_yield": 16.6
+  },
+  {
+    "Dist_ID": 257,
+    "District_Name": "Chhindwara",
+    "Average_yield": 76.84
+  },
+  {
+    "Dist_ID": 258,
+    "District_Name": "Damoh",
+    "Average_yield": 33.41
+  },
+  {
+    "Dist_ID": 259,
+    "District_Name": "Datia",
+    "Average_yield": 26.55
+  },
+  {
+    "Dist_ID": 260,
+    "District_Name": "Dewas",
+    "Average_yield": 41.46
+  },
+  {
+    "Dist_ID": 261,
+    "District_Name": "Dhar",
+    "Average_yield": 40.2
+  },
+  {
+    "Dist_ID": 262,
+    "District_Name": "Dindori",
+    "Average_yield": 37.89
+  },
+  {
+    "Dist_ID": 264,
+    "District_Name": "Guna",
+    "Average_yield": 36.34
+  },
+  {
+    "Dist_ID": 265,
+    "District_Name": "Gwalior",
+    "Average_yield": 52.87
+  },
+  {
+    "Dist_ID": 266,
+    "District_Name": "Harda",
+    "Average_yield": 38.47
+  },
+  {
+    "Dist_ID": 267,
+    "District_Name": "Hoshangabad",
+    "Average_yield": 50.6
+  },
+  {
+    "Dist_ID": 268,
+    "District_Name": "Indore",
+    "Average_yield": 42.01
+  },
+  {
+    "Dist_ID": 269,
+    "District_Name": "Jabalpur",
+    "Average_yield": 37.19
+  },
+  {
+    "Dist_ID": 270,
+    "District_Name": "Jhabua",
+    "Average_yield": 44.66
+  },
+  {
+    "Dist_ID": 271,
+    "District_Name": "Katni",
+    "Average_yield": 38.22
+  },
+  {
+    "Dist_ID": 272,
+    "District_Name": "Mandla",
+    "Average_yield": 38.39
+  },
+  {
+    "Dist_ID": 273,
+    "District_Name": "Mandsaur",
+    "Average_yield": 47.67
+  },
+  {
+    "Dist_ID": 275,
+    "District_Name": "Narsinghpur",
+    "Average_yield": 32.33
+  },
+  {
+    "Dist_ID": 276,
+    "District_Name": "Neemuch",
+    "Average_yield": 53.48
+  },
+  {
+    "Dist_ID": 277,
+    "District_Name": "Panna",
+    "Average_yield": 27.67
+  },
+  {
+    "Dist_ID": 278,
+    "District_Name": "Raisen",
+    "Average_yield": 26.35
+  },
+  {
+    "Dist_ID": 279,
+    "District_Name": "Rajgarh",
+    "Average_yield": 40.32
+  },
+  {
+    "Dist_ID": 280,
+    "District_Name": "Ratlam",
+    "Average_yield": 51.04
+  },
+  {
+    "Dist_ID": 281,
+    "District_Name": "Rewa",
+    "Average_yield": 21.78
+  },
+  {
+    "Dist_ID": 282,
+    "District_Name": "Sagar",
+    "Average_yield": 22.18
+  },
+  {
+    "Dist_ID": 283,
+    "District_Name": "Satna",
+    "Average_yield": 24.22
+  },
+  {
+    "Dist_ID": 284,
+    "District_Name": "Sehore",
+    "Average_yield": 37.88
+  },
+  {
+    "Dist_ID": 285,
+    "District_Name": "Seoni",
+    "Average_yield": 70.79
+  },
+  {
+    "Dist_ID": 286,
+    "District_Name": "Shahdol",
+    "Average_yield": 29.81
+  },
+  {
+    "Dist_ID": 287,
+    "District_Name": "Shajapur",
+    "Average_yield": 23.71
+  },
+  {
+    "Dist_ID": 288,
+    "District_Name": "Sheopur",
+    "Average_yield": 34.24
+  },
+  {
+    "Dist_ID": 289,
+    "District_Name": "Shivpuri",
+    "Average_yield": 33.15
+  },
+  {
+    "Dist_ID": 290,
+    "District_Name": "Sidhi",
+    "Average_yield": 35.06
+  },
+  {
+    "Dist_ID": 291,
+    "District_Name": "Tikamgarh",
+    "Average_yield": 26.26
+  },
+  {
+    "Dist_ID": 292,
+    "District_Name": "Ujjain",
+    "Average_yield": 29.55
+  },
+  {
+    "Dist_ID": 293,
+    "District_Name": "Umaria",
+    "Average_yield": 33.98
+  },
+  {
+    "Dist_ID": 294,
+    "District_Name": "Vidisha",
+    "Average_yield": 30.06
+  },
+  {
+    "Dist_ID": 296,
+    "District_Name": "Ahmednagar",
+    "Average_yield": 47.13
+  },
+  {
+    "Dist_ID": 297,
+    "District_Name": "Akola",
+    "Average_yield": 23.07
+  },
+  {
+    "Dist_ID": 298,
+    "District_Name": "Amravati",
+    "Average_yield": 31.19
+  },
+  {
+    "Dist_ID": 299,
+    "District_Name": "Aurangabad",
+    "Average_yield": 36.52
+  },
+  {
+    "Dist_ID": 301,
+    "District_Name": "Bid",
+    "Average_yield": 16.88
+  },
+  {
+    "Dist_ID": 302,
+    "District_Name": "Buldana",
+    "Average_yield": 30.83
+  },
+  {
+    "Dist_ID": 303,
+    "District_Name": "Chandrapur",
+    "Average_yield": 32.52
+  },
+  {
+    "Dist_ID": 304,
+    "District_Name": "Dhule",
+    "Average_yield": 43.29
+  },
+  {
+    "Dist_ID": 305,
+    "District_Name": "Garhchiroli",
+    "Average_yield": 32.53
+  },
+  {
+    "Dist_ID": 306,
+    "District_Name": "Gondiya",
+    "Average_yield": 14.96
+  },
+  {
+    "Dist_ID": 308,
+    "District_Name": "Hingoli",
+    "Average_yield": 12.92
+  },
+  {
+    "Dist_ID": 309,
+    "District_Name": "Jalgaon",
+    "Average_yield": 47.47
+  },
+  {
+    "Dist_ID": 310,
+    "District_Name": "Jalna",
+    "Average_yield": 33.3
+  },
+  {
+    "Dist_ID": 311,
+    "District_Name": "Kolhapur",
+    "Average_yield": 53.04
+  },
+  {
+    "Dist_ID": 312,
+    "District_Name": "Latur",
+    "Average_yield": 10.38
+  },
+  {
+    "Dist_ID": 313,
+    "District_Name": "Nagpur",
+    "Average_yield": 16.13
+  },
+  {
+    "Dist_ID": 314,
+    "District_Name": "Nanded",
+    "Average_yield": 23.19
+  },
+  {
+    "Dist_ID": 315,
+    "District_Name": "Nandurbar",
+    "Average_yield": 36.6
+  },
+  {
+    "Dist_ID": 316,
+    "District_Name": "Nashik",
+    "Average_yield": 63.67
+  },
+  {
+    "Dist_ID": 317,
+    "District_Name": "Osmanabad",
+    "Average_yield": 10.63
+  },
+  {
+    "Dist_ID": 318,
+    "District_Name": "Parbhani",
+    "Average_yield": 15.42
+  },
+  {
+    "Dist_ID": 319,
+    "District_Name": "Pune",
+    "Average_yield": 62.26
+  },
+  {
+    "Dist_ID": 322,
+    "District_Name": "Sangli",
+    "Average_yield": 39.52
+  },
+  {
+    "Dist_ID": 323,
+    "District_Name": "Satara",
+    "Average_yield": 39.28
+  },
+  {
+    "Dist_ID": 325,
+    "District_Name": "Solapur",
+    "Average_yield": 26.28
+  },
+  {
+    "Dist_ID": 327,
+    "District_Name": "Wardha",
+    "Average_yield": 12.36
+  },
+  {
+    "Dist_ID": 328,
+    "District_Name": "Washim",
+    "Average_yield": 34.7
+  },
+  {
+    "Dist_ID": 329,
+    "District_Name": "Yavatmal",
+    "Average_yield": 27.79
+  },
+  {
+    "Dist_ID": 330,
+    "District_Name": "Bishnupur",
+    "Average_yield": 37.62
+  },
+  {
+    "Dist_ID": 331,
+    "District_Name": "Chandel",
+    "Average_yield": 38.37
+  },
+  {
+    "Dist_ID": 332,
+    "District_Name": "Churachandpur",
+    "Average_yield": 32.29
+  },
+  {
+    "Dist_ID": 333,
+    "District_Name": "East Imphal",
+    "Average_yield": 36.67
+  },
+  {
+    "Dist_ID": 334,
+    "District_Name": "Senapati",
+    "Average_yield": 35.6
+  },
+  {
+    "Dist_ID": 335,
+    "District_Name": "Tamenglong",
+    "Average_yield": 37.99
+  },
+  {
+    "Dist_ID": 336,
+    "District_Name": "Thoubal",
+    "Average_yield": 36.51
+  },
+  {
+    "Dist_ID": 337,
+    "District_Name": "Ukhrul",
+    "Average_yield": 37.42
+  },
+  {
+    "Dist_ID": 338,
+    "District_Name": "West Imphal",
+    "Average_yield": 36.99
+  },
+  {
+    "Dist_ID": 339,
+    "District_Name": "East Garo Hills",
+    "Average_yield": 31.4
+  },
+  {
+    "Dist_ID": 340,
+    "District_Name": "East Khasi Hills",
+    "Average_yield": 53.22
+  },
+  {
+    "Dist_ID": 341,
+    "District_Name": "Jaintia Hills",
+    "Average_yield": 35.86
+  },
+  {
+    "Dist_ID": 342,
+    "District_Name": "Ri-Bhoi",
+    "Average_yield": 51.32
+  },
+  {
+    "Dist_ID": 343,
+    "District_Name": "South Garo Hills",
+    "Average_yield": 27.9
+  },
+  {
+    "Dist_ID": 344,
+    "District_Name": "West Garo Hills",
+    "Average_yield": 37.45
+  },
+  {
+    "Dist_ID": 345,
+    "District_Name": "West Khasi Hills",
+    "Average_yield": 30.92
+  },
+  {
+    "Dist_ID": 346,
+    "District_Name": "Aizawl",
+    "Average_yield": 28.08
+  },
+  {
+    "Dist_ID": 347,
+    "District_Name": "Champhai",
+    "Average_yield": 22.11
+  },
+  {
+    "Dist_ID": 348,
+    "District_Name": "Kolasib",
+    "Average_yield": 20.76
+  },
+  {
+    "Dist_ID": 349,
+    "District_Name": "Lawngtlai",
+    "Average_yield": 45.9
+  },
+  {
+    "Dist_ID": 350,
+    "District_Name": "Lunglei",
+    "Average_yield": 23.74
+  },
+  {
+    "Dist_ID": 351,
+    "District_Name": "Mamit",
+    "Average_yield": 21.41
+  },
+  {
+    "Dist_ID": 352,
+    "District_Name": "Saiha",
+    "Average_yield": 29.6
+  },
+  {
+    "Dist_ID": 353,
+    "District_Name": "Serchhip",
+    "Average_yield": 23.41
+  },
+  {
+    "Dist_ID": 354,
+    "District_Name": "Dimapur",
+    "Average_yield": 31.63
+  },
+  {
+    "Dist_ID": 355,
+    "District_Name": "Kohima",
+    "Average_yield": 31.57
+  },
+  {
+    "Dist_ID": 356,
+    "District_Name": "Mokokchung",
+    "Average_yield": 31.57
+  },
+  {
+    "Dist_ID": 357,
+    "District_Name": "Mon",
+    "Average_yield": 31.55
+  },
+  {
+    "Dist_ID": 358,
+    "District_Name": "Phek",
+    "Average_yield": 31.57
+  },
+  {
+    "Dist_ID": 359,
+    "District_Name": "Tuensang",
+    "Average_yield": 31.58
+  },
+  {
+    "Dist_ID": 360,
+    "District_Name": "Wokha",
+    "Average_yield": 31.58
+  },
+  {
+    "Dist_ID": 361,
+    "District_Name": "Zunheboto",
+    "Average_yield": 31.55
+  },
+  {
+    "Dist_ID": 362,
+    "District_Name": "Angul",
+    "Average_yield": 26.16
+  },
+  {
+    "Dist_ID": 363,
+    "District_Name": "Baleshwar",
+    "Average_yield": 27.29
+  },
+  {
+    "Dist_ID": 364,
+    "District_Name": "Baragarh",
+    "Average_yield": 23.45
+  },
+  {
+    "Dist_ID": 365,
+    "District_Name": "Bhadrak",
+    "Average_yield": 32.75
+  },
+  {
+    "Dist_ID": 367,
+    "District_Name": "Boudh",
+    "Average_yield": 13.07
+  },
+  {
+    "Dist_ID": 369,
+    "District_Name": "Deogarh",
+    "Average_yield": 22.42
+  },
+  {
+    "Dist_ID": 370,
+    "District_Name": "Dhenkanal",
+    "Average_yield": 20.59
+  },
+  {
+    "Dist_ID": 371,
+    "District_Name": "Gajapati",
+    "Average_yield": 30.34
+  },
+  {
+    "Dist_ID": 372,
+    "District_Name": "Ganjam",
+    "Average_yield": 37.56
+  },
+  {
+    "Dist_ID": 374,
+    "District_Name": "Jajpur",
+    "Average_yield": 13.97
+  },
+  {
+    "Dist_ID": 375,
+    "District_Name": "Jharsuguda",
+    "Average_yield": 44.35
+  },
+  {
+    "Dist_ID": 376,
+    "District_Name": "Kalahandi",
+    "Average_yield": 19.51
+  },
+  {
+    "Dist_ID": 377,
+    "District_Name": "Kandhamal",
+    "Average_yield": 18.5
+  },
+  {
+    "Dist_ID": 379,
+    "District_Name": "Keonjhar",
+    "Average_yield": 26.9
+  },
+  {
+    "Dist_ID": 380,
+    "District_Name": "Khordha",
+    "Average_yield": 26.62
+  },
+  {
+    "Dist_ID": 381,
+    "District_Name": "Koraput",
+    "Average_yield": 35.58
+  },
+  {
+    "Dist_ID": 382,
+    "District_Name": "Malkangiri",
+    "Average_yield": 16.34
+  },
+  {
+    "Dist_ID": 383,
+    "District_Name": "Mayurbhanj",
+    "Average_yield": 30.17
+  },
+  {
+    "Dist_ID": 384,
+    "District_Name": "Nabarangpur",
+    "Average_yield": 51.45
+  },
+  {
+    "Dist_ID": 385,
+    "District_Name": "Nayagarh",
+    "Average_yield": 31.81
+  },
+  {
+    "Dist_ID": 386,
+    "District_Name": "Nuapada",
+    "Average_yield": 26.37
+  },
+  {
+    "Dist_ID": 388,
+    "District_Name": "Rayagada",
+    "Average_yield": 22.78
+  },
+  {
+    "Dist_ID": 389,
+    "District_Name": "Sambalpur",
+    "Average_yield": 24.94
+  },
+  {
+    "Dist_ID": 391,
+    "District_Name": "Sundargarh",
+    "Average_yield": 31.13
+  },
+  {
+    "Dist_ID": 396,
+    "District_Name": "Amritsar",
+    "Average_yield": 46.8
+  },
+  {
+    "Dist_ID": 399,
+    "District_Name": "Fatehgarh Sahib",
+    "Average_yield": 61.95
+  },
+  {
+    "Dist_ID": 401,
+    "District_Name": "Gurdaspur",
+    "Average_yield": 35.05
+  },
+  {
+    "Dist_ID": 402,
+    "District_Name": "Hoshiarpur",
+    "Average_yield": 58.27
+  },
+  {
+    "Dist_ID": 403,
+    "District_Name": "Jalandhar",
+    "Average_yield": 77.9
+  },
+  {
+    "Dist_ID": 404,
+    "District_Name": "Kapurthala",
+    "Average_yield": 70.26
+  },
+  {
+    "Dist_ID": 406,
+    "District_Name": "Mansa",
+    "Average_yield": 63.12
+  },
+  {
+    "Dist_ID": 407,
+    "District_Name": "Moga",
+    "Average_yield": 38.03
+  },
+  {
+    "Dist_ID": 409,
+    "District_Name": "Nawan Shehar",
+    "Average_yield": 67.02
+  },
+  {
+    "Dist_ID": 410,
+    "District_Name": "Patiala",
+    "Average_yield": 61.07
+  },
+  {
+    "Dist_ID": 411,
+    "District_Name": "Rupnagar",
+    "Average_yield": 61.93
+  },
+  {
+    "Dist_ID": 412,
+    "District_Name": "Sangrur",
+    "Average_yield": 56.64
+  },
+  {
+    "Dist_ID": 413,
+    "District_Name": "Ajmer",
+    "Average_yield": 21.61
+  },
+  {
+    "Dist_ID": 414,
+    "District_Name": "Alwar",
+    "Average_yield": 25.74
+  },
+  {
+    "Dist_ID": 415,
+    "District_Name": "Banswara",
+    "Average_yield": 24.79
+  },
+  {
+    "Dist_ID": 416,
+    "District_Name": "Baran",
+    "Average_yield": 41.33
+  },
+  {
+    "Dist_ID": 417,
+    "District_Name": "Barmer",
+    "Average_yield": 31.07
+  },
+  {
+    "Dist_ID": 418,
+    "District_Name": "Bharatpur",
+    "Average_yield": 28
+  },
+  {
+    "Dist_ID": 419,
+    "District_Name": "Bhilwara",
+    "Average_yield": 33.3
+  },
+  {
+    "Dist_ID": 421,
+    "District_Name": "Bundi",
+    "Average_yield": 58.62
+  },
+  {
+    "Dist_ID": 422,
+    "District_Name": "Chittaurgarh",
+    "Average_yield": 40.17
+  },
+  {
+    "Dist_ID": 424,
+    "District_Name": "Dausa",
+    "Average_yield": 30.57
+  },
+  {
+    "Dist_ID": 426,
+    "District_Name": "Dungarpur",
+    "Average_yield": 21.06
+  },
+  {
+    "Dist_ID": 427,
+    "District_Name": "Ganganagar",
+    "Average_yield": 30.63
+  },
+  {
+    "Dist_ID": 428,
+    "District_Name": "Hanumangarh",
+    "Average_yield": 30.41
+  },
+  {
+    "Dist_ID": 429,
+    "District_Name": "Jaipur",
+    "Average_yield": 22.41
+  },
+  {
+    "Dist_ID": 431,
+    "District_Name": "Jalor",
+    "Average_yield": 30.53
+  },
+  {
+    "Dist_ID": 432,
+    "District_Name": "Jhalawar",
+    "Average_yield": 41.37
+  },
+  {
+    "Dist_ID": 434,
+    "District_Name": "Jodhpur",
+    "Average_yield": 29.21
+  },
+  {
+    "Dist_ID": 435,
+    "District_Name": "Karauli",
+    "Average_yield": 30.6
+  },
+  {
+    "Dist_ID": 436,
+    "District_Name": "Kota",
+    "Average_yield": 32.08
+  },
+  {
+    "Dist_ID": 437,
+    "District_Name": "Nagaur",
+    "Average_yield": 30.48
+  },
+  {
+    "Dist_ID": 438,
+    "District_Name": "Pali",
+    "Average_yield": 19.91
+  },
+  {
+    "Dist_ID": 439,
+    "District_Name": "Rajsamand",
+    "Average_yield": 32.02
+  },
+  {
+    "Dist_ID": 440,
+    "District_Name": "Sawai Madhopur",
+    "Average_yield": 30.58
+  },
+  {
+    "Dist_ID": 441,
+    "District_Name": "Sikar",
+    "Average_yield": 30.27
+  },
+  {
+    "Dist_ID": 442,
+    "District_Name": "Sirohi",
+    "Average_yield": 16.32
+  },
+  {
+    "Dist_ID": 443,
+    "District_Name": "Tonk",
+    "Average_yield": 36.78
+  },
+  {
+    "Dist_ID": 444,
+    "District_Name": "Udaipur",
+    "Average_yield": 23.98
+  },
+  {
+    "Dist_ID": 445,
+    "District_Name": "East",
+    "Average_yield": 27.87
+  },
+  {
+    "Dist_ID": 446,
+    "District_Name": "North Sikkim",
+    "Average_yield": 25.48
+  },
+  {
+    "Dist_ID": 447,
+    "District_Name": "South Sikkim",
+    "Average_yield": 29.05
+  },
+  {
+    "Dist_ID": 448,
+    "District_Name": "West Sikkim",
+    "Average_yield": 27.96
+  },
+  {
+    "Dist_ID": 483,
+    "District_Name": "Mahbubnagar",
+    "Average_yield": 20.3
+  },
+  {
+    "Dist_ID": 484,
+    "District_Name": "Medak",
+    "Average_yield": 52.38
+  },
+  {
+    "Dist_ID": 485,
+    "District_Name": "Nalgonda",
+    "Average_yield": 65.24
+  },
+  {
+    "Dist_ID": 486,
+    "District_Name": "Nizamabad",
+    "Average_yield": 88.22
+  },
+  {
+    "Dist_ID": 487,
+    "District_Name": "Rangareddi",
+    "Average_yield": 32.56
+  },
+  {
+    "Dist_ID": 489,
+    "District_Name": "Dhalai",
+    "Average_yield": 20.76
+  },
+  {
+    "Dist_ID": 490,
+    "District_Name": "North Tripura",
+    "Average_yield": 20.89
+  },
+  {
+    "Dist_ID": 491,
+    "District_Name": "South Tripura",
+    "Average_yield": 24.67
+  },
+  {
+    "Dist_ID": 492,
+    "District_Name": "West Tripura",
+    "Average_yield": 22.47
+  },
+  {
+    "Dist_ID": 493,
+    "District_Name": "Agra",
+    "Average_yield": 37.88
+  },
+  {
+    "Dist_ID": 494,
+    "District_Name": "Aligarh",
+    "Average_yield": 39.56
+  },
+  {
+    "Dist_ID": 495,
+    "District_Name": "Allahabad",
+    "Average_yield": 34.53
+  },
+  {
+    "Dist_ID": 496,
+    "District_Name": "Ambedkar Nagar",
+    "Average_yield": 25.95
+  },
+  {
+    "Dist_ID": 497,
+    "District_Name": "Auraiya",
+    "Average_yield": 41.7
+  },
+  {
+    "Dist_ID": 498,
+    "District_Name": "Azamgarh",
+    "Average_yield": 29.62
+  },
+  {
+    "Dist_ID": 500,
+    "District_Name": "Baghpat",
+    "Average_yield": 39.75
+  },
+  {
+    "Dist_ID": 501,
+    "District_Name": "Bahraich",
+    "Average_yield": 24.34
+  },
+  {
+    "Dist_ID": 502,
+    "District_Name": "Ballia",
+    "Average_yield": 26.09
+  },
+  {
+    "Dist_ID": 503,
+    "District_Name": "Balrampur",
+    "Average_yield": 22.32
+  },
+  {
+    "Dist_ID": 504,
+    "District_Name": "Banda",
+    "Average_yield": 32.77
+  },
+  {
+    "Dist_ID": 505,
+    "District_Name": "Bara Banki",
+    "Average_yield": 23.12
+  },
+  {
+    "Dist_ID": 506,
+    "District_Name": "Bareilly",
+    "Average_yield": 33.29
+  },
+  {
+    "Dist_ID": 507,
+    "District_Name": "Basti",
+    "Average_yield": 14.84
+  },
+  {
+    "Dist_ID": 508,
+    "District_Name": "Bijnor",
+    "Average_yield": 38.6
+  },
+  {
+    "Dist_ID": 509,
+    "District_Name": "Bulandshahr",
+    "Average_yield": 39.03
+  },
+  {
+    "Dist_ID": 510,
+    "District_Name": "Chandauli",
+    "Average_yield": 32.64
+  },
+  {
+    "Dist_ID": 511,
+    "District_Name": "Chitrakoot",
+    "Average_yield": 36.69
+  },
+  {
+    "Dist_ID": 512,
+    "District_Name": "Deoria",
+    "Average_yield": 40.28
+  },
+  {
+    "Dist_ID": 513,
+    "District_Name": "Etah",
+    "Average_yield": 39.93
+  },
+  {
+    "Dist_ID": 514,
+    "District_Name": "Etawah",
+    "Average_yield": 45.86
+  },
+  {
+    "Dist_ID": 515,
+    "District_Name": "Faizabad",
+    "Average_yield": 27.73
+  },
+  {
+    "Dist_ID": 516,
+    "District_Name": "Farrukhabad",
+    "Average_yield": 48.72
+  },
+  {
+    "Dist_ID": 517,
+    "District_Name": "Fatehpur",
+    "Average_yield": 31.4
+  },
+  {
+    "Dist_ID": 518,
+    "District_Name": "Firozabad",
+    "Average_yield": 43.76
+  },
+  {
+    "Dist_ID": 519,
+    "District_Name": "Gautam Buddha Nagar",
+    "Average_yield": 25
+  },
+  {
+    "Dist_ID": 520,
+    "District_Name": "Ghaziabad",
+    "Average_yield": 39.1
+  },
+  {
+    "Dist_ID": 521,
+    "District_Name": "Ghazipur",
+    "Average_yield": 23.07
+  },
+  {
+    "Dist_ID": 522,
+    "District_Name": "Gonda",
+    "Average_yield": 19.84
+  },
+  {
+    "Dist_ID": 523,
+    "District_Name": "Gorakhpur",
+    "Average_yield": 15.28
+  },
+  {
+    "Dist_ID": 524,
+    "District_Name": "Hamirpur",
+    "Average_yield": 41.79
+  },
+  {
+    "Dist_ID": 525,
+    "District_Name": "Hardoi",
+    "Average_yield": 36.25
+  },
+  {
+    "Dist_ID": 526,
+    "District_Name": "Hathras",
+    "Average_yield": 30.15
+  },
+  {
+    "Dist_ID": 527,
+    "District_Name": "Jalaun",
+    "Average_yield": 22.95
+  },
+  {
+    "Dist_ID": 528,
+    "District_Name": "Jaunpur",
+    "Average_yield": 25.56
+  },
+  {
+    "Dist_ID": 529,
+    "District_Name": "Jhansi",
+    "Average_yield": 14.32
+  },
+  {
+    "Dist_ID": 531,
+    "District_Name": "Kannauj",
+    "Average_yield": 38.92
+  },
+  {
+    "Dist_ID": 532,
+    "District_Name": "Kanpur Dehat",
+    "Average_yield": 43.53
+  },
+  {
+    "Dist_ID": 533,
+    "District_Name": "Kanpur",
+    "Average_yield": 43.41
+  },
+  {
+    "Dist_ID": 534,
+    "District_Name": "Kaushambi",
+    "Average_yield": 33.46
+  },
+  {
+    "Dist_ID": 535,
+    "District_Name": "Kushinagar",
+    "Average_yield": 45.12
+  },
+  {
+    "Dist_ID": 537,
+    "District_Name": "Lalitpur",
+    "Average_yield": 15.47
+  },
+  {
+    "Dist_ID": 538,
+    "District_Name": "Lucknow",
+    "Average_yield": 22.75
+  },
+  {
+    "Dist_ID": 539,
+    "District_Name": "Maharajganj",
+    "Average_yield": 32.66
+  },
+  {
+    "Dist_ID": 540,
+    "District_Name": "Mahoba",
+    "Average_yield": 37.81
+  },
+  {
+    "Dist_ID": 541,
+    "District_Name": "Mainpuri",
+    "Average_yield": 50.33
+  },
+  {
+    "Dist_ID": 542,
+    "District_Name": "Mathura",
+    "Average_yield": 46.64
+  },
+  {
+    "Dist_ID": 543,
+    "District_Name": "Mau",
+    "Average_yield": 28.84
+  },
+  {
+    "Dist_ID": 544,
+    "District_Name": "Meerut",
+    "Average_yield": 35.1
+  },
+  {
+    "Dist_ID": 545,
+    "District_Name": "Mirzapur",
+    "Average_yield": 20.45
+  },
+  {
+    "Dist_ID": 546,
+    "District_Name": "Moradabad",
+    "Average_yield": 33.48
+  },
+  {
+    "Dist_ID": 547,
+    "District_Name": "Muzaffarnagar",
+    "Average_yield": 29.78
+  },
+  {
+    "Dist_ID": 548,
+    "District_Name": "Pilibhit",
+    "Average_yield": 33.56
+  },
+  {
+    "Dist_ID": 549,
+    "District_Name": "Pratapgarh",
+    "Average_yield": 31.85
+  },
+  {
+    "Dist_ID": 550,
+    "District_Name": "Rae Bareli",
+    "Average_yield": 34.45
+  },
+  {
+    "Dist_ID": 551,
+    "District_Name": "Rampur",
+    "Average_yield": 36.76
+  },
+  {
+    "Dist_ID": 552,
+    "District_Name": "Saharanpur",
+    "Average_yield": 29.55
+  },
+  {
+    "Dist_ID": 553,
+    "District_Name": "Sant Kabir Nagar",
+    "Average_yield": 14.31
+  },
+  {
+    "Dist_ID": 555,
+    "District_Name": "Shahjahanpur",
+    "Average_yield": 28.83
+  },
+  {
+    "Dist_ID": 556,
+    "District_Name": "Shravasti",
+    "Average_yield": 16.58
+  },
+  {
+    "Dist_ID": 557,
+    "District_Name": "Siddharth Nagar",
+    "Average_yield": 15.29
+  },
+  {
+    "Dist_ID": 558,
+    "District_Name": "Sitapur",
+    "Average_yield": 14.78
+  },
+  {
+    "Dist_ID": 559,
+    "District_Name": "Sonbhadra",
+    "Average_yield": 15.89
+  },
+  {
+    "Dist_ID": 560,
+    "District_Name": "Sultanpur",
+    "Average_yield": 22.02
+  },
+  {
+    "Dist_ID": 561,
+    "District_Name": "Unnao",
+    "Average_yield": 32.35
+  },
+  {
+    "Dist_ID": 562,
+    "District_Name": "Varanasi",
+    "Average_yield": 27.67
+  },
+  {
+    "Dist_ID": 563,
+    "District_Name": "Almora",
+    "Average_yield": 18.83
+  },
+  {
+    "Dist_ID": 564,
+    "District_Name": "Bageshwar",
+    "Average_yield": 25.26
+  },
+  {
+    "Dist_ID": 565,
+    "District_Name": "Chamoli",
+    "Average_yield": 27.29
+  },
+  {
+    "Dist_ID": 566,
+    "District_Name": "Champawat",
+    "Average_yield": 30.37
+  },
+  {
+    "Dist_ID": 567,
+    "District_Name": "Dehra Dun",
+    "Average_yield": 39.59
+  },
+  {
+    "Dist_ID": 568,
+    "District_Name": "Haridwar",
+    "Average_yield": 34.7
+  },
+  {
+    "Dist_ID": 569,
+    "District_Name": "Naini Tal",
+    "Average_yield": 21.16
+  },
+  {
+    "Dist_ID": 570,
+    "District_Name": "Pauri Garhwal",
+    "Average_yield": 30.47
+  },
+  {
+    "Dist_ID": 571,
+    "District_Name": "Pithoragarh",
+    "Average_yield": 23.16
+  },
+  {
+    "Dist_ID": 572,
+    "District_Name": "Rudra Prayag",
+    "Average_yield": 27.4
+  },
+  {
+    "Dist_ID": 573,
+    "District_Name": "Tehri Garhwal",
+    "Average_yield": 29.84
+  },
+  {
+    "Dist_ID": 574,
+    "District_Name": "Udham Singh Nagar",
+    "Average_yield": 21.25
+  },
+  {
+    "Dist_ID": 575,
+    "District_Name": "Uttarkashi",
+    "Average_yield": 29.99
+  },
+  {
+    "Dist_ID": 576,
+    "District_Name": "Bankura",
+    "Average_yield": 44.14
+  },
+  {
+    "Dist_ID": 578,
+    "District_Name": "Birbhum",
+    "Average_yield": 34.71
+  },
+  {
+    "Dist_ID": 580,
+    "District_Name": "Darjiling",
+    "Average_yield": 42.52
+  },
+  {
+    "Dist_ID": 581,
+    "District_Name": "East Midnapore",
+    "Average_yield": 26.87
+  },
+  {
+    "Dist_ID": 582,
+    "District_Name": "Haora",
+    "Average_yield": 35.92
+  },
+  {
+    "Dist_ID": 583,
+    "District_Name": "Hugli",
+    "Average_yield": 37.39
+  },
+  {
+    "Dist_ID": 584,
+    "District_Name": "Jalpaiguri",
+    "Average_yield": 55.03
+  },
+  {
+    "Dist_ID": 589,
+    "District_Name": "Nadia",
+    "Average_yield": 56.9
+  },
+  {
+    "Dist_ID": 591,
+    "District_Name": "Puruliya",
+    "Average_yield": 33.11
+  },
+  {
+    "Dist_ID": 594,
+    "District_Name": "West Midnapore",
+    "Average_yield": 45.73
+  }
+]

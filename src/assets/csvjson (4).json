@@ -1,0 +1,2247 @@
+[
+  {
+    "Agra": "Ahmadabad",
+    "Actual(bu/ac)": 36.38,
+    "Predicted(bu/ac)": 39.68
+  },
+  {
+    "Agra": "Ahmednagar",
+    "Actual(bu/ac)": 52.06,
+    "Predicted(bu/ac)": 47.76
+  },
+  {
+    "Agra": "Aizawl",
+    "Actual(bu/ac)": 49.87,
+    "Predicted(bu/ac)": 44.39
+  },
+  {
+    "Agra": "Ajmer",
+    "Actual(bu/ac)": 84.39,
+    "Predicted(bu/ac)": 71.57
+  },
+  {
+    "Agra": "Akola",
+    "Actual(bu/ac)": 25.07,
+    "Predicted(bu/ac)": 29.97
+  },
+  {
+    "Agra": "Aligarh",
+    "Actual(bu/ac)": 23.96,
+    "Predicted(bu/ac)": 22.7
+  },
+  {
+    "Agra": "Allahabad",
+    "Actual(bu/ac)": 31.89,
+    "Predicted(bu/ac)": 37.89
+  },
+  {
+    "Agra": "Almora",
+    "Actual(bu/ac)": 24.9,
+    "Predicted(bu/ac)": 18.98
+  },
+  {
+    "Agra": "Alwar",
+    "Actual(bu/ac)": 19.89,
+    "Predicted(bu/ac)": 26.69
+  },
+  {
+    "Agra": "Ambala",
+    "Actual(bu/ac)": 21.47,
+    "Predicted(bu/ac)": 32.67
+  },
+  {
+    "Agra": "Ambedkar Nagar",
+    "Actual(bu/ac)": 36.48,
+    "Predicted(bu/ac)": 38.21
+  },
+  {
+    "Agra": "Amravati",
+    "Actual(bu/ac)": 28.22,
+    "Predicted(bu/ac)": 20.03
+  },
+  {
+    "Agra": "Amreli",
+    "Actual(bu/ac)": 37.63,
+    "Predicted(bu/ac)": 36.53
+  },
+  {
+    "Agra": "Amritsar",
+    "Actual(bu/ac)": 18.97,
+    "Predicted(bu/ac)": 29.89
+  },
+  {
+    "Agra": "Anand",
+    "Actual(bu/ac)": 23.34,
+    "Predicted(bu/ac)": 19.06
+  },
+  {
+    "Agra": "Anantapur",
+    "Actual(bu/ac)": 21.81,
+    "Predicted(bu/ac)": 25.38
+  },
+  {
+    "Agra": "Anantnag (Kashmir South)",
+    "Actual(bu/ac)": 24.26,
+    "Predicted(bu/ac)": 29.5
+  },
+  {
+    "Agra": "Andaman Islands",
+    "Actual(bu/ac)": 28.55,
+    "Predicted(bu/ac)": 30.65
+  },
+  {
+    "Agra": "Angul",
+    "Actual(bu/ac)": 22.8,
+    "Predicted(bu/ac)": 18.76
+  },
+  {
+    "Agra": "Anuppur",
+    "Actual(bu/ac)": 80.45,
+    "Predicted(bu/ac)": 65.85
+  },
+  {
+    "Agra": "Ashoknagar",
+    "Actual(bu/ac)": 51.88,
+    "Predicted(bu/ac)": 46.46
+  },
+  {
+    "Agra": "Auraiya",
+    "Actual(bu/ac)": 21.24,
+    "Predicted(bu/ac)": 21.73
+  },
+  {
+    "Agra": "Aurangabad",
+    "Actual(bu/ac)": 55.53,
+    "Predicted(bu/ac)": 50.87
+  },
+  {
+    "Agra": "Aurangabad",
+    "Actual(bu/ac)": 69.53,
+    "Predicted(bu/ac)": 57.45
+  },
+  {
+    "Agra": "Azamgarh",
+    "Actual(bu/ac)": 29.97,
+    "Predicted(bu/ac)": 34.33
+  },
+  {
+    "Agra": "Bagalkot",
+    "Actual(bu/ac)": 71.7,
+    "Predicted(bu/ac)": 60.34
+  },
+  {
+    "Agra": "Bagdam",
+    "Actual(bu/ac)": 15.75,
+    "Predicted(bu/ac)": 32.49
+  },
+  {
+    "Agra": "Bageshwar",
+    "Actual(bu/ac)": 44.25,
+    "Predicted(bu/ac)": 39.22
+  },
+  {
+    "Agra": "Baghpat",
+    "Actual(bu/ac)": 41.98,
+    "Predicted(bu/ac)": 37.99
+  },
+  {
+    "Agra": "Bahraich",
+    "Actual(bu/ac)": 95.19,
+    "Predicted(bu/ac)": 80.71
+  },
+  {
+    "Agra": "Balaghat",
+    "Actual(bu/ac)": 36.15,
+    "Predicted(bu/ac)": 36.63
+  },
+  {
+    "Agra": "Baleshwar",
+    "Actual(bu/ac)": 14.41,
+    "Predicted(bu/ac)": 22.96
+  },
+  {
+    "Agra": "Ballia",
+    "Actual(bu/ac)": 10.74,
+    "Predicted(bu/ac)": 31.32
+  },
+  {
+    "Agra": "Balrampur",
+    "Actual(bu/ac)": 59.09,
+    "Predicted(bu/ac)": 48.61
+  },
+  {
+    "Agra": "Banas Kantha",
+    "Actual(bu/ac)": 48.11,
+    "Predicted(bu/ac)": 40.9
+  },
+  {
+    "Agra": "Banda",
+    "Actual(bu/ac)": 53.11,
+    "Predicted(bu/ac)": 48.09
+  },
+  {
+    "Agra": "Bangalore Rural",
+    "Actual(bu/ac)": 33.44,
+    "Predicted(bu/ac)": 38.44
+  },
+  {
+    "Agra": "Banka",
+    "Actual(bu/ac)": 21.24,
+    "Predicted(bu/ac)": 28.84
+  },
+  {
+    "Agra": "Bankura",
+    "Actual(bu/ac)": 37.29,
+    "Predicted(bu/ac)": 37.26
+  },
+  {
+    "Agra": "Banswara",
+    "Actual(bu/ac)": 82.89,
+    "Predicted(bu/ac)": 66.36
+  },
+  {
+    "Agra": "Bara Banki",
+    "Actual(bu/ac)": 17.23,
+    "Predicted(bu/ac)": 23.81
+  },
+  {
+    "Agra": "Baragarh",
+    "Actual(bu/ac)": 43.49,
+    "Predicted(bu/ac)": 39.84
+  },
+  {
+    "Agra": "Baramula (Kashmir North)",
+    "Actual(bu/ac)": 64.96,
+    "Predicted(bu/ac)": 52.59
+  },
+  {
+    "Agra": "Baran",
+    "Actual(bu/ac)": 72.46,
+    "Predicted(bu/ac)": 61.78
+  },
+  {
+    "Agra": "Bareilly",
+    "Actual(bu/ac)": 31.61,
+    "Predicted(bu/ac)": 36.09
+  },
+  {
+    "Agra": "Barmer",
+    "Actual(bu/ac)": 81.5,
+    "Predicted(bu/ac)": 67.5
+  },
+  {
+    "Agra": "Barpeta",
+    "Actual(bu/ac)": 26.65,
+    "Predicted(bu/ac)": 33.41
+  },
+  {
+    "Agra": "Barwani",
+    "Actual(bu/ac)": 24.76,
+    "Predicted(bu/ac)": 22.55
+  },
+  {
+    "Agra": "Bastar",
+    "Actual(bu/ac)": 56.5,
+    "Predicted(bu/ac)": 48.92
+  },
+  {
+    "Agra": "Basti",
+    "Actual(bu/ac)": 55.39,
+    "Predicted(bu/ac)": 48.81
+  },
+  {
+    "Agra": "Begusarai",
+    "Actual(bu/ac)": 42.56,
+    "Predicted(bu/ac)": 38.31
+  },
+  {
+    "Agra": "Belgaum",
+    "Actual(bu/ac)": 56.54,
+    "Predicted(bu/ac)": 51.04
+  },
+  {
+    "Agra": "Bellary",
+    "Actual(bu/ac)": 65.33,
+    "Predicted(bu/ac)": 57.09
+  },
+  {
+    "Agra": "Betul",
+    "Actual(bu/ac)": 52.85,
+    "Predicted(bu/ac)": 48.16
+  },
+  {
+    "Agra": "Bhabua",
+    "Actual(bu/ac)": 54.65,
+    "Predicted(bu/ac)": 50.26
+  },
+  {
+    "Agra": "Bhadrak",
+    "Actual(bu/ac)": 57.66,
+    "Predicted(bu/ac)": 49.61
+  },
+  {
+    "Agra": "Bhagalpur",
+    "Actual(bu/ac)": 57,
+    "Predicted(bu/ac)": 48.55
+  },
+  {
+    "Agra": "Bharatpur",
+    "Actual(bu/ac)": 47.32,
+    "Predicted(bu/ac)": 40.77
+  },
+  {
+    "Agra": "Bharuch",
+    "Actual(bu/ac)": 71.92,
+    "Predicted(bu/ac)": 61.55
+  },
+  {
+    "Agra": "Bhavnagar",
+    "Actual(bu/ac)": 40.08,
+    "Predicted(bu/ac)": 39.17
+  },
+  {
+    "Agra": "Bhilwara",
+    "Actual(bu/ac)": 37.24,
+    "Predicted(bu/ac)": 38.02
+  },
+  {
+    "Agra": "Bhojpur",
+    "Actual(bu/ac)": 38.64,
+    "Predicted(bu/ac)": 40.63
+  },
+  {
+    "Agra": "Bhopal",
+    "Actual(bu/ac)": 87.64,
+    "Predicted(bu/ac)": 73.66
+  },
+  {
+    "Agra": "Bid",
+    "Actual(bu/ac)": 47.5,
+    "Predicted(bu/ac)": 40.58
+  },
+  {
+    "Agra": "Bidar",
+    "Actual(bu/ac)": 42.97,
+    "Predicted(bu/ac)": 42.65
+  },
+  {
+    "Agra": "Bijapur",
+    "Actual(bu/ac)": 73.13,
+    "Predicted(bu/ac)": 58.87
+  },
+  {
+    "Agra": "Bijnor",
+    "Actual(bu/ac)": 85.55,
+    "Predicted(bu/ac)": 71.01
+  },
+  {
+    "Agra": "Bilaspur",
+    "Actual(bu/ac)": 36.55,
+    "Predicted(bu/ac)": 36.92
+  },
+  {
+    "Agra": "Bilaspur",
+    "Actual(bu/ac)": 43.62,
+    "Predicted(bu/ac)": 41.78
+  },
+  {
+    "Agra": "Birbhum",
+    "Actual(bu/ac)": 43.62,
+    "Predicted(bu/ac)": 43.03
+  },
+  {
+    "Agra": "Bishnupur",
+    "Actual(bu/ac)": 52.24,
+    "Predicted(bu/ac)": 47.13
+  },
+  {
+    "Agra": "Bokaro",
+    "Actual(bu/ac)": 34.61,
+    "Predicted(bu/ac)": 37.93
+  },
+  {
+    "Agra": "Bongaigaon",
+    "Actual(bu/ac)": 35.9,
+    "Predicted(bu/ac)": 35.92
+  },
+  {
+    "Agra": "Boudh",
+    "Actual(bu/ac)": 51.32,
+    "Predicted(bu/ac)": 47.59
+  },
+  {
+    "Agra": "Bulandshahr",
+    "Actual(bu/ac)": 25.11,
+    "Predicted(bu/ac)": 33.1
+  },
+  {
+    "Agra": "Buldana",
+    "Actual(bu/ac)": 42.07,
+    "Predicted(bu/ac)": 40
+  },
+  {
+    "Agra": "Bundi",
+    "Actual(bu/ac)": 37.69,
+    "Predicted(bu/ac)": 37.32
+  },
+  {
+    "Agra": "Burhanpur",
+    "Actual(bu/ac)": 46.99,
+    "Predicted(bu/ac)": 40.2
+  },
+  {
+    "Agra": "Buxar",
+    "Actual(bu/ac)": 31.52,
+    "Predicted(bu/ac)": 37.02
+  },
+  {
+    "Agra": "Cachar",
+    "Actual(bu/ac)": 34.05,
+    "Predicted(bu/ac)": 35.21
+  },
+  {
+    "Agra": "Chamba",
+    "Actual(bu/ac)": 28.57,
+    "Predicted(bu/ac)": 30.67
+  },
+  {
+    "Agra": "Chamoli",
+    "Actual(bu/ac)": 38.77,
+    "Predicted(bu/ac)": 36.69
+  },
+  {
+    "Agra": "Champawat",
+    "Actual(bu/ac)": 32.96,
+    "Predicted(bu/ac)": 37.31
+  },
+  {
+    "Agra": "Champhai",
+    "Actual(bu/ac)": 32.21,
+    "Predicted(bu/ac)": 35.12
+  },
+  {
+    "Agra": "Chamrajnagar",
+    "Actual(bu/ac)": 35.72,
+    "Predicted(bu/ac)": 35.46
+  },
+  {
+    "Agra": "Chandauli",
+    "Actual(bu/ac)": 15.93,
+    "Predicted(bu/ac)": 32.46
+  },
+  {
+    "Agra": "Chandel",
+    "Actual(bu/ac)": 38.23,
+    "Predicted(bu/ac)": 37.71
+  },
+  {
+    "Agra": "Chandigarh",
+    "Actual(bu/ac)": 22.3,
+    "Predicted(bu/ac)": 25.29
+  },
+  {
+    "Agra": "Chandrapur",
+    "Actual(bu/ac)": 26.5,
+    "Predicted(bu/ac)": 33.31
+  },
+  {
+    "Agra": "Changlang",
+    "Actual(bu/ac)": 27.22,
+    "Predicted(bu/ac)": 33.58
+  },
+  {
+    "Agra": "Chatra",
+    "Actual(bu/ac)": 30.53,
+    "Predicted(bu/ac)": 36.43
+  },
+  {
+    "Agra": "Chhatarpur",
+    "Actual(bu/ac)": 25.27,
+    "Predicted(bu/ac)": 26.35
+  },
+  {
+    "Agra": "Chhindwara",
+    "Actual(bu/ac)": 37.93,
+    "Predicted(bu/ac)": 36.26
+  },
+  {
+    "Agra": "Chikmagalur",
+    "Actual(bu/ac)": 24.3,
+    "Predicted(bu/ac)": 29.25
+  },
+  {
+    "Agra": "Chitradurga",
+    "Actual(bu/ac)": 32.7,
+    "Predicted(bu/ac)": 34.31
+  },
+  {
+    "Agra": "Chitrakoot",
+    "Actual(bu/ac)": 38.23,
+    "Predicted(bu/ac)": 37.45
+  },
+  {
+    "Agra": "Chittaurgarh",
+    "Actual(bu/ac)": 36.41,
+    "Predicted(bu/ac)": 36.67
+  },
+  {
+    "Agra": "Chittoor",
+    "Actual(bu/ac)": 32.07,
+    "Predicted(bu/ac)": 35.39
+  },
+  {
+    "Agra": "Churachandpur",
+    "Actual(bu/ac)": 28.08,
+    "Predicted(bu/ac)": 33.91
+  },
+  {
+    "Agra": "Dadra and Nagar Haveli",
+    "Actual(bu/ac)": 30.32,
+    "Predicted(bu/ac)": 34.12
+  },
+  {
+    "Agra": "Dahod",
+    "Actual(bu/ac)": 21.36,
+    "Predicted(bu/ac)": 29.04
+  },
+  {
+    "Agra": "Damoh",
+    "Actual(bu/ac)": 27.88,
+    "Predicted(bu/ac)": 26.52
+  },
+  {
+    "Agra": "Dantewada",
+    "Actual(bu/ac)": 33.57,
+    "Predicted(bu/ac)": 38.99
+  },
+  {
+    "Agra": "Darjiling",
+    "Actual(bu/ac)": 38.91,
+    "Predicted(bu/ac)": 39.74
+  },
+  {
+    "Agra": "Datia",
+    "Actual(bu/ac)": 25.6,
+    "Predicted(bu/ac)": 26.17
+  },
+  {
+    "Agra": "Dausa",
+    "Actual(bu/ac)": 39.83,
+    "Predicted(bu/ac)": 37.02
+  },
+  {
+    "Agra": "Davanagere",
+    "Actual(bu/ac)": 29.83,
+    "Predicted(bu/ac)": 34
+  },
+  {
+    "Agra": "Dehra Dun",
+    "Actual(bu/ac)": 27.78,
+    "Predicted(bu/ac)": 23.02
+  },
+  {
+    "Agra": "Deogarh",
+    "Actual(bu/ac)": 21.24,
+    "Predicted(bu/ac)": 25.49
+  },
+  {
+    "Agra": "Deoghar",
+    "Actual(bu/ac)": 21.24,
+    "Predicted(bu/ac)": 18.63
+  },
+  {
+    "Agra": "Deoria",
+    "Actual(bu/ac)": 61.93,
+    "Predicted(bu/ac)": 54.75
+  },
+  {
+    "Agra": "Dewas",
+    "Actual(bu/ac)": 51.25,
+    "Predicted(bu/ac)": 45.15
+  },
+  {
+    "Agra": "Dhalai",
+    "Actual(bu/ac)": 35.37,
+    "Predicted(bu/ac)": 36.66
+  },
+  {
+    "Agra": "Dhamtari",
+    "Actual(bu/ac)": 40.94,
+    "Predicted(bu/ac)": 38.82
+  },
+  {
+    "Agra": "Dhanbad",
+    "Actual(bu/ac)": 42.22,
+    "Predicted(bu/ac)": 41.55
+  },
+  {
+    "Agra": "Dhar",
+    "Actual(bu/ac)": 38.55,
+    "Predicted(bu/ac)": 36.67
+  },
+  {
+    "Agra": "Dharwad",
+    "Actual(bu/ac)": 40.67,
+    "Predicted(bu/ac)": 38.43
+  },
+  {
+    "Agra": "Dhemaji",
+    "Actual(bu/ac)": 42.38,
+    "Predicted(bu/ac)": 42.36
+  },
+  {
+    "Agra": "Dhenkanal",
+    "Actual(bu/ac)": 43.97,
+    "Predicted(bu/ac)": 39.99
+  },
+  {
+    "Agra": "Dhuburi",
+    "Actual(bu/ac)": 40.78,
+    "Predicted(bu/ac)": 41.52
+  },
+  {
+    "Agra": "Dhule",
+    "Actual(bu/ac)": 42.22,
+    "Predicted(bu/ac)": 39.42
+  },
+  {
+    "Agra": "Dibrugarh",
+    "Actual(bu/ac)": 46.52,
+    "Predicted(bu/ac)": 44.29
+  },
+  {
+    "Agra": "Dimapur",
+    "Actual(bu/ac)": 45.09,
+    "Predicted(bu/ac)": 41.59
+  },
+  {
+    "Agra": "Dindori",
+    "Actual(bu/ac)": 44.29,
+    "Predicted(bu/ac)": 39.33
+  },
+  {
+    "Agra": "District",
+    "Actual(bu/ac)": 39.65,
+    "Predicted(bu/ac)": 39.35
+  },
+  {
+    "Agra": "Doda",
+    "Actual(bu/ac)": 29.83,
+    "Predicted(bu/ac)": 30.89
+  },
+  {
+    "Agra": "Dumka",
+    "Actual(bu/ac)": 32.28,
+    "Predicted(bu/ac)": 38.32
+  },
+  {
+    "Agra": "Dungarpur",
+    "Actual(bu/ac)": 27.26,
+    "Predicted(bu/ac)": 22.94
+  },
+  {
+    "Agra": "Durg",
+    "Actual(bu/ac)": 26.38,
+    "Predicted(bu/ac)": 26.67
+  },
+  {
+    "Agra": "East",
+    "Actual(bu/ac)": 49.97,
+    "Predicted(bu/ac)": 45.83
+  },
+  {
+    "Agra": "East Garo Hills",
+    "Actual(bu/ac)": 24.9,
+    "Predicted(bu/ac)": 26.34
+  },
+  {
+    "Agra": "East Imphal",
+    "Actual(bu/ac)": 22.75,
+    "Predicted(bu/ac)": 18.93
+  },
+  {
+    "Agra": "East Kameng",
+    "Actual(bu/ac)": 40.73,
+    "Predicted(bu/ac)": 40.42
+  },
+  {
+    "Agra": "East Khasi Hills",
+    "Actual(bu/ac)": 37.95,
+    "Predicted(bu/ac)": 36.74
+  },
+  {
+    "Agra": "East Midnapore",
+    "Actual(bu/ac)": 29.89,
+    "Predicted(bu/ac)": 30.87
+  },
+  {
+    "Agra": "East Siang",
+    "Actual(bu/ac)": 37.44,
+    "Predicted(bu/ac)": 40.21
+  },
+  {
+    "Agra": "Etah",
+    "Actual(bu/ac)": 47,
+    "Predicted(bu/ac)": 40.16
+  },
+  {
+    "Agra": "Etawah",
+    "Actual(bu/ac)": 34.25,
+    "Predicted(bu/ac)": 39.18
+  },
+  {
+    "Agra": "Faizabad",
+    "Actual(bu/ac)": 33.54,
+    "Predicted(bu/ac)": 34.93
+  },
+  {
+    "Agra": "Farrukhabad",
+    "Actual(bu/ac)": 38.23,
+    "Predicted(bu/ac)": 39.59
+  },
+  {
+    "Agra": "Fatehgarh Sahib",
+    "Actual(bu/ac)": 39.55,
+    "Predicted(bu/ac)": 39.91
+  },
+  {
+    "Agra": "Fatehpur",
+    "Actual(bu/ac)": 25.81,
+    "Predicted(bu/ac)": 26.11
+  },
+  {
+    "Agra": "Firozabad",
+    "Actual(bu/ac)": 24.02,
+    "Predicted(bu/ac)": 22.33
+  },
+  {
+    "Agra": "Gadag",
+    "Actual(bu/ac)": 11.67,
+    "Predicted(bu/ac)": 25.83
+  },
+  {
+    "Agra": "Gajapati",
+    "Actual(bu/ac)": 39.6,
+    "Predicted(bu/ac)": 38.37
+  },
+  {
+    "Agra": "Gandhinagar",
+    "Actual(bu/ac)": 39.83,
+    "Predicted(bu/ac)": 38.06
+  },
+  {
+    "Agra": "Ganganagar",
+    "Actual(bu/ac)": 29.4,
+    "Predicted(bu/ac)": 33.82
+  },
+  {
+    "Agra": "Ganjam",
+    "Actual(bu/ac)": 31.85,
+    "Predicted(bu/ac)": 37.1
+  },
+  {
+    "Agra": "Garhchiroli",
+    "Actual(bu/ac)": 25.25,
+    "Predicted(bu/ac)": 19.17
+  },
+  {
+    "Agra": "Garhwa",
+    "Actual(bu/ac)": 48.59,
+    "Predicted(bu/ac)": 42.03
+  },
+  {
+    "Agra": "Gautam Buddha Nagar",
+    "Actual(bu/ac)": 24.36,
+    "Predicted(bu/ac)": 19.27
+  },
+  {
+    "Agra": "Gaya",
+    "Actual(bu/ac)": 25.22,
+    "Predicted(bu/ac)": 29.4
+  },
+  {
+    "Agra": "Ghaziabad",
+    "Actual(bu/ac)": 43.75,
+    "Predicted(bu/ac)": 40.08
+  },
+  {
+    "Agra": "Ghazipur",
+    "Actual(bu/ac)": 45.67,
+    "Predicted(bu/ac)": 43.73
+  },
+  {
+    "Agra": "Giridih",
+    "Actual(bu/ac)": 17.51,
+    "Predicted(bu/ac)": 20.64
+  },
+  {
+    "Agra": "Goalpara",
+    "Actual(bu/ac)": 44.61,
+    "Predicted(bu/ac)": 39.17
+  },
+  {
+    "Agra": "Godda",
+    "Actual(bu/ac)": 61.1,
+    "Predicted(bu/ac)": 54.7
+  },
+  {
+    "Agra": "Golaghat",
+    "Actual(bu/ac)": 67.45,
+    "Predicted(bu/ac)": 55.14
+  },
+  {
+    "Agra": "Gonda",
+    "Actual(bu/ac)": 57.42,
+    "Predicted(bu/ac)": 50.68
+  },
+  {
+    "Agra": "Gondiya",
+    "Actual(bu/ac)": 56.53,
+    "Predicted(bu/ac)": 48.27
+  },
+  {
+    "Agra": "Gopalganj",
+    "Actual(bu/ac)": 36.62,
+    "Predicted(bu/ac)": 39.93
+  },
+  {
+    "Agra": "Gorakhpur",
+    "Actual(bu/ac)": 41.51,
+    "Predicted(bu/ac)": 38.83
+  },
+  {
+    "Agra": "Gulbarga",
+    "Actual(bu/ac)": 68.21,
+    "Predicted(bu/ac)": 55.64
+  },
+  {
+    "Agra": "Gumla",
+    "Actual(bu/ac)": 47.66,
+    "Predicted(bu/ac)": 40.42
+  },
+  {
+    "Agra": "Guna",
+    "Actual(bu/ac)": 54.18,
+    "Predicted(bu/ac)": 45.9
+  },
+  {
+    "Agra": "Gurdaspur",
+    "Actual(bu/ac)": 53.41,
+    "Predicted(bu/ac)": 45.59
+  },
+  {
+    "Agra": "Gwalior",
+    "Actual(bu/ac)": 52.92,
+    "Predicted(bu/ac)": 49.45
+  },
+  {
+    "Agra": "Hailakandi",
+    "Actual(bu/ac)": 42.17,
+    "Predicted(bu/ac)": 38.34
+  },
+  {
+    "Agra": "Hamirpur",
+    "Actual(bu/ac)": 59.96,
+    "Predicted(bu/ac)": 49.1
+  },
+  {
+    "Agra": "Hamirpur",
+    "Actual(bu/ac)": 29.13,
+    "Predicted(bu/ac)": 30.55
+  },
+  {
+    "Agra": "Hanumangarh",
+    "Actual(bu/ac)": 51.01,
+    "Predicted(bu/ac)": 44.2
+  },
+  {
+    "Agra": "Haora",
+    "Actual(bu/ac)": 29.17,
+    "Predicted(bu/ac)": 23.38
+  },
+  {
+    "Agra": "Harda",
+    "Actual(bu/ac)": 55.03,
+    "Predicted(bu/ac)": 46.31
+  },
+  {
+    "Agra": "Hardoi",
+    "Actual(bu/ac)": 49.96,
+    "Predicted(bu/ac)": 44.35
+  },
+  {
+    "Agra": "Haridwar",
+    "Actual(bu/ac)": 59.3,
+    "Predicted(bu/ac)": 49.48
+  },
+  {
+    "Agra": "Hathras",
+    "Actual(bu/ac)": 43.44,
+    "Predicted(bu/ac)": 39.04
+  },
+  {
+    "Agra": "Haveri",
+    "Actual(bu/ac)": 54.87,
+    "Predicted(bu/ac)": 47.07
+  },
+  {
+    "Agra": "Hazaribag",
+    "Actual(bu/ac)": 66.86,
+    "Predicted(bu/ac)": 55.58
+  },
+  {
+    "Agra": "Hingoli",
+    "Actual(bu/ac)": 41.82,
+    "Predicted(bu/ac)": 39.43
+  },
+  {
+    "Agra": "Hoshangabad",
+    "Actual(bu/ac)": 16.1,
+    "Predicted(bu/ac)": 29.18
+  },
+  {
+    "Agra": "Hoshiarpur",
+    "Actual(bu/ac)": 29.79,
+    "Predicted(bu/ac)": 30.42
+  },
+  {
+    "Agra": "Hugli",
+    "Actual(bu/ac)": 35.99,
+    "Predicted(bu/ac)": 37.49
+  },
+  {
+    "Agra": "Idukki",
+    "Actual(bu/ac)": 36.2,
+    "Predicted(bu/ac)": 38.79
+  },
+  {
+    "Agra": "Indore",
+    "Actual(bu/ac)": 71.23,
+    "Predicted(bu/ac)": 58.87
+  },
+  {
+    "Agra": "Jabalpur",
+    "Actual(bu/ac)": 30,
+    "Predicted(bu/ac)": 23.55
+  },
+  {
+    "Agra": "Jaintia Hills",
+    "Actual(bu/ac)": 25.89,
+    "Predicted(bu/ac)": 23
+  },
+  {
+    "Agra": "Jaipur",
+    "Actual(bu/ac)": 84.76,
+    "Predicted(bu/ac)": 68.9
+  },
+  {
+    "Agra": "Jajpur",
+    "Actual(bu/ac)": 18.95,
+    "Predicted(bu/ac)": 23.8
+  },
+  {
+    "Agra": "Jalandhar",
+    "Actual(bu/ac)": 60.59,
+    "Predicted(bu/ac)": 50.02
+  },
+  {
+    "Agra": "Jalaun",
+    "Actual(bu/ac)": 41.6,
+    "Predicted(bu/ac)": 39.87
+  },
+  {
+    "Agra": "Jalgaon",
+    "Actual(bu/ac)": 27.97,
+    "Predicted(bu/ac)": 30.5
+  },
+  {
+    "Agra": "Jalna",
+    "Actual(bu/ac)": 22.96,
+    "Predicted(bu/ac)": 32.53
+  },
+  {
+    "Agra": "Jalor",
+    "Actual(bu/ac)": 59.5,
+    "Predicted(bu/ac)": 52.08
+  },
+  {
+    "Agra": "Jalpaiguri",
+    "Actual(bu/ac)": 39.08,
+    "Predicted(bu/ac)": 40.9
+  },
+  {
+    "Agra": "Jammu",
+    "Actual(bu/ac)": 31.24,
+    "Predicted(bu/ac)": 36.05
+  },
+  {
+    "Agra": "Jamtara",
+    "Actual(bu/ac)": 45.61,
+    "Predicted(bu/ac)": 40.67
+  },
+  {
+    "Agra": "Jamui",
+    "Actual(bu/ac)": 15.14,
+    "Predicted(bu/ac)": 20.38
+  },
+  {
+    "Agra": "Janjgir-Champa",
+    "Actual(bu/ac)": 36.07,
+    "Predicted(bu/ac)": 39.48
+  },
+  {
+    "Agra": "Jashpur",
+    "Actual(bu/ac)": 24.7,
+    "Predicted(bu/ac)": 22.48
+  },
+  {
+    "Agra": "Jaunpur",
+    "Actual(bu/ac)": 31.37,
+    "Predicted(bu/ac)": 35.98
+  },
+  {
+    "Agra": "Jehanabad",
+    "Actual(bu/ac)": 29.12,
+    "Predicted(bu/ac)": 23.75
+  },
+  {
+    "Agra": "Jhabua",
+    "Actual(bu/ac)": 36.01,
+    "Predicted(bu/ac)": 38.96
+  },
+  {
+    "Agra": "Jhajjar",
+    "Actual(bu/ac)": 34.24,
+    "Predicted(bu/ac)": 38.25
+  },
+  {
+    "Agra": "Jhalawar",
+    "Actual(bu/ac)": 28.42,
+    "Predicted(bu/ac)": 27.13
+  },
+  {
+    "Agra": "Jhansi",
+    "Actual(bu/ac)": 33.46,
+    "Predicted(bu/ac)": 37.79
+  },
+  {
+    "Agra": "Jharsuguda",
+    "Actual(bu/ac)": 25.7,
+    "Predicted(bu/ac)": 22.76
+  },
+  {
+    "Agra": "Jodhpur",
+    "Actual(bu/ac)": 28.89,
+    "Predicted(bu/ac)": 23.27
+  },
+  {
+    "Agra": "Jorhat",
+    "Actual(bu/ac)": 21.94,
+    "Predicted(bu/ac)": 25.59
+  },
+  {
+    "Agra": "Junagadh",
+    "Actual(bu/ac)": 18.8,
+    "Predicted(bu/ac)": 29.96
+  },
+  {
+    "Agra": "Junagadh",
+    "Actual(bu/ac)": 26.86,
+    "Predicted(bu/ac)": 30.07
+  },
+  {
+    "Agra": "Kachchh",
+    "Actual(bu/ac)": 21,
+    "Predicted(bu/ac)": 25.13
+  },
+  {
+    "Agra": "Kalahandi",
+    "Actual(bu/ac)": 35.62,
+    "Predicted(bu/ac)": 36.63
+  },
+  {
+    "Agra": "Kamrup",
+    "Actual(bu/ac)": 23.7,
+    "Predicted(bu/ac)": 25.95
+  },
+  {
+    "Agra": "Kandhamal",
+    "Actual(bu/ac)": 32.01,
+    "Predicted(bu/ac)": 34.04
+  },
+  {
+    "Agra": "Kangra",
+    "Actual(bu/ac)": 59.5,
+    "Predicted(bu/ac)": 52.64
+  },
+  {
+    "Agra": "Kanker",
+    "Actual(bu/ac)": 29.74,
+    "Predicted(bu/ac)": 34.29
+  },
+  {
+    "Agra": "Kannauj",
+    "Actual(bu/ac)": 13.92,
+    "Predicted(bu/ac)": 19.86
+  },
+  {
+    "Agra": "Kanpur",
+    "Actual(bu/ac)": 36.69,
+    "Predicted(bu/ac)": 37.73
+  },
+  {
+    "Agra": "Kanpur Dehat",
+    "Actual(bu/ac)": 22.18,
+    "Predicted(bu/ac)": 18.66
+  },
+  {
+    "Agra": "Kapurthala",
+    "Actual(bu/ac)": 26.8,
+    "Predicted(bu/ac)": 19.57
+  },
+  {
+    "Agra": "Karauli",
+    "Actual(bu/ac)": 22.54,
+    "Predicted(bu/ac)": 32.91
+  },
+  {
+    "Agra": "Karbi Anglong",
+    "Actual(bu/ac)": 21.29,
+    "Predicted(bu/ac)": 28.75
+  },
+  {
+    "Agra": "Karimganj",
+    "Actual(bu/ac)": 34.4,
+    "Predicted(bu/ac)": 38.97
+  },
+  {
+    "Agra": "Kathua",
+    "Actual(bu/ac)": 23.85,
+    "Predicted(bu/ac)": 22.61
+  },
+  {
+    "Agra": "Katni",
+    "Actual(bu/ac)": 27.48,
+    "Predicted(bu/ac)": 33.73
+  },
+  {
+    "Agra": "Kaushambi",
+    "Actual(bu/ac)": 27.7,
+    "Predicted(bu/ac)": 30.44
+  },
+  {
+    "Agra": "Keonjhar",
+    "Actual(bu/ac)": 29.08,
+    "Predicted(bu/ac)": 34.19
+  },
+  {
+    "Agra": "Kheda",
+    "Actual(bu/ac)": 22.86,
+    "Predicted(bu/ac)": 29.28
+  },
+  {
+    "Agra": "Khordha",
+    "Actual(bu/ac)": 8.44,
+    "Predicted(bu/ac)": 31.88
+  },
+  {
+    "Agra": "Kinnaur",
+    "Actual(bu/ac)": 12.6,
+    "Predicted(bu/ac)": 31.87
+  },
+  {
+    "Agra": "Koderma",
+    "Actual(bu/ac)": 20.83,
+    "Predicted(bu/ac)": 32.56
+  },
+  {
+    "Agra": "Kohima",
+    "Actual(bu/ac)": 24.83,
+    "Predicted(bu/ac)": 25.82
+  },
+  {
+    "Agra": "Kokrajhar",
+    "Actual(bu/ac)": 25.51,
+    "Predicted(bu/ac)": 22.85
+  },
+  {
+    "Agra": "Kolar",
+    "Actual(bu/ac)": 18.29,
+    "Predicted(bu/ac)": 26.96
+  },
+  {
+    "Agra": "Kolasib",
+    "Actual(bu/ac)": 14.53,
+    "Predicted(bu/ac)": 23.28
+  },
+  {
+    "Agra": "Kolhapur",
+    "Actual(bu/ac)": 26.05,
+    "Predicted(bu/ac)": 22.85
+  },
+  {
+    "Agra": "Koppal",
+    "Actual(bu/ac)": 52.48,
+    "Predicted(bu/ac)": 45.06
+  },
+  {
+    "Agra": "Koraput",
+    "Actual(bu/ac)": 43.65,
+    "Predicted(bu/ac)": 41.95
+  },
+  {
+    "Agra": "Korba",
+    "Actual(bu/ac)": 9.13,
+    "Predicted(bu/ac)": 28.03
+  },
+  {
+    "Agra": "Koriya",
+    "Actual(bu/ac)": 21.96,
+    "Predicted(bu/ac)": 25.79
+  },
+  {
+    "Agra": "Kota",
+    "Actual(bu/ac)": 24.11,
+    "Predicted(bu/ac)": 19.21
+  },
+  {
+    "Agra": "Kullu",
+    "Actual(bu/ac)": 31.53,
+    "Predicted(bu/ac)": 35.73
+  },
+  {
+    "Agra": "Kupwara (Muzaffarabad)",
+    "Actual(bu/ac)": 25.03,
+    "Predicted(bu/ac)": 22.4
+  },
+  {
+    "Agra": "Kurnool",
+    "Actual(bu/ac)": 14.23,
+    "Predicted(bu/ac)": 23.29
+  },
+  {
+    "Agra": "Kurukshetra",
+    "Actual(bu/ac)": 17.37,
+    "Predicted(bu/ac)": 26.57
+  },
+  {
+    "Agra": "Kurung Kumey",
+    "Actual(bu/ac)": 59.76,
+    "Predicted(bu/ac)": 49.02
+  },
+  {
+    "Agra": "Kushinagar",
+    "Actual(bu/ac)": 31.07,
+    "Predicted(bu/ac)": 33.53
+  },
+  {
+    "Agra": "Lahul and Spiti",
+    "Actual(bu/ac)": 33.06,
+    "Predicted(bu/ac)": 35.8
+  },
+  {
+    "Agra": "Lakhimpur",
+    "Actual(bu/ac)": 31.24,
+    "Predicted(bu/ac)": 34.02
+  },
+  {
+    "Agra": "Lakhisarai",
+    "Actual(bu/ac)": 17,
+    "Predicted(bu/ac)": 26.63
+  },
+  {
+    "Agra": "Lalitpur",
+    "Actual(bu/ac)": 29.26,
+    "Predicted(bu/ac)": 34.32
+  },
+  {
+    "Agra": "Latehar",
+    "Actual(bu/ac)": 9.46,
+    "Predicted(bu/ac)": 25.9
+  },
+  {
+    "Agra": "Latur",
+    "Actual(bu/ac)": 34.8,
+    "Predicted(bu/ac)": 38.3
+  },
+  {
+    "Agra": "Lawngtlai",
+    "Actual(bu/ac)": 40.02,
+    "Predicted(bu/ac)": 40.19
+  },
+  {
+    "Agra": "Lohardaga",
+    "Actual(bu/ac)": 24.31,
+    "Predicted(bu/ac)": 33.22
+  },
+  {
+    "Agra": "Lohit",
+    "Actual(bu/ac)": 38.07,
+    "Predicted(bu/ac)": 37.61
+  },
+  {
+    "Agra": "Lower Dibang Valley",
+    "Actual(bu/ac)": 35.87,
+    "Predicted(bu/ac)": 39.82
+  },
+  {
+    "Agra": "Lower Subansiri",
+    "Actual(bu/ac)": 38.62,
+    "Predicted(bu/ac)": 40.76
+  },
+  {
+    "Agra": "Lucknow",
+    "Actual(bu/ac)": 41.03,
+    "Predicted(bu/ac)": 40.64
+  },
+  {
+    "Agra": "Lunglei",
+    "Actual(bu/ac)": 39.38,
+    "Predicted(bu/ac)": 40.99
+  },
+  {
+    "Agra": "Madhubani",
+    "Actual(bu/ac)": 36.88,
+    "Predicted(bu/ac)": 37.13
+  },
+  {
+    "Agra": "Maharajganj",
+    "Actual(bu/ac)": 31.51,
+    "Predicted(bu/ac)": 35
+  },
+  {
+    "Agra": "Mahasamund",
+    "Actual(bu/ac)": 53.29,
+    "Predicted(bu/ac)": 47.68
+  },
+  {
+    "Agra": "Mahbubnagar",
+    "Actual(bu/ac)": 35.97,
+    "Predicted(bu/ac)": 37.89
+  },
+  {
+    "Agra": "Mahesana",
+    "Actual(bu/ac)": 51.4,
+    "Predicted(bu/ac)": 45.55
+  },
+  {
+    "Agra": "Mahoba",
+    "Actual(bu/ac)": 27.97,
+    "Predicted(bu/ac)": 30.49
+  },
+  {
+    "Agra": "Mainpuri",
+    "Actual(bu/ac)": 37.55,
+    "Predicted(bu/ac)": 40.28
+  },
+  {
+    "Agra": "Malkangiri",
+    "Actual(bu/ac)": 30.95,
+    "Predicted(bu/ac)": 33.7
+  },
+  {
+    "Agra": "Mamit",
+    "Actual(bu/ac)": 28.08,
+    "Predicted(bu/ac)": 26.61
+  },
+  {
+    "Agra": "Mandi",
+    "Actual(bu/ac)": 27.54,
+    "Predicted(bu/ac)": 19.61
+  },
+  {
+    "Agra": "Mandla",
+    "Actual(bu/ac)": 21.5,
+    "Predicted(bu/ac)": 32.61
+  },
+  {
+    "Agra": "Mandsaur",
+    "Actual(bu/ac)": 47.47,
+    "Predicted(bu/ac)": 41.42
+  },
+  {
+    "Agra": "Mandya",
+    "Actual(bu/ac)": 24.19,
+    "Predicted(bu/ac)": 29.31
+  },
+  {
+    "Agra": "Mansa",
+    "Actual(bu/ac)": 18.95,
+    "Predicted(bu/ac)": 29.73
+  },
+  {
+    "Agra": "Marigaon",
+    "Actual(bu/ac)": 22.78,
+    "Predicted(bu/ac)": 18.39
+  },
+  {
+    "Agra": "Mathura",
+    "Actual(bu/ac)": 26.07,
+    "Predicted(bu/ac)": 19.25
+  },
+  {
+    "Agra": "Mau",
+    "Actual(bu/ac)": 31.7,
+    "Predicted(bu/ac)": 33.75
+  },
+  {
+    "Agra": "Mayurbhanj",
+    "Actual(bu/ac)": 31.62,
+    "Predicted(bu/ac)": 33.91
+  },
+  {
+    "Agra": "Medak",
+    "Actual(bu/ac)": 31.66,
+    "Predicted(bu/ac)": 35.78
+  },
+  {
+    "Agra": "Meerut",
+    "Actual(bu/ac)": 31.55,
+    "Predicted(bu/ac)": 36.1
+  },
+  {
+    "Agra": "Mirzapur",
+    "Actual(bu/ac)": 31.63,
+    "Predicted(bu/ac)": 33.97
+  },
+  {
+    "Agra": "Moga",
+    "Actual(bu/ac)": 31.61,
+    "Predicted(bu/ac)": 38.08
+  },
+  {
+    "Agra": "Mokokchung",
+    "Actual(bu/ac)": 31.66,
+    "Predicted(bu/ac)": 37.82
+  },
+  {
+    "Agra": "Mon",
+    "Actual(bu/ac)": 31.56,
+    "Predicted(bu/ac)": 35.95
+  },
+  {
+    "Agra": "Moradabad",
+    "Actual(bu/ac)": 46.49,
+    "Predicted(bu/ac)": 40.44
+  },
+  {
+    "Agra": "Munger",
+    "Actual(bu/ac)": 35.96,
+    "Predicted(bu/ac)": 35.96
+  },
+  {
+    "Agra": "Muzaffarnagar",
+    "Actual(bu/ac)": 30.78,
+    "Predicted(bu/ac)": 37.55
+  },
+  {
+    "Agra": "Muzaffarpur",
+    "Actual(bu/ac)": 45.14,
+    "Predicted(bu/ac)": 42.66
+  },
+  {
+    "Agra": "Mysore",
+    "Actual(bu/ac)": 13.51,
+    "Predicted(bu/ac)": 26.08
+  },
+  {
+    "Agra": "Nabarangpur",
+    "Actual(bu/ac)": 27.34,
+    "Predicted(bu/ac)": 19.43
+  },
+  {
+    "Agra": "Nadia",
+    "Actual(bu/ac)": 33.53,
+    "Predicted(bu/ac)": 34.94
+  },
+  {
+    "Agra": "Nagaon",
+    "Actual(bu/ac)": 33.05,
+    "Predicted(bu/ac)": 37.39
+  },
+  {
+    "Agra": "Nagaur",
+    "Actual(bu/ac)": 33.88,
+    "Predicted(bu/ac)": 38.85
+  },
+  {
+    "Agra": "Nagpur",
+    "Actual(bu/ac)": 13.97,
+    "Predicted(bu/ac)": 19.83
+  },
+  {
+    "Agra": "Naini Tal",
+    "Actual(bu/ac)": 41.67,
+    "Predicted(bu/ac)": 38.25
+  },
+  {
+    "Agra": "Nalanda",
+    "Actual(bu/ac)": 22.25,
+    "Predicted(bu/ac)": 22.18
+  },
+  {
+    "Agra": "Nalbari",
+    "Actual(bu/ac)": 18.43,
+    "Predicted(bu/ac)": 27.02
+  },
+  {
+    "Agra": "Nalgonda",
+    "Actual(bu/ac)": 49.62,
+    "Predicted(bu/ac)": 44.32
+  },
+  {
+    "Agra": "Nanded",
+    "Actual(bu/ac)": 15.93,
+    "Predicted(bu/ac)": 32.16
+  },
+  {
+    "Agra": "Nandurbar",
+    "Actual(bu/ac)": 33.27,
+    "Predicted(bu/ac)": 38.36
+  },
+  {
+    "Agra": "Narmada",
+    "Actual(bu/ac)": 12.3,
+    "Predicted(bu/ac)": 19.55
+  },
+  {
+    "Agra": "Narsinghpur",
+    "Actual(bu/ac)": 26.61,
+    "Predicted(bu/ac)": 33.68
+  },
+  {
+    "Agra": "Nashik",
+    "Actual(bu/ac)": 57.82,
+    "Predicted(bu/ac)": 49.79
+  },
+  {
+    "Agra": "Navsari",
+    "Actual(bu/ac)": 51.13,
+    "Predicted(bu/ac)": 46.03
+  },
+  {
+    "Agra": "Nawada",
+    "Actual(bu/ac)": 33.95,
+    "Predicted(bu/ac)": 36.89
+  },
+  {
+    "Agra": "Nawan Shehar",
+    "Actual(bu/ac)": 30.16,
+    "Predicted(bu/ac)": 34.23
+  },
+  {
+    "Agra": "Nayagarh",
+    "Actual(bu/ac)": 28.98,
+    "Predicted(bu/ac)": 30.73
+  },
+  {
+    "Agra": "Neemuch",
+    "Actual(bu/ac)": 35.86,
+    "Predicted(bu/ac)": 38.39
+  },
+  {
+    "Agra": "Nizamabad",
+    "Actual(bu/ac)": 50.69,
+    "Predicted(bu/ac)": 46.18
+  },
+  {
+    "Agra": "North Cachar Hills",
+    "Actual(bu/ac)": 58.41,
+    "Predicted(bu/ac)": 50.34
+  },
+  {
+    "Agra": "North Sikkim",
+    "Actual(bu/ac)": 43.24,
+    "Predicted(bu/ac)": 41.04
+  },
+  {
+    "Agra": "North Tripura",
+    "Actual(bu/ac)": 57.34,
+    "Predicted(bu/ac)": 48.5
+  },
+  {
+    "Agra": "Nuapada",
+    "Actual(bu/ac)": 67.71,
+    "Predicted(bu/ac)": 58.44
+  },
+  {
+    "Agra": "Osmanabad",
+    "Actual(bu/ac)": 90.81,
+    "Predicted(bu/ac)": 77.2
+  },
+  {
+    "Agra": "Pakur",
+    "Actual(bu/ac)": 45.96,
+    "Predicted(bu/ac)": 41.05
+  },
+  {
+    "Agra": "Palakkad",
+    "Actual(bu/ac)": 47.79,
+    "Predicted(bu/ac)": 41.47
+  },
+  {
+    "Agra": "Palamu",
+    "Actual(bu/ac)": 69.52,
+    "Predicted(bu/ac)": 57.11
+  },
+  {
+    "Agra": "Pali",
+    "Actual(bu/ac)": 43.81,
+    "Predicted(bu/ac)": 42.05
+  },
+  {
+    "Agra": "Panch Mahals",
+    "Actual(bu/ac)": 56.98,
+    "Predicted(bu/ac)": 51.69
+  },
+  {
+    "Agra": "Panchkula",
+    "Actual(bu/ac)": 47.79,
+    "Predicted(bu/ac)": 44.82
+  },
+  {
+    "Agra": "Panna",
+    "Actual(bu/ac)": 21.33,
+    "Predicted(bu/ac)": 32.55
+  },
+  {
+    "Agra": "Papum Pare",
+    "Actual(bu/ac)": 28.12,
+    "Predicted(bu/ac)": 19.93
+  },
+  {
+    "Agra": "Parbhani",
+    "Actual(bu/ac)": 20.12,
+    "Predicted(bu/ac)": 32.23
+  },
+  {
+    "Agra": "Pashchim Champaran",
+    "Actual(bu/ac)": 11.41,
+    "Predicted(bu/ac)": 25.88
+  },
+  {
+    "Agra": "Patiala",
+    "Actual(bu/ac)": 20.28,
+    "Predicted(bu/ac)": 21.36
+  },
+  {
+    "Agra": "Patna",
+    "Actual(bu/ac)": 15.93,
+    "Predicted(bu/ac)": 32.23
+  },
+  {
+    "Agra": "Pauri Garhwal",
+    "Actual(bu/ac)": 23.07,
+    "Predicted(bu/ac)": 29
+  },
+  {
+    "Agra": "Phek",
+    "Actual(bu/ac)": 11.27,
+    "Predicted(bu/ac)": 31.4
+  },
+  {
+    "Agra": "Pilibhit",
+    "Actual(bu/ac)": 26.97,
+    "Predicted(bu/ac)": 26.81
+  },
+  {
+    "Agra": "Pithoragarh",
+    "Actual(bu/ac)": 20.68,
+    "Predicted(bu/ac)": 17.97
+  },
+  {
+    "Agra": "Pratapgarh",
+    "Actual(bu/ac)": 17.04,
+    "Predicted(bu/ac)": 32.81
+  },
+  {
+    "Agra": "Pulwama",
+    "Actual(bu/ac)": 20.62,
+    "Predicted(bu/ac)": 21.6
+  },
+  {
+    "Agra": "Punch",
+    "Actual(bu/ac)": 20.28,
+    "Predicted(bu/ac)": 28.66
+  },
+  {
+    "Agra": "Pune",
+    "Actual(bu/ac)": 20.67,
+    "Predicted(bu/ac)": 18.12
+  },
+  {
+    "Agra": "Purba Champaran",
+    "Actual(bu/ac)": 20.41,
+    "Predicted(bu/ac)": 25.25
+  },
+  {
+    "Agra": "Puruliya",
+    "Actual(bu/ac)": 10.77,
+    "Predicted(bu/ac)": 25.54
+  },
+  {
+    "Agra": "Rae Bareli",
+    "Actual(bu/ac)": 23.9,
+    "Predicted(bu/ac)": 29.25
+  },
+  {
+    "Agra": "Raigarh",
+    "Actual(bu/ac)": 20.71,
+    "Predicted(bu/ac)": 17.98
+  },
+  {
+    "Agra": "Raipur",
+    "Actual(bu/ac)": 6.21,
+    "Predicted(bu/ac)": 27.98
+  },
+  {
+    "Agra": "Raisen",
+    "Actual(bu/ac)": 19.91,
+    "Predicted(bu/ac)": 23.68
+  },
+  {
+    "Agra": "Raj Nandgaon",
+    "Actual(bu/ac)": 20.27,
+    "Predicted(bu/ac)": 21.78
+  },
+  {
+    "Agra": "Rajauri",
+    "Actual(bu/ac)": 27.78,
+    "Predicted(bu/ac)": 19.93
+  },
+  {
+    "Agra": "Rajgarh",
+    "Actual(bu/ac)": 20.65,
+    "Predicted(bu/ac)": 28.45
+  },
+  {
+    "Agra": "Rajkot",
+    "Actual(bu/ac)": 23.9,
+    "Predicted(bu/ac)": 32.64
+  },
+  {
+    "Agra": "Rajsamand",
+    "Actual(bu/ac)": 29.53,
+    "Predicted(bu/ac)": 34.01
+  },
+  {
+    "Agra": "Rampur",
+    "Actual(bu/ac)": 16.6,
+    "Predicted(bu/ac)": 23.61
+  },
+  {
+    "Agra": "Ranchi",
+    "Actual(bu/ac)": 16.22,
+    "Predicted(bu/ac)": 32.21
+  },
+  {
+    "Agra": "Rangareddi",
+    "Actual(bu/ac)": 27.99,
+    "Predicted(bu/ac)": 33.57
+  },
+  {
+    "Agra": "Ratlam",
+    "Actual(bu/ac)": 25.5,
+    "Predicted(bu/ac)": 29.87
+  },
+  {
+    "Agra": "Rayagada",
+    "Actual(bu/ac)": 29.07,
+    "Predicted(bu/ac)": 23.72
+  },
+  {
+    "Agra": "Rewa",
+    "Actual(bu/ac)": 27.99,
+    "Predicted(bu/ac)": 33.63
+  },
+  {
+    "Agra": "Ri-Bhoi",
+    "Actual(bu/ac)": 49.91,
+    "Predicted(bu/ac)": 42.86
+  },
+  {
+    "Agra": "Rohtas",
+    "Actual(bu/ac)": 74.41,
+    "Predicted(bu/ac)": 59.52
+  },
+  {
+    "Agra": "Rudra Prayag",
+    "Actual(bu/ac)": 92.51,
+    "Predicted(bu/ac)": 79.66
+  },
+  {
+    "Agra": "Rupnagar",
+    "Actual(bu/ac)": 99.34,
+    "Predicted(bu/ac)": 84.41
+  },
+  {
+    "Agra": "Sabar Kantha",
+    "Actual(bu/ac)": 53.07,
+    "Predicted(bu/ac)": 49.5
+  },
+  {
+    "Agra": "Sagar",
+    "Actual(bu/ac)": 23.2,
+    "Predicted(bu/ac)": 22.56
+  },
+  {
+    "Agra": "Saharanpur",
+    "Actual(bu/ac)": 24.09,
+    "Predicted(bu/ac)": 29.5
+  },
+  {
+    "Agra": "Saharsa",
+    "Actual(bu/ac)": 26.74,
+    "Predicted(bu/ac)": 30.17
+  },
+  {
+    "Agra": "Sahibganj",
+    "Actual(bu/ac)": 24.64,
+    "Predicted(bu/ac)": 29.65
+  },
+  {
+    "Agra": "Saiha",
+    "Actual(bu/ac)": 42.51,
+    "Predicted(bu/ac)": 41.24
+  },
+  {
+    "Agra": "Sambalpur",
+    "Actual(bu/ac)": 41.06,
+    "Predicted(bu/ac)": 40.06
+  },
+  {
+    "Agra": "Sangli",
+    "Actual(bu/ac)": 34.5,
+    "Predicted(bu/ac)": 34.88
+  },
+  {
+    "Agra": "Sangrur",
+    "Actual(bu/ac)": 27.28,
+    "Predicted(bu/ac)": 19.49
+  },
+  {
+    "Agra": "Sant Kabir Nagar",
+    "Actual(bu/ac)": 43.32,
+    "Predicted(bu/ac)": 43.06
+  },
+  {
+    "Agra": "Saraikela Kharsawan",
+    "Actual(bu/ac)": 26.6,
+    "Predicted(bu/ac)": 33.74
+  },
+  {
+    "Agra": "Saran",
+    "Actual(bu/ac)": 39.16,
+    "Predicted(bu/ac)": 37.14
+  },
+  {
+    "Agra": "Satara",
+    "Actual(bu/ac)": 25.09,
+    "Predicted(bu/ac)": 26.14
+  },
+  {
+    "Agra": "Satna",
+    "Actual(bu/ac)": 21.01,
+    "Predicted(bu/ac)": 25.19
+  },
+  {
+    "Agra": "Sawai Madhopur",
+    "Actual(bu/ac)": 23.43,
+    "Predicted(bu/ac)": 18.7
+  },
+  {
+    "Agra": "Sehore",
+    "Actual(bu/ac)": 39.83,
+    "Predicted(bu/ac)": 38.04
+  },
+  {
+    "Agra": "Senapati",
+    "Actual(bu/ac)": 23.17,
+    "Predicted(bu/ac)": 18.49
+  },
+  {
+    "Agra": "Seoni",
+    "Actual(bu/ac)": 37.55,
+    "Predicted(bu/ac)": 37.11
+  },
+  {
+    "Agra": "Serchhip",
+    "Actual(bu/ac)": 12.92,
+    "Predicted(bu/ac)": 31.95
+  },
+  {
+    "Agra": "Shahdol",
+    "Actual(bu/ac)": 25.53,
+    "Predicted(bu/ac)": 19.31
+  },
+  {
+    "Agra": "Shahjahanpur",
+    "Actual(bu/ac)": 39.59,
+    "Predicted(bu/ac)": 40.45
+  },
+  {
+    "Agra": "Shajapur",
+    "Actual(bu/ac)": 37.17,
+    "Predicted(bu/ac)": 39.42
+  },
+  {
+    "Agra": "Sheikhpura",
+    "Actual(bu/ac)": 38.23,
+    "Predicted(bu/ac)": 36.59
+  },
+  {
+    "Agra": "Sheohar",
+    "Actual(bu/ac)": 40.32,
+    "Predicted(bu/ac)": 41.3
+  },
+  {
+    "Agra": "Sheopur",
+    "Actual(bu/ac)": 72.96,
+    "Predicted(bu/ac)": 60.01
+  },
+  {
+    "Agra": "Shimla",
+    "Actual(bu/ac)": 44.25,
+    "Predicted(bu/ac)": 41.37
+  },
+  {
+    "Agra": "Shimoga",
+    "Actual(bu/ac)": 27.19,
+    "Predicted(bu/ac)": 19.44
+  },
+  {
+    "Agra": "Shivpuri",
+    "Actual(bu/ac)": 63.57,
+    "Predicted(bu/ac)": 51.72
+  },
+  {
+    "Agra": "Shravasti",
+    "Actual(bu/ac)": 29.36,
+    "Predicted(bu/ac)": 34.35
+  },
+  {
+    "Agra": "Sibsagar",
+    "Actual(bu/ac)": 49.44,
+    "Predicted(bu/ac)": 44.48
+  },
+  {
+    "Agra": "Siddharth Nagar",
+    "Actual(bu/ac)": 39.49,
+    "Predicted(bu/ac)": 39.07
+  },
+  {
+    "Agra": "Sidhi",
+    "Actual(bu/ac)": 39.49,
+    "Predicted(bu/ac)": 41.3
+  },
+  {
+    "Agra": "Sikar",
+    "Actual(bu/ac)": 14.86,
+    "Predicted(bu/ac)": 19.95
+  },
+  {
+    "Agra": "Simdega",
+    "Actual(bu/ac)": 20.6,
+    "Predicted(bu/ac)": 28.58
+  },
+  {
+    "Agra": "Sirmaur",
+    "Actual(bu/ac)": 20.71,
+    "Predicted(bu/ac)": 21.99
+  },
+  {
+    "Agra": "Sirohi",
+    "Actual(bu/ac)": 39.83,
+    "Predicted(bu/ac)": 37.26
+  },
+  {
+    "Agra": "Sitamarhi",
+    "Actual(bu/ac)": 37.96,
+    "Predicted(bu/ac)": 39.65
+  },
+  {
+    "Agra": "Sitapur",
+    "Actual(bu/ac)": 38.18,
+    "Predicted(bu/ac)": 38.76
+  },
+  {
+    "Agra": "Siwan",
+    "Actual(bu/ac)": 10.62,
+    "Predicted(bu/ac)": 28.67
+  },
+  {
+    "Agra": "Solan",
+    "Actual(bu/ac)": 36,
+    "Predicted(bu/ac)": 36.65
+  },
+  {
+    "Agra": "Solapur",
+    "Actual(bu/ac)": 6.36,
+    "Predicted(bu/ac)": 27.69
+  },
+  {
+    "Agra": "Sonbhadra",
+    "Actual(bu/ac)": 73.24,
+    "Predicted(bu/ac)": 61.07
+  },
+  {
+    "Agra": "Sonitpur",
+    "Actual(bu/ac)": 61.26,
+    "Predicted(bu/ac)": 51.73
+  },
+  {
+    "Agra": "South Garo Hills",
+    "Actual(bu/ac)": 43.2,
+    "Predicted(bu/ac)": 38.76
+  },
+  {
+    "Agra": "South Sikkim",
+    "Actual(bu/ac)": 29.68,
+    "Predicted(bu/ac)": 33.84
+  },
+  {
+    "Agra": "South Tripura",
+    "Actual(bu/ac)": 51.26,
+    "Predicted(bu/ac)": 44.27
+  },
+  {
+    "Agra": "Srinagar",
+    "Actual(bu/ac)": 11.92,
+    "Predicted(bu/ac)": 19.75
+  },
+  {
+    "Agra": "Sultanpur",
+    "Actual(bu/ac)": 26.64,
+    "Predicted(bu/ac)": 26.54
+  },
+  {
+    "Agra": "Sundargarh",
+    "Actual(bu/ac)": 39.02,
+    "Predicted(bu/ac)": 38.93
+  },
+  {
+    "Agra": "Surat",
+    "Actual(bu/ac)": 38.23,
+    "Predicted(bu/ac)": 40.63
+  },
+  {
+    "Agra": "Surendranagar",
+    "Actual(bu/ac)": 56.57,
+    "Predicted(bu/ac)": 47.4
+  },
+  {
+    "Agra": "Surguja",
+    "Actual(bu/ac)": 55.97,
+    "Predicted(bu/ac)": 51.04
+  },
+  {
+    "Agra": "Tamenglong",
+    "Actual(bu/ac)": 28.37,
+    "Predicted(bu/ac)": 19.74
+  },
+  {
+    "Agra": "Tawang",
+    "Actual(bu/ac)": 34.71,
+    "Predicted(bu/ac)": 36.93
+  },
+  {
+    "Agra": "Tehri Garhwal",
+    "Actual(bu/ac)": 14.28,
+    "Predicted(bu/ac)": 23.31
+  },
+  {
+    "Agra": "Thoubal",
+    "Actual(bu/ac)": 27.52,
+    "Predicted(bu/ac)": 33.73
+  },
+  {
+    "Agra": "Tikamgarh",
+    "Actual(bu/ac)": 40.62,
+    "Predicted(bu/ac)": 38.38
+  },
+  {
+    "Agra": "Tinsukia",
+    "Actual(bu/ac)": 38.97,
+    "Predicted(bu/ac)": 36.93
+  },
+  {
+    "Agra": "Tirap",
+    "Actual(bu/ac)": 29.51,
+    "Predicted(bu/ac)": 23.67
+  },
+  {
+    "Agra": "Tonk",
+    "Actual(bu/ac)": 40.64,
+    "Predicted(bu/ac)": 41.98
+  },
+  {
+    "Agra": "Tuensang",
+    "Actual(bu/ac)": 28.94,
+    "Predicted(bu/ac)": 19.89
+  },
+  {
+    "Agra": "Tumkur",
+    "Actual(bu/ac)": 40.69,
+    "Predicted(bu/ac)": 39.48
+  },
+  {
+    "Agra": "Udaipur",
+    "Actual(bu/ac)": 12.45,
+    "Predicted(bu/ac)": 19.81
+  },
+  {
+    "Agra": "Udham Singh Nagar",
+    "Actual(bu/ac)": 35.23,
+    "Predicted(bu/ac)": 38.19
+  },
+  {
+    "Agra": "Udhampur",
+    "Actual(bu/ac)": 15.63,
+    "Predicted(bu/ac)": 32.52
+  },
+  {
+    "Agra": "Udupi",
+    "Actual(bu/ac)": 12.74,
+    "Predicted(bu/ac)": 28.67
+  },
+  {
+    "Agra": "Ujjain",
+    "Actual(bu/ac)": 17.98,
+    "Predicted(bu/ac)": 32.97
+  },
+  {
+    "Agra": "Ukhrul",
+    "Actual(bu/ac)": 21.01,
+    "Predicted(bu/ac)": 25.02
+  },
+  {
+    "Agra": "Umaria",
+    "Actual(bu/ac)": 20.5,
+    "Predicted(bu/ac)": 28.78
+  },
+  {
+    "Agra": "Una",
+    "Actual(bu/ac)": 31.5,
+    "Predicted(bu/ac)": 34.17
+  },
+  {
+    "Agra": "Unnao",
+    "Actual(bu/ac)": 29.22,
+    "Predicted(bu/ac)": 33.89
+  },
+  {
+    "Agra": "Upper Dibang Valley",
+    "Actual(bu/ac)": 21.35,
+    "Predicted(bu/ac)": 32.26
+  },
+  {
+    "Agra": "Upper Siang",
+    "Actual(bu/ac)": 21.33,
+    "Predicted(bu/ac)": 25.16
+  },
+  {
+    "Agra": "Upper Subansiri",
+    "Actual(bu/ac)": 25.83,
+    "Predicted(bu/ac)": 19.38
+  },
+  {
+    "Agra": "Uttar Kannand",
+    "Actual(bu/ac)": 36.3,
+    "Predicted(bu/ac)": 38.92
+  },
+  {
+    "Agra": "Uttarkashi",
+    "Actual(bu/ac)": 42.96,
+    "Predicted(bu/ac)": 42.55
+  },
+  {
+    "Agra": "Vadodara",
+    "Actual(bu/ac)": 28.52,
+    "Predicted(bu/ac)": 30.48
+  },
+  {
+    "Agra": "Vaishali",
+    "Actual(bu/ac)": 21.35,
+    "Predicted(bu/ac)": 28.92
+  },
+  {
+    "Agra": "Valsad",
+    "Actual(bu/ac)": 31.7,
+    "Predicted(bu/ac)": 35.03
+  },
+  {
+    "Agra": "Varanasi",
+    "Actual(bu/ac)": 30.4,
+    "Predicted(bu/ac)": 33.63
+  },
+  {
+    "Agra": "Vidisha",
+    "Actual(bu/ac)": 25.84,
+    "Predicted(bu/ac)": 26.28
+  },
+  {
+    "Agra": "Wardha",
+    "Actual(bu/ac)": 25.81,
+    "Predicted(bu/ac)": 33.42
+  },
+  {
+    "Agra": "Washim",
+    "Actual(bu/ac)": 21.27,
+    "Predicted(bu/ac)": 32.55
+  },
+  {
+    "Agra": "West Garo Hills",
+    "Actual(bu/ac)": 20.72,
+    "Predicted(bu/ac)": 18.2
+  },
+  {
+    "Agra": "West Imphal",
+    "Actual(bu/ac)": 43.83,
+    "Predicted(bu/ac)": 40.06
+  },
+  {
+    "Agra": "West Kameng",
+    "Actual(bu/ac)": 40.12,
+    "Predicted(bu/ac)": 39.75
+  },
+  {
+    "Agra": "West Khasi Hills",
+    "Actual(bu/ac)": 36.03,
+    "Predicted(bu/ac)": 37.6
+  },
+  {
+    "Agra": "West Midnapore",
+    "Actual(bu/ac)": 24.78,
+    "Predicted(bu/ac)": 33.03
+  },
+  {
+    "Agra": "West Siang",
+    "Actual(bu/ac)": 25.22,
+    "Predicted(bu/ac)": 33.34
+  },
+  {
+    "Agra": "West Sikkim",
+    "Actual(bu/ac)": 37.2,
+    "Predicted(bu/ac)": 40.52
+  },
+  {
+    "Agra": "West Tripura",
+    "Actual(bu/ac)": 75.5,
+    "Predicted(bu/ac)": 64.41
+  },
+  {
+    "Agra": "Wokha",
+    "Actual(bu/ac)": 69.67,
+    "Predicted(bu/ac)": 58.66
+  },
+  {
+    "Agra": "Yavatmal",
+    "Actual(bu/ac)": 36.23,
+    "Predicted(bu/ac)": 37.56
+  },
+  {
+    "Agra": "Zunheboto",
+    "Actual(bu/ac)": 49.65,
+    "Predicted(bu/ac)": 41.28
+  }
+]
