@@ -47,7 +47,7 @@ function App() {
   ]);
   const [data2, setData2] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [error, seterror] = useState()
+  const [error, seterror] = useState(null)
   const [perf,setperf]=useState(false);
   const [yeild,setyeild]=useState(false);
   const [comp,setcomp]=useState("");
@@ -387,7 +387,17 @@ function App() {
         {data==="Wheat"?<>{distperf.map((distperf)=>{ for (let index = 0; index < data2.length; index++) {
           if(data2[index]==distperf.dist_id){
             return(<>
-            <tr onClick={()=>{setcomp(distperf.YieldBuAc);setadv(true)}}><td>{distperf.dist}</td><td>{distperf.YieldBuAc}</td></tr>
+            <tr onClick={()=>{setadv(true);data1.map((data1)=>{
+              if(data1.DistrictID==data2[index]){
+               if(data1.Predicted>distperf.YieldBuAc){
+                 setcomp("high") 
+              }
+              else{
+                setcomp("low")
+              }}
+            })
+            
+            }}><td>{distperf.dist}</td><td>{distperf.YieldBuAc}</td></tr>
             </>);
           }
           
