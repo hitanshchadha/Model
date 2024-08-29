@@ -28,6 +28,8 @@ import PerfGraph from './assets/Pred-Graph.jpg'
 import PerfTable from './assets/Pred-Table.jpg'
 import cornData from './assets/cornData (2).json'
 import cornDataPred from './assets/csvjson (5).json'
+import cornPred from './assets/Corn-Pred.jpg'
+import TagLine from './assets/InnovateAchieveLead.jpg'
 
 
 
@@ -48,7 +50,7 @@ function App() {
   const [error, seterror] = useState()
   const [perf,setperf]=useState(false);
   const [yeild,setyeild]=useState(false);
-  const [comp,setcomp]=useState();
+  const [comp,setcomp]=useState("");
   const [adv,setadv]=useState(false);
   const [cornData1, setcornData1] = useState([]);
  
@@ -126,7 +128,7 @@ function App() {
       const columns2 = [
         { field: 'District', headerName: 'District',flex:1 },
         { field: 'Actual(bu/ac)', headerName: 'Actual' ,flex:1},
-        { field: 'Predicted(bu/ac)', headerName: 'Predicted', flex:1 },]
+        { field: 'Predicted', headerName: 'Predicted', flex:1 },]
   
       function generateRandom() {
         var length = 8,
@@ -154,7 +156,7 @@ function App() {
       <div style={{display:'flex', justifyContent:'space-evenly', alignItems:'center'}}>
 
       <h2 style={{marginTop:20}}>Crop Yield Prediction By Foundation Model </h2>
-      <Button style={{height:'2.3rem', width:'5rem'}} href='https://www.bits-pilani.ac.in'>Back</Button>
+      <Button style={{height:'2.3rem', width:'5rem'}} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
       </div>
       </div>
       <div className='dropdown-container'>
@@ -164,6 +166,7 @@ function App() {
           value={cropName??""}
           onChange={(event)=>{handleChange2(event)
             setData(event.target.value)
+            setData2([]);
           }}
           input={<OutlinedInput label="Crop Name" />}
           defaultValue={""}
@@ -346,7 +349,8 @@ function App() {
     //     {data1.map((data1)=>{return(<><tr><td>{data1.DistrictID}</td><td>{data1.DistrictName}</td><td>{data1.Actual}</td><td>{data1.Predicted}</td></tr></>);})}
     //   </tbody>
     // </Table>
-   <>{!data==="Corn"?<><DataGrid className='table1' disableColumnMenu disableColumnSorting disableColumnResize columns={columns} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid></>:<><DataGrid className='table1' disableColumnMenu disableColumnSorting disableColumnResize columns={columns2} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid></>} </>
+   <>{data==="Corn"?<><DataGrid className='table1' disableColumnMenu disableColumnSorting disableColumnResize columns={columns2} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid></>:<></>}
+    {data==="Wheat"?<><DataGrid className='table1' disableColumnMenu disableColumnSorting disableColumnResize columns={columns} rows={data1} getRowId={(row)=>generateRandom()} ></DataGrid></>:<></>}</>
       :
        <h1 style={{color:'red'}}> {error} </h1>
    :
@@ -356,11 +360,18 @@ function App() {
     
     </div>
     <div className="sec-3">
-    {perf?<><h1> Model Performance</h1>
+    {data==="Wheat" ? perf ?<><h1> Model Performance</h1>
     <div className='Model-perf'  style={
       {display:'flex', justifyContent:'center', alignItems:'center', width:'100vw', marginTop:20}
     }> <img src={PerfTable} alt="" style={{width:'50vw'}} />
-    <img src={PerfGraph} alt="" style={{width:'50vw'}} /> </div></>:<></>}
+    <img src={PerfGraph} alt="" style={{width:'50vw'}} /> </div></>:<></>:<></>}
+
+    {data==="Corn" ? perf ?<><h1> Model Performance</h1>
+    <div className='Model-perf'  style={
+      {display:'flex', justifyContent:'center', alignItems:'center', width:'100vw', marginTop:20}
+    }> <img src={cornPred} alt="" style={{width:'50vw'}} />
+     </div></>:<></>:<></>}
+
 
     </div>
     <Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button>
@@ -386,7 +397,15 @@ function App() {
         )}</>:data==="Corn"?<>{cornData.map((cornData)=>{ for (let index = 0; index < data2.length; index++) {
           if(data2[index]==cornData.Dist_ID){
             return(<>
-            <tr onClick={()=>{setcomp(cornData.Average_yield);setadv(true)}}><td>{cornData.District_Name}</td><td>{cornData.Average_yield}</td></tr>
+            <tr onClick={()=>{setadv(true);data1.map((data1)=>{
+              if(data1.Dist_ID==data2[index]){
+               if(data1.Predicted>cornData.Average_yield){
+                 setcomp("high") 
+              }
+              else{
+                setcomp("low")
+              }}
+            })}}><td>{cornData.District_Name}</td><td>{cornData.Average_yield}</td></tr>
             </>);
           }
           
@@ -397,7 +416,7 @@ function App() {
         
       </tbody>
     </Table></>:<></>}
-    {adv?<>{data1[0].Predicted>comp?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
+    {adv?<>{comp==="high"?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
     }}><h1>ADVISORY</h1><h3>Higher Yield prediction</h3>
 <b>Expected Conditions:</b> <br /> Our model indicates a higher-than-average yield for your crops this
 season. This could be due to favorable weather conditions, improved farming practices, or
@@ -409,7 +428,9 @@ prevent post-harvest losses. Ensure your storage facilities are clean, dry, and 
 ● Market Strategy: Consider the possibility of price fluctuations due to increased supply. <br />
 ● Value Addition: Explore opportunities for value addition, such as processing or
 packaging, to increase your returns from the higher yield. <br />
-</div></div>:<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
+</div></div>:<></>}</>:<></> }
+  
+{adv?<>{comp==="low"?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
     }}><h1>ADVISORY</h1><h3>Lower Yield Prediction</h3>
 <b>Expected Conditions:</b> <br /> Our model has predicted a lower-than-average yield this season,
 possibly due to adverse weather conditions, pest infestations, or other factors. <br />
@@ -422,11 +443,14 @@ already, consider enrolling in the government's crop insurance schemes to protec
 investment. <br />
 ● Efficient Use of Resources: Focus on optimizing the use of water, fertilizers, and
 pesticides to reduce waste and improve efficiency.
-</div></div>}</>:<></> }
-   
-    <div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
-    }}>
-    
+</div></div>:<></>}</>:<></> }
+    <div className='footer'>
+      <img src={TagLine} className='footer-img' ></img>
+      <div className='ftext' >
+        An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964<br/>
+        <p>Privacy Policy | Terms and Conditions</p>
+        <p>© 2024 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in</p>
+      </div>
     </div>
     </>
   )

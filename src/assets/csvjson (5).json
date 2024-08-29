@@ -3,2694 +3,2694 @@
     "Dist_ID": 493,
     "District": "Agra",
     "Actual(bu/ac)": 42.51,
-    "Predicted(bu/ac)": 41.24
+    "Predicted": 41.24
   },
   {
     "Dist_ID": 114,
     "District": "Ahmadabad",
     "Actual(bu/ac)": 22.3,
-    "Predicted(bu/ac)": 25.29
+    "Predicted": 25.29
   },
   {
     "Dist_ID": 296,
     "District": "Ahmednagar",
     "Actual(bu/ac)": 27.48,
-    "Predicted(bu/ac)": 33.73
+    "Predicted": 33.73
   },
   {
     "Dist_ID": 346,
     "District": "Aizawl",
     "Actual(bu/ac)": 28.08,
-    "Predicted(bu/ac)": 26.61
+    "Predicted": 26.61
   },
   {
     "Dist_ID": 413,
     "District": "Ajmer",
     "Actual(bu/ac)": 21.33,
-    "Predicted(bu/ac)": 32.55
+    "Predicted": 32.55
   },
   {
     "Dist_ID": 297,
     "District": "Akola",
     "Actual(bu/ac)": 27.7,
-    "Predicted(bu/ac)": 30.44
+    "Predicted": 30.44
   },
   {
     "Dist_ID": 494,
     "District": "Aligarh",
     "Actual(bu/ac)": 41.06,
-    "Predicted(bu/ac)": 40.06
+    "Predicted": 40.06
   },
   {
     "Dist_ID": 495,
     "District": "Allahabad",
     "Actual(bu/ac)": 34.5,
-    "Predicted(bu/ac)": 34.88
+    "Predicted": 34.88
   },
   {
     "Dist_ID": 563,
     "District": "Almora",
     "Actual(bu/ac)": 21.35,
-    "Predicted(bu/ac)": 32.26
+    "Predicted": 32.26
   },
   {
     "Dist_ID": 414,
     "District": "Alwar",
     "Actual(bu/ac)": 28.12,
-    "Predicted(bu/ac)": 19.93
+    "Predicted": 19.93
   },
   {
     "Dist_ID": 139,
     "District": "Ambala",
     "Actual(bu/ac)": 21.24,
-    "Predicted(bu/ac)": 25.49
+    "Predicted": 25.49
   },
   {
     "Dist_ID": 496,
     "District": "Ambedkar Nagar",
     "Actual(bu/ac)": 27.28,
-    "Predicted(bu/ac)": 19.49
+    "Predicted": 19.49
   },
   {
     "Dist_ID": 298,
     "District": "Amravati",
     "Actual(bu/ac)": 29.08,
-    "Predicted(bu/ac)": 34.19
+    "Predicted": 34.19
   },
   {
     "Dist_ID": 115,
     "District": "Amreli",
     "Actual(bu/ac)": 26.5,
-    "Predicted(bu/ac)": 33.31
+    "Predicted": 33.31
   },
   {
     "Dist_ID": 396,
     "District": "Amritsar",
     "Actual(bu/ac)": 50.69,
-    "Predicted(bu/ac)": 46.18
+    "Predicted": 46.18
   },
   {
     "Dist_ID": 116,
     "District": "Anand",
     "Actual(bu/ac)": 27.22,
-    "Predicted(bu/ac)": 33.58
+    "Predicted": 33.58
   },
   {
     "Dist_ID": 3,
     "District": "Anantapur",
     "Actual(bu/ac)": 52.06,
-    "Predicted(bu/ac)": 47.76
+    "Predicted": 47.76
   },
   {
     "Dist_ID": 170,
     "District": "Anantnag (Kashmir South)",
     "Actual(bu/ac)": 39.65,
-    "Predicted(bu/ac)": 39.35
+    "Predicted": 39.35
   },
   {
     "Dist_ID": 1,
     "District": "Andaman Islands",
     "Actual(bu/ac)": 36.38,
-    "Predicted(bu/ac)": 39.68
+    "Predicted": 39.68
   },
   {
     "Dist_ID": 362,
     "District": "Angul",
     "Actual(bu/ac)": 46.49,
-    "Predicted(bu/ac)": 40.44
+    "Predicted": 40.44
   },
   {
     "Dist_ID": 248,
     "District": "Anuppur",
     "Actual(bu/ac)": 29.79,
-    "Predicted(bu/ac)": 30.42
+    "Predicted": 30.42
   },
   {
     "Dist_ID": 249,
     "District": "Ashoknagar",
     "Actual(bu/ac)": 35.99,
-    "Predicted(bu/ac)": 37.49
+    "Predicted": 37.49
   },
   {
     "Dist_ID": 497,
     "District": "Auraiya",
     "Actual(bu/ac)": 43.32,
-    "Predicted(bu/ac)": 43.06
+    "Predicted": 43.06
   },
   {
     "Dist_ID": 55,
     "District": "Aurangabad",
     "Actual(bu/ac)": 43.49,
-    "Predicted(bu/ac)": 39.84
+    "Predicted": 39.84
   },
   {
     "Dist_ID": 299,
     "District": "Aurangabad",
     "Actual(bu/ac)": 22.86,
-    "Predicted(bu/ac)": 29.28
+    "Predicted": 29.28
   },
   {
     "Dist_ID": 498,
     "District": "Azamgarh",
     "Actual(bu/ac)": 26.6,
-    "Predicted(bu/ac)": 33.74
+    "Predicted": 33.74
   },
   {
     "Dist_ID": 206,
     "District": "Bagalkot",
     "Actual(bu/ac)": 61.1,
-    "Predicted(bu/ac)": 54.7
+    "Predicted": 54.7
   },
   {
     "Dist_ID": 171,
     "District": "Bagdam",
     "Actual(bu/ac)": 29.83,
-    "Predicted(bu/ac)": 30.89
+    "Predicted": 30.89
   },
   {
     "Dist_ID": 564,
     "District": "Bageshwar",
     "Actual(bu/ac)": 21.33,
-    "Predicted(bu/ac)": 25.16
+    "Predicted": 25.16
   },
   {
     "Dist_ID": 500,
     "District": "Baghpat",
     "Actual(bu/ac)": 39.16,
-    "Predicted(bu/ac)": 37.14
+    "Predicted": 37.14
   },
   {
     "Dist_ID": 501,
     "District": "Bahraich",
     "Actual(bu/ac)": 25.09,
-    "Predicted(bu/ac)": 26.14
+    "Predicted": 26.14
   },
   {
     "Dist_ID": 250,
     "District": "Balaghat",
     "Actual(bu/ac)": 36.2,
-    "Predicted(bu/ac)": 38.79
+    "Predicted": 38.79
   },
   {
     "Dist_ID": 363,
     "District": "Baleshwar",
     "Actual(bu/ac)": 35.96,
-    "Predicted(bu/ac)": 35.96
+    "Predicted": 35.96
   },
   {
     "Dist_ID": 502,
     "District": "Ballia",
     "Actual(bu/ac)": 21.01,
-    "Predicted(bu/ac)": 25.19
+    "Predicted": 25.19
   },
   {
     "Dist_ID": 503,
     "District": "Balrampur",
     "Actual(bu/ac)": 23.43,
-    "Predicted(bu/ac)": 18.7
+    "Predicted": 18.7
   },
   {
     "Dist_ID": 117,
     "District": "Banas Kantha",
     "Actual(bu/ac)": 30.53,
-    "Predicted(bu/ac)": 36.43
+    "Predicted": 36.43
   },
   {
     "Dist_ID": 504,
     "District": "Banda",
     "Actual(bu/ac)": 39.83,
-    "Predicted(bu/ac)": 38.04
+    "Predicted": 38.04
   },
   {
     "Dist_ID": 207,
     "District": "Bangalore Rural",
     "Actual(bu/ac)": 67.45,
-    "Predicted(bu/ac)": 55.14
+    "Predicted": 55.14
   },
   {
     "Dist_ID": 56,
     "District": "Banka",
     "Actual(bu/ac)": 64.96,
-    "Predicted(bu/ac)": 52.59
+    "Predicted": 52.59
   },
   {
     "Dist_ID": 576,
     "District": "Bankura",
     "Actual(bu/ac)": 43.83,
-    "Predicted(bu/ac)": 40.06
+    "Predicted": 40.06
   },
   {
     "Dist_ID": 415,
     "District": "Banswara",
     "Actual(bu/ac)": 20.12,
-    "Predicted(bu/ac)": 32.23
+    "Predicted": 32.23
   },
   {
     "Dist_ID": 505,
     "District": "Bara Banki",
     "Actual(bu/ac)": 23.17,
-    "Predicted(bu/ac)": 18.49
+    "Predicted": 18.49
   },
   {
     "Dist_ID": 364,
     "District": "Baragarh",
     "Actual(bu/ac)": 30.78,
-    "Predicted(bu/ac)": 37.55
+    "Predicted": 37.55
   },
   {
     "Dist_ID": 172,
     "District": "Baramula (Kashmir North)",
     "Actual(bu/ac)": 32.28,
-    "Predicted(bu/ac)": 38.32
+    "Predicted": 38.32
   },
   {
     "Dist_ID": 416,
     "District": "Baran",
     "Actual(bu/ac)": 11.41,
-    "Predicted(bu/ac)": 25.88
+    "Predicted": 25.88
   },
   {
     "Dist_ID": 506,
     "District": "Bareilly",
     "Actual(bu/ac)": 37.55,
-    "Predicted(bu/ac)": 37.11
+    "Predicted": 37.11
   },
   {
     "Dist_ID": 417,
     "District": "Barmer",
     "Actual(bu/ac)": 20.28,
-    "Predicted(bu/ac)": 21.36
+    "Predicted": 21.36
   },
   {
     "Dist_ID": 31,
     "District": "Barpeta",
     "Actual(bu/ac)": 80.45,
-    "Predicted(bu/ac)": 65.85
+    "Predicted": 65.85
   },
   {
     "Dist_ID": 251,
     "District": "Barwani",
     "Actual(bu/ac)": 71.23,
-    "Predicted(bu/ac)": 58.87
+    "Predicted": 58.87
   },
   {
     "Dist_ID": 92,
     "District": "Bastar",
     "Actual(bu/ac)": 52.24,
-    "Predicted(bu/ac)": 47.13
+    "Predicted": 47.13
   },
   {
     "Dist_ID": 507,
     "District": "Basti",
     "Actual(bu/ac)": 12.92,
-    "Predicted(bu/ac)": 31.95
+    "Predicted": 31.95
   },
   {
     "Dist_ID": 57,
     "District": "Begusarai",
     "Actual(bu/ac)": 72.46,
-    "Predicted(bu/ac)": 61.78
+    "Predicted": 61.78
   },
   {
     "Dist_ID": 209,
     "District": "Belgaum",
     "Actual(bu/ac)": 57.42,
-    "Predicted(bu/ac)": 50.68
+    "Predicted": 50.68
   },
   {
     "Dist_ID": 210,
     "District": "Bellary",
     "Actual(bu/ac)": 56.53,
-    "Predicted(bu/ac)": 48.27
+    "Predicted": 48.27
   },
   {
     "Dist_ID": 252,
     "District": "Betul",
     "Actual(bu/ac)": 30,
-    "Predicted(bu/ac)": 23.55
+    "Predicted": 23.55
   },
   {
     "Dist_ID": 58,
     "District": "Bhabua",
     "Actual(bu/ac)": 31.61,
-    "Predicted(bu/ac)": 36.09
+    "Predicted": 36.09
   },
   {
     "Dist_ID": 365,
     "District": "Bhadrak",
     "Actual(bu/ac)": 45.14,
-    "Predicted(bu/ac)": 42.66
+    "Predicted": 42.66
   },
   {
     "Dist_ID": 59,
     "District": "Bhagalpur",
     "Actual(bu/ac)": 81.5,
-    "Predicted(bu/ac)": 67.5
+    "Predicted": 67.5
   },
   {
     "Dist_ID": 418,
     "District": "Bharatpur",
     "Actual(bu/ac)": 15.93,
-    "Predicted(bu/ac)": 32.23
+    "Predicted": 32.23
   },
   {
     "Dist_ID": 118,
     "District": "Bharuch",
     "Actual(bu/ac)": 25.27,
-    "Predicted(bu/ac)": 26.35
+    "Predicted": 26.35
   },
   {
     "Dist_ID": 119,
     "District": "Bhavnagar",
     "Actual(bu/ac)": 37.93,
-    "Predicted(bu/ac)": 36.26
+    "Predicted": 36.26
   },
   {
     "Dist_ID": 419,
     "District": "Bhilwara",
     "Actual(bu/ac)": 23.07,
-    "Predicted(bu/ac)": 29
+    "Predicted": 29
   },
   {
     "Dist_ID": 60,
     "District": "Bhojpur",
     "Actual(bu/ac)": 26.65,
-    "Predicted(bu/ac)": 33.41
+    "Predicted": 33.41
   },
   {
     "Dist_ID": 254,
     "District": "Bhopal",
     "Actual(bu/ac)": 25.89,
-    "Predicted(bu/ac)": 23
+    "Predicted": 23
   },
   {
     "Dist_ID": 301,
     "District": "Bid",
     "Actual(bu/ac)": 8.44,
-    "Predicted(bu/ac)": 31.88
+    "Predicted": 31.88
   },
   {
     "Dist_ID": 211,
     "District": "Bidar",
     "Actual(bu/ac)": 36.62,
-    "Predicted(bu/ac)": 39.93
+    "Predicted": 39.93
   },
   {
     "Dist_ID": 212,
     "District": "Bijapur",
     "Actual(bu/ac)": 41.51,
-    "Predicted(bu/ac)": 38.83
+    "Predicted": 38.83
   },
   {
     "Dist_ID": 508,
     "District": "Bijnor",
     "Actual(bu/ac)": 25.53,
-    "Predicted(bu/ac)": 19.31
+    "Predicted": 19.31
   },
   {
     "Dist_ID": 93,
     "District": "Bilaspur",
     "Actual(bu/ac)": 34.61,
-    "Predicted(bu/ac)": 37.93
+    "Predicted": 37.93
   },
   {
     "Dist_ID": 158,
     "District": "Bilaspur",
     "Actual(bu/ac)": 35.37,
-    "Predicted(bu/ac)": 36.66
+    "Predicted": 36.66
   },
   {
     "Dist_ID": 578,
     "District": "Birbhum",
     "Actual(bu/ac)": 40.12,
-    "Predicted(bu/ac)": 39.75
+    "Predicted": 39.75
   },
   {
     "Dist_ID": 330,
     "District": "Bishnupur",
     "Actual(bu/ac)": 34.8,
-    "Predicted(bu/ac)": 38.3
+    "Predicted": 38.3
   },
   {
     "Dist_ID": 184,
     "District": "Bokaro",
     "Actual(bu/ac)": 47,
-    "Predicted(bu/ac)": 40.16
+    "Predicted": 40.16
   },
   {
     "Dist_ID": 32,
     "District": "Bongaigaon",
     "Actual(bu/ac)": 51.88,
-    "Predicted(bu/ac)": 46.46
+    "Predicted": 46.46
   },
   {
     "Dist_ID": 367,
     "District": "Boudh",
     "Actual(bu/ac)": 13.51,
-    "Predicted(bu/ac)": 26.08
+    "Predicted": 26.08
   },
   {
     "Dist_ID": 509,
     "District": "Bulandshahr",
     "Actual(bu/ac)": 39.59,
-    "Predicted(bu/ac)": 40.45
+    "Predicted": 40.45
   },
   {
     "Dist_ID": 302,
     "District": "Buldana",
     "Actual(bu/ac)": 12.6,
-    "Predicted(bu/ac)": 31.87
+    "Predicted": 31.87
   },
   {
     "Dist_ID": 421,
     "District": "Bundi",
     "Actual(bu/ac)": 11.27,
-    "Predicted(bu/ac)": 31.4
+    "Predicted": 31.4
   },
   {
     "Dist_ID": 255,
     "District": "Burhanpur",
     "Actual(bu/ac)": 84.76,
-    "Predicted(bu/ac)": 68.9
+    "Predicted": 68.9
   },
   {
     "Dist_ID": 61,
     "District": "Buxar",
     "Actual(bu/ac)": 24.76,
-    "Predicted(bu/ac)": 22.55
+    "Predicted": 22.55
   },
   {
     "Dist_ID": 33,
     "District": "Cachar",
     "Actual(bu/ac)": 21.24,
-    "Predicted(bu/ac)": 21.73
+    "Predicted": 21.73
   },
   {
     "Dist_ID": 159,
     "District": "Chamba",
     "Actual(bu/ac)": 40.94,
-    "Predicted(bu/ac)": 38.82
+    "Predicted": 38.82
   },
   {
     "Dist_ID": 565,
     "District": "Chamoli",
     "Actual(bu/ac)": 25.83,
-    "Predicted(bu/ac)": 19.38
+    "Predicted": 19.38
   },
   {
     "Dist_ID": 566,
     "District": "Champawat",
     "Actual(bu/ac)": 36.3,
-    "Predicted(bu/ac)": 38.92
+    "Predicted": 38.92
   },
   {
     "Dist_ID": 347,
     "District": "Champhai",
     "Actual(bu/ac)": 27.54,
-    "Predicted(bu/ac)": 19.61
+    "Predicted": 19.61
   },
   {
     "Dist_ID": 213,
     "District": "Chamrajnagar",
     "Actual(bu/ac)": 68.21,
-    "Predicted(bu/ac)": 55.64
+    "Predicted": 55.64
   },
   {
     "Dist_ID": 510,
     "District": "Chandauli",
     "Actual(bu/ac)": 37.17,
-    "Predicted(bu/ac)": 39.42
+    "Predicted": 39.42
   },
   {
     "Dist_ID": 331,
     "District": "Chandel",
     "Actual(bu/ac)": 40.02,
-    "Predicted(bu/ac)": 40.19
+    "Predicted": 40.19
   },
   {
     "Dist_ID": 91,
     "District": "Chandigarh",
     "Actual(bu/ac)": 43.62,
-    "Predicted(bu/ac)": 43.03
+    "Predicted": 43.03
   },
   {
     "Dist_ID": 303,
     "District": "Chandrapur",
     "Actual(bu/ac)": 20.83,
-    "Predicted(bu/ac)": 32.56
+    "Predicted": 32.56
   },
   {
     "Dist_ID": 16,
     "District": "Changlang",
     "Actual(bu/ac)": 25.07,
-    "Predicted(bu/ac)": 29.97
+    "Predicted": 29.97
   },
   {
     "Dist_ID": 185,
     "District": "Chatra",
     "Actual(bu/ac)": 34.25,
-    "Predicted(bu/ac)": 39.18
+    "Predicted": 39.18
   },
   {
     "Dist_ID": 256,
     "District": "Chhatarpur",
     "Actual(bu/ac)": 18.95,
-    "Predicted(bu/ac)": 23.8
+    "Predicted": 23.8
   },
   {
     "Dist_ID": 257,
     "District": "Chhindwara",
     "Actual(bu/ac)": 60.59,
-    "Predicted(bu/ac)": 50.02
+    "Predicted": 50.02
   },
   {
     "Dist_ID": 214,
     "District": "Chikmagalur",
     "Actual(bu/ac)": 47.66,
-    "Predicted(bu/ac)": 40.42
+    "Predicted": 40.42
   },
   {
     "Dist_ID": 215,
     "District": "Chitradurga",
     "Actual(bu/ac)": 54.18,
-    "Predicted(bu/ac)": 45.9
+    "Predicted": 45.9
   },
   {
     "Dist_ID": 511,
     "District": "Chitrakoot",
     "Actual(bu/ac)": 38.23,
-    "Predicted(bu/ac)": 36.59
+    "Predicted": 36.59
   },
   {
     "Dist_ID": 422,
     "District": "Chittaurgarh",
     "Actual(bu/ac)": 26.97,
-    "Predicted(bu/ac)": 26.81
+    "Predicted": 26.81
   },
   {
     "Dist_ID": 4,
     "District": "Chittoor",
     "Actual(bu/ac)": 49.87,
-    "Predicted(bu/ac)": 44.39
+    "Predicted": 44.39
   },
   {
     "Dist_ID": 332,
     "District": "Churachandpur",
     "Actual(bu/ac)": 24.31,
-    "Predicted(bu/ac)": 33.22
+    "Predicted": 33.22
   },
   {
     "Dist_ID": 108,
     "District": "Dadra and Nagar Haveli",
     "Actual(bu/ac)": 15.93,
-    "Predicted(bu/ac)": 32.46
+    "Predicted": 32.46
   },
   {
     "Dist_ID": 120,
     "District": "Dahod",
     "Actual(bu/ac)": 24.3,
-    "Predicted(bu/ac)": 29.25
+    "Predicted": 29.25
   },
   {
     "Dist_ID": 258,
     "District": "Damoh",
     "Actual(bu/ac)": 41.6,
-    "Predicted(bu/ac)": 39.87
+    "Predicted": 39.87
   },
   {
     "Dist_ID": 94,
     "District": "Dantewada",
     "Actual(bu/ac)": 35.9,
-    "Predicted(bu/ac)": 35.92
+    "Predicted": 35.92
   },
   {
     "Dist_ID": 580,
     "District": "Darjiling",
     "Actual(bu/ac)": 36.03,
-    "Predicted(bu/ac)": 37.6
+    "Predicted": 37.6
   },
   {
     "Dist_ID": 259,
     "District": "Datia",
     "Actual(bu/ac)": 27.97,
-    "Predicted(bu/ac)": 30.5
+    "Predicted": 30.5
   },
   {
     "Dist_ID": 424,
     "District": "Dausa",
     "Actual(bu/ac)": 20.68,
-    "Predicted(bu/ac)": 17.97
+    "Predicted": 17.97
   },
   {
     "Dist_ID": 217,
     "District": "Davanagere",
     "Actual(bu/ac)": 53.41,
-    "Predicted(bu/ac)": 45.59
+    "Predicted": 45.59
   },
   {
     "Dist_ID": 567,
     "District": "Dehra Dun",
     "Actual(bu/ac)": 42.96,
-    "Predicted(bu/ac)": 42.55
+    "Predicted": 42.55
   },
   {
     "Dist_ID": 369,
     "District": "Deogarh",
     "Actual(bu/ac)": 27.34,
-    "Predicted(bu/ac)": 19.43
+    "Predicted": 19.43
   },
   {
     "Dist_ID": 186,
     "District": "Deoghar",
     "Actual(bu/ac)": 33.54,
-    "Predicted(bu/ac)": 34.93
+    "Predicted": 34.93
   },
   {
     "Dist_ID": 512,
     "District": "Deoria",
     "Actual(bu/ac)": 40.32,
-    "Predicted(bu/ac)": 41.3
+    "Predicted": 41.3
   },
   {
     "Dist_ID": 260,
     "District": "Dewas",
     "Actual(bu/ac)": 22.96,
-    "Predicted(bu/ac)": 32.53
+    "Predicted": 32.53
   },
   {
     "Dist_ID": 489,
     "District": "Dhalai",
     "Actual(bu/ac)": 23.2,
-    "Predicted(bu/ac)": 22.56
+    "Predicted": 22.56
   },
   {
     "Dist_ID": 95,
     "District": "Dhamtari",
     "Actual(bu/ac)": 51.32,
-    "Predicted(bu/ac)": 47.59
+    "Predicted": 47.59
   },
   {
     "Dist_ID": 187,
     "District": "Dhanbad",
     "Actual(bu/ac)": 38.23,
-    "Predicted(bu/ac)": 39.59
+    "Predicted": 39.59
   },
   {
     "Dist_ID": 261,
     "District": "Dhar",
     "Actual(bu/ac)": 59.5,
-    "Predicted(bu/ac)": 52.08
+    "Predicted": 52.08
   },
   {
     "Dist_ID": 218,
     "District": "Dharwad",
     "Actual(bu/ac)": 52.92,
-    "Predicted(bu/ac)": 49.45
+    "Predicted": 49.45
   },
   {
     "Dist_ID": 35,
     "District": "Dhemaji",
     "Actual(bu/ac)": 55.53,
-    "Predicted(bu/ac)": 50.87
+    "Predicted": 50.87
   },
   {
     "Dist_ID": 370,
     "District": "Dhenkanal",
     "Actual(bu/ac)": 33.53,
-    "Predicted(bu/ac)": 34.94
+    "Predicted": 34.94
   },
   {
     "Dist_ID": 36,
     "District": "Dhuburi",
     "Actual(bu/ac)": 69.53,
-    "Predicted(bu/ac)": 57.45
+    "Predicted": 57.45
   },
   {
     "Dist_ID": 304,
     "District": "Dhule",
     "Actual(bu/ac)": 24.83,
-    "Predicted(bu/ac)": 25.82
+    "Predicted": 25.82
   },
   {
     "Dist_ID": 37,
     "District": "Dibrugarh",
     "Actual(bu/ac)": 29.97,
-    "Predicted(bu/ac)": 34.33
+    "Predicted": 34.33
   },
   {
     "Dist_ID": 354,
     "District": "Dimapur",
     "Actual(bu/ac)": 31.7,
-    "Predicted(bu/ac)": 33.75
+    "Predicted": 33.75
   },
   {
     "Dist_ID": 262,
     "District": "Dindori",
     "Actual(bu/ac)": 39.08,
-    "Predicted(bu/ac)": 40.9
+    "Predicted": 40.9
   },
   {
     "Dist_ID": 173,
     "District": "Doda",
     "Actual(bu/ac)": 27.26,
-    "Predicted(bu/ac)": 22.94
+    "Predicted": 22.94
   },
   {
     "Dist_ID": 188,
     "District": "Dumka",
     "Actual(bu/ac)": 39.55,
-    "Predicted(bu/ac)": 39.91
+    "Predicted": 39.91
   },
   {
     "Dist_ID": 426,
     "District": "Dungarpur",
     "Actual(bu/ac)": 17.04,
-    "Predicted(bu/ac)": 32.81
+    "Predicted": 32.81
   },
   {
     "Dist_ID": 96,
     "District": "Durg",
     "Actual(bu/ac)": 25.11,
-    "Predicted(bu/ac)": 33.1
+    "Predicted": 33.1
   },
   {
     "Dist_ID": 445,
     "District": "East",
     "Actual(bu/ac)": 27.99,
-    "Predicted(bu/ac)": 33.57
+    "Predicted": 33.57
   },
   {
     "Dist_ID": 339,
     "District": "East Garo Hills",
     "Actual(bu/ac)": 31.51,
-    "Predicted(bu/ac)": 35
+    "Predicted": 35
   },
   {
     "Dist_ID": 333,
     "District": "East Imphal",
     "Actual(bu/ac)": 38.07,
-    "Predicted(bu/ac)": 37.61
+    "Predicted": 37.61
   },
   {
     "Dist_ID": 17,
     "District": "East Kameng",
     "Actual(bu/ac)": 23.96,
-    "Predicted(bu/ac)": 22.7
+    "Predicted": 22.7
   },
   {
     "Dist_ID": 340,
     "District": "East Khasi Hills",
     "Actual(bu/ac)": 53.29,
-    "Predicted(bu/ac)": 47.68
+    "Predicted": 47.68
   },
   {
     "Dist_ID": 581,
     "District": "East Midnapore",
     "Actual(bu/ac)": 24.78,
-    "Predicted(bu/ac)": 33.03
+    "Predicted": 33.03
   },
   {
     "Dist_ID": 18,
     "District": "East Siang",
     "Actual(bu/ac)": 31.89,
-    "Predicted(bu/ac)": 37.89
+    "Predicted": 37.89
   },
   {
     "Dist_ID": 513,
     "District": "Etah",
     "Actual(bu/ac)": 72.96,
-    "Predicted(bu/ac)": 60.01
+    "Predicted": 60.01
   },
   {
     "Dist_ID": 514,
     "District": "Etawah",
     "Actual(bu/ac)": 44.25,
-    "Predicted(bu/ac)": 41.37
+    "Predicted": 41.37
   },
   {
     "Dist_ID": 515,
     "District": "Faizabad",
     "Actual(bu/ac)": 27.19,
-    "Predicted(bu/ac)": 19.44
+    "Predicted": 19.44
   },
   {
     "Dist_ID": 516,
     "District": "Farrukhabad",
     "Actual(bu/ac)": 63.57,
-    "Predicted(bu/ac)": 51.72
+    "Predicted": 51.72
   },
   {
     "Dist_ID": 399,
     "District": "Fatehgarh Sahib",
     "Actual(bu/ac)": 58.41,
-    "Predicted(bu/ac)": 50.34
+    "Predicted": 50.34
   },
   {
     "Dist_ID": 517,
     "District": "Fatehpur",
     "Actual(bu/ac)": 29.36,
-    "Predicted(bu/ac)": 34.35
+    "Predicted": 34.35
   },
   {
     "Dist_ID": 518,
     "District": "Firozabad",
     "Actual(bu/ac)": 49.44,
-    "Predicted(bu/ac)": 44.48
+    "Predicted": 44.48
   },
   {
     "Dist_ID": 219,
     "District": "Gadag",
     "Actual(bu/ac)": 42.17,
-    "Predicted(bu/ac)": 38.34
+    "Predicted": 38.34
   },
   {
     "Dist_ID": 371,
     "District": "Gajapati",
     "Actual(bu/ac)": 33.05,
-    "Predicted(bu/ac)": 37.39
+    "Predicted": 37.39
   },
   {
     "Dist_ID": 121,
     "District": "Gandhinagar",
     "Actual(bu/ac)": 32.7,
-    "Predicted(bu/ac)": 34.31
+    "Predicted": 34.31
   },
   {
     "Dist_ID": 427,
     "District": "Ganganagar",
     "Actual(bu/ac)": 20.62,
-    "Predicted(bu/ac)": 21.6
+    "Predicted": 21.6
   },
   {
     "Dist_ID": 372,
     "District": "Ganjam",
     "Actual(bu/ac)": 33.88,
-    "Predicted(bu/ac)": 38.85
+    "Predicted": 38.85
   },
   {
     "Dist_ID": 305,
     "District": "Garhchiroli",
     "Actual(bu/ac)": 25.51,
-    "Predicted(bu/ac)": 22.85
+    "Predicted": 22.85
   },
   {
     "Dist_ID": 189,
     "District": "Garhwa",
     "Actual(bu/ac)": 25.81,
-    "Predicted(bu/ac)": 26.11
+    "Predicted": 26.11
   },
   {
     "Dist_ID": 519,
     "District": "Gautam Buddha Nagar",
     "Actual(bu/ac)": 39.49,
-    "Predicted(bu/ac)": 39.07
+    "Predicted": 39.07
   },
   {
     "Dist_ID": 63,
     "District": "Gaya",
     "Actual(bu/ac)": 56.5,
-    "Predicted(bu/ac)": 48.92
+    "Predicted": 48.92
   },
   {
     "Dist_ID": 520,
     "District": "Ghaziabad",
     "Actual(bu/ac)": 39.49,
-    "Predicted(bu/ac)": 41.3
+    "Predicted": 41.3
   },
   {
     "Dist_ID": 521,
     "District": "Ghazipur",
     "Actual(bu/ac)": 14.86,
-    "Predicted(bu/ac)": 19.95
+    "Predicted": 19.95
   },
   {
     "Dist_ID": 190,
     "District": "Giridih",
     "Actual(bu/ac)": 24.02,
-    "Predicted(bu/ac)": 22.33
+    "Predicted": 22.33
   },
   {
     "Dist_ID": 38,
     "District": "Goalpara",
     "Actual(bu/ac)": 71.7,
-    "Predicted(bu/ac)": 60.34
+    "Predicted": 60.34
   },
   {
     "Dist_ID": 191,
     "District": "Godda",
     "Actual(bu/ac)": 11.67,
-    "Predicted(bu/ac)": 25.83
+    "Predicted": 25.83
   },
   {
     "Dist_ID": 39,
     "District": "Golaghat",
     "Actual(bu/ac)": 15.75,
-    "Predicted(bu/ac)": 32.49
+    "Predicted": 32.49
   },
   {
     "Dist_ID": 522,
     "District": "Gonda",
     "Actual(bu/ac)": 20.6,
-    "Predicted(bu/ac)": 28.58
+    "Predicted": 28.58
   },
   {
     "Dist_ID": 306,
     "District": "Gondiya",
     "Actual(bu/ac)": 18.29,
-    "Predicted(bu/ac)": 26.96
+    "Predicted": 26.96
   },
   {
     "Dist_ID": 64,
     "District": "Gopalganj",
     "Actual(bu/ac)": 55.39,
-    "Predicted(bu/ac)": 48.81
+    "Predicted": 48.81
   },
   {
     "Dist_ID": 523,
     "District": "Gorakhpur",
     "Actual(bu/ac)": 20.71,
-    "Predicted(bu/ac)": 21.99
+    "Predicted": 21.99
   },
   {
     "Dist_ID": 220,
     "District": "Gulbarga",
     "Actual(bu/ac)": 59.96,
-    "Predicted(bu/ac)": 49.1
+    "Predicted": 49.1
   },
   {
     "Dist_ID": 192,
     "District": "Gumla",
     "Actual(bu/ac)": 39.6,
-    "Predicted(bu/ac)": 38.37
+    "Predicted": 38.37
   },
   {
     "Dist_ID": 264,
     "District": "Guna",
     "Actual(bu/ac)": 31.24,
-    "Predicted(bu/ac)": 36.05
+    "Predicted": 36.05
   },
   {
     "Dist_ID": 401,
     "District": "Gurdaspur",
     "Actual(bu/ac)": 43.24,
-    "Predicted(bu/ac)": 41.04
+    "Predicted": 41.04
   },
   {
     "Dist_ID": 265,
     "District": "Gwalior",
     "Actual(bu/ac)": 45.61,
-    "Predicted(bu/ac)": 40.67
+    "Predicted": 40.67
   },
   {
     "Dist_ID": 40,
     "District": "Hailakandi",
     "Actual(bu/ac)": 44.25,
-    "Predicted(bu/ac)": 39.22
+    "Predicted": 39.22
   },
   {
     "Dist_ID": 160,
     "District": "Hamirpur",
     "Actual(bu/ac)": 42.22,
-    "Predicted(bu/ac)": 41.55
+    "Predicted": 41.55
   },
   {
     "Dist_ID": 524,
     "District": "Hamirpur",
     "Actual(bu/ac)": 39.83,
-    "Predicted(bu/ac)": 37.26
+    "Predicted": 37.26
   },
   {
     "Dist_ID": 428,
     "District": "Hanumangarh",
     "Actual(bu/ac)": 20.28,
-    "Predicted(bu/ac)": 28.66
+    "Predicted": 28.66
   },
   {
     "Dist_ID": 582,
     "District": "Haora",
     "Actual(bu/ac)": 25.22,
-    "Predicted(bu/ac)": 33.34
+    "Predicted": 33.34
   },
   {
     "Dist_ID": 266,
     "District": "Harda",
     "Actual(bu/ac)": 15.14,
-    "Predicted(bu/ac)": 20.38
+    "Predicted": 20.38
   },
   {
     "Dist_ID": 525,
     "District": "Hardoi",
     "Actual(bu/ac)": 37.96,
-    "Predicted(bu/ac)": 39.65
+    "Predicted": 39.65
   },
   {
     "Dist_ID": 568,
     "District": "Haridwar",
     "Actual(bu/ac)": 28.52,
-    "Predicted(bu/ac)": 30.48
+    "Predicted": 30.48
   },
   {
     "Dist_ID": 526,
     "District": "Hathras",
     "Actual(bu/ac)": 38.18,
-    "Predicted(bu/ac)": 38.76
+    "Predicted": 38.76
   },
   {
     "Dist_ID": 222,
     "District": "Haveri",
     "Actual(bu/ac)": 29.13,
-    "Predicted(bu/ac)": 30.55
+    "Predicted": 30.55
   },
   {
     "Dist_ID": 193,
     "District": "Hazaribag",
     "Actual(bu/ac)": 39.83,
-    "Predicted(bu/ac)": 38.06
+    "Predicted": 38.06
   },
   {
     "Dist_ID": 308,
     "District": "Hingoli",
     "Actual(bu/ac)": 14.53,
-    "Predicted(bu/ac)": 23.28
+    "Predicted": 23.28
   },
   {
     "Dist_ID": 267,
     "District": "Hoshangabad",
     "Actual(bu/ac)": 36.07,
-    "Predicted(bu/ac)": 39.48
+    "Predicted": 39.48
   },
   {
     "Dist_ID": 402,
     "District": "Hoshiarpur",
     "Actual(bu/ac)": 57.34,
-    "Predicted(bu/ac)": 48.5
+    "Predicted": 48.5
   },
   {
     "Dist_ID": 583,
     "District": "Hugli",
     "Actual(bu/ac)": 37.2,
-    "Predicted(bu/ac)": 40.52
+    "Predicted": 40.52
   },
   {
     "Dist_ID": 235,
     "District": "Idukki",
     "Actual(bu/ac)": 41.82,
-    "Predicted(bu/ac)": 39.43
+    "Predicted": 39.43
   },
   {
     "Dist_ID": 268,
     "District": "Indore",
     "Actual(bu/ac)": 24.7,
-    "Predicted(bu/ac)": 22.48
+    "Predicted": 22.48
   },
   {
     "Dist_ID": 269,
     "District": "Jabalpur",
     "Actual(bu/ac)": 31.37,
-    "Predicted(bu/ac)": 35.98
+    "Predicted": 35.98
   },
   {
     "Dist_ID": 341,
     "District": "Jaintia Hills",
     "Actual(bu/ac)": 35.97,
-    "Predicted(bu/ac)": 37.89
+    "Predicted": 37.89
   },
   {
     "Dist_ID": 429,
     "District": "Jaipur",
     "Actual(bu/ac)": 20.67,
-    "Predicted(bu/ac)": 18.12
+    "Predicted": 18.12
   },
   {
     "Dist_ID": 374,
     "District": "Jajpur",
     "Actual(bu/ac)": 13.97,
-    "Predicted(bu/ac)": 19.83
+    "Predicted": 19.83
   },
   {
     "Dist_ID": 403,
     "District": "Jalandhar",
     "Actual(bu/ac)": 67.71,
-    "Predicted(bu/ac)": 58.44
+    "Predicted": 58.44
   },
   {
     "Dist_ID": 527,
     "District": "Jalaun",
     "Actual(bu/ac)": 10.62,
-    "Predicted(bu/ac)": 28.67
+    "Predicted": 28.67
   },
   {
     "Dist_ID": 309,
     "District": "Jalgaon",
     "Actual(bu/ac)": 26.05,
-    "Predicted(bu/ac)": 22.85
+    "Predicted": 22.85
   },
   {
     "Dist_ID": 310,
     "District": "Jalna",
     "Actual(bu/ac)": 52.48,
-    "Predicted(bu/ac)": 45.06
+    "Predicted": 45.06
   },
   {
     "Dist_ID": 431,
     "District": "Jalor",
     "Actual(bu/ac)": 20.41,
-    "Predicted(bu/ac)": 25.25
+    "Predicted": 25.25
   },
   {
     "Dist_ID": 584,
     "District": "Jalpaiguri",
     "Actual(bu/ac)": 75.5,
-    "Predicted(bu/ac)": 64.41
+    "Predicted": 64.41
   },
   {
     "Dist_ID": 174,
     "District": "Jammu",
     "Actual(bu/ac)": 26.38,
-    "Predicted(bu/ac)": 26.67
+    "Predicted": 26.67
   },
   {
     "Dist_ID": 194,
     "District": "Jamtara",
     "Actual(bu/ac)": 29.4,
-    "Predicted(bu/ac)": 33.82
+    "Predicted": 33.82
   },
   {
     "Dist_ID": 65,
     "District": "Jamui",
     "Actual(bu/ac)": 42.56,
-    "Predicted(bu/ac)": 38.31
+    "Predicted": 38.31
   },
   {
     "Dist_ID": 97,
     "District": "Janjgir-Champa",
     "Actual(bu/ac)": 42.07,
-    "Predicted(bu/ac)": 40
+    "Predicted": 40
   },
   {
     "Dist_ID": 98,
     "District": "Jashpur",
     "Actual(bu/ac)": 37.69,
-    "Predicted(bu/ac)": 37.32
+    "Predicted": 37.32
   },
   {
     "Dist_ID": 528,
     "District": "Jaunpur",
     "Actual(bu/ac)": 36,
-    "Predicted(bu/ac)": 36.65
+    "Predicted": 36.65
   },
   {
     "Dist_ID": 66,
     "District": "Jehanabad",
     "Actual(bu/ac)": 56.54,
-    "Predicted(bu/ac)": 51.04
+    "Predicted": 51.04
   },
   {
     "Dist_ID": 270,
     "District": "Jhabua",
     "Actual(bu/ac)": 29.12,
-    "Predicted(bu/ac)": 23.75
+    "Predicted": 23.75
   },
   {
     "Dist_ID": 145,
     "District": "Jhajjar",
     "Actual(bu/ac)": 21.24,
-    "Predicted(bu/ac)": 18.63
+    "Predicted": 18.63
   },
   {
     "Dist_ID": 432,
     "District": "Jhalawar",
     "Actual(bu/ac)": 10.77,
-    "Predicted(bu/ac)": 25.54
+    "Predicted": 25.54
   },
   {
     "Dist_ID": 529,
     "District": "Jhansi",
     "Actual(bu/ac)": 6.36,
-    "Predicted(bu/ac)": 27.69
+    "Predicted": 27.69
   },
   {
     "Dist_ID": 375,
     "District": "Jharsuguda",
     "Actual(bu/ac)": 41.67,
-    "Predicted(bu/ac)": 38.25
+    "Predicted": 38.25
   },
   {
     "Dist_ID": 434,
     "District": "Jodhpur",
     "Actual(bu/ac)": 23.9,
-    "Predicted(bu/ac)": 29.25
+    "Predicted": 29.25
   },
   {
     "Dist_ID": 41,
     "District": "Jorhat",
     "Actual(bu/ac)": 41.98,
-    "Predicted(bu/ac)": 37.99
+    "Predicted": 37.99
   },
   {
     "Dist_ID": 110,
     "District": "Junagadh",
     "Actual(bu/ac)": 38.23,
-    "Predicted(bu/ac)": 37.71
+    "Predicted": 37.71
   },
   {
     "Dist_ID": 123,
     "District": "Junagadh",
     "Actual(bu/ac)": 38.23,
-    "Predicted(bu/ac)": 37.45
+    "Predicted": 37.45
   },
   {
     "Dist_ID": 124,
     "District": "Kachchh",
     "Actual(bu/ac)": 36.41,
-    "Predicted(bu/ac)": 36.67
+    "Predicted": 36.67
   },
   {
     "Dist_ID": 376,
     "District": "Kalahandi",
     "Actual(bu/ac)": 22.25,
-    "Predicted(bu/ac)": 22.18
+    "Predicted": 22.18
   },
   {
     "Dist_ID": 42,
     "District": "Kamrup",
     "Actual(bu/ac)": 95.19,
-    "Predicted(bu/ac)": 80.71
+    "Predicted": 80.71
   },
   {
     "Dist_ID": 377,
     "District": "Kandhamal",
     "Actual(bu/ac)": 18.43,
-    "Predicted(bu/ac)": 27.02
+    "Predicted": 27.02
   },
   {
     "Dist_ID": 161,
     "District": "Kangra",
     "Actual(bu/ac)": 38.55,
-    "Predicted(bu/ac)": 36.67
+    "Predicted": 36.67
   },
   {
     "Dist_ID": 99,
     "District": "Kanker",
     "Actual(bu/ac)": 46.99,
-    "Predicted(bu/ac)": 40.2
+    "Predicted": 40.2
   },
   {
     "Dist_ID": 531,
     "District": "Kannauj",
     "Actual(bu/ac)": 73.24,
-    "Predicted(bu/ac)": 61.07
+    "Predicted": 61.07
   },
   {
     "Dist_ID": 533,
     "District": "Kanpur",
     "Actual(bu/ac)": 43.2,
-    "Predicted(bu/ac)": 38.76
+    "Predicted": 38.76
   },
   {
     "Dist_ID": 532,
     "District": "Kanpur Dehat",
     "Actual(bu/ac)": 61.26,
-    "Predicted(bu/ac)": 51.73
+    "Predicted": 51.73
   },
   {
     "Dist_ID": 404,
     "District": "Kapurthala",
     "Actual(bu/ac)": 90.81,
-    "Predicted(bu/ac)": 77.2
+    "Predicted": 77.2
   },
   {
     "Dist_ID": 435,
     "District": "Karauli",
     "Actual(bu/ac)": 20.71,
-    "Predicted(bu/ac)": 17.98
+    "Predicted": 17.98
   },
   {
     "Dist_ID": 43,
     "District": "Karbi Anglong",
     "Actual(bu/ac)": 36.15,
-    "Predicted(bu/ac)": 36.63
+    "Predicted": 36.63
   },
   {
     "Dist_ID": 44,
     "District": "Karimganj",
     "Actual(bu/ac)": 14.41,
-    "Predicted(bu/ac)": 22.96
+    "Predicted": 22.96
   },
   {
     "Dist_ID": 176,
     "District": "Kathua",
     "Actual(bu/ac)": 49.97,
-    "Predicted(bu/ac)": 45.83
+    "Predicted": 45.83
   },
   {
     "Dist_ID": 271,
     "District": "Katni",
     "Actual(bu/ac)": 36.01,
-    "Predicted(bu/ac)": 38.96
+    "Predicted": 38.96
   },
   {
     "Dist_ID": 534,
     "District": "Kaushambi",
     "Actual(bu/ac)": 29.68,
-    "Predicted(bu/ac)": 33.84
+    "Predicted": 33.84
   },
   {
     "Dist_ID": 379,
     "District": "Keonjhar",
     "Actual(bu/ac)": 49.62,
-    "Predicted(bu/ac)": 44.32
+    "Predicted": 44.32
   },
   {
     "Dist_ID": 125,
     "District": "Kheda",
     "Actual(bu/ac)": 32.07,
-    "Predicted(bu/ac)": 35.39
+    "Predicted": 35.39
   },
   {
     "Dist_ID": 380,
     "District": "Khordha",
     "Actual(bu/ac)": 15.93,
-    "Predicted(bu/ac)": 32.16
+    "Predicted": 32.16
   },
   {
     "Dist_ID": 162,
     "District": "Kinnaur",
     "Actual(bu/ac)": 40.67,
-    "Predicted(bu/ac)": 38.43
+    "Predicted": 38.43
   },
   {
     "Dist_ID": 195,
     "District": "Koderma",
     "Actual(bu/ac)": 31.85,
-    "Predicted(bu/ac)": 37.1
+    "Predicted": 37.1
   },
   {
     "Dist_ID": 355,
     "District": "Kohima",
     "Actual(bu/ac)": 31.62,
-    "Predicted(bu/ac)": 33.91
+    "Predicted": 33.91
   },
   {
     "Dist_ID": 45,
     "District": "Kokrajhar",
     "Actual(bu/ac)": 10.74,
-    "Predicted(bu/ac)": 31.32
+    "Predicted": 31.32
   },
   {
     "Dist_ID": 224,
     "District": "Kolar",
     "Actual(bu/ac)": 51.01,
-    "Predicted(bu/ac)": 44.2
+    "Predicted": 44.2
   },
   {
     "Dist_ID": 348,
     "District": "Kolasib",
     "Actual(bu/ac)": 21.5,
-    "Predicted(bu/ac)": 32.61
+    "Predicted": 32.61
   },
   {
     "Dist_ID": 311,
     "District": "Kolhapur",
     "Actual(bu/ac)": 43.65,
-    "Predicted(bu/ac)": 41.95
+    "Predicted": 41.95
   },
   {
     "Dist_ID": 225,
     "District": "Koppal",
     "Actual(bu/ac)": 29.17,
-    "Predicted(bu/ac)": 23.38
+    "Predicted": 23.38
   },
   {
     "Dist_ID": 381,
     "District": "Koraput",
     "Actual(bu/ac)": 33.27,
-    "Predicted(bu/ac)": 38.36
+    "Predicted": 38.36
   },
   {
     "Dist_ID": 101,
     "District": "Korba",
     "Actual(bu/ac)": 31.52,
-    "Predicted(bu/ac)": 37.02
+    "Predicted": 37.02
   },
   {
     "Dist_ID": 102,
     "District": "Koriya",
     "Actual(bu/ac)": 34.05,
-    "Predicted(bu/ac)": 35.21
+    "Predicted": 35.21
   },
   {
     "Dist_ID": 436,
     "District": "Kota",
     "Actual(bu/ac)": 6.21,
-    "Predicted(bu/ac)": 27.98
+    "Predicted": 27.98
   },
   {
     "Dist_ID": 163,
     "District": "Kullu",
     "Actual(bu/ac)": 42.38,
-    "Predicted(bu/ac)": 42.36
+    "Predicted": 42.36
   },
   {
     "Dist_ID": 177,
     "District": "Kupwara (Muzaffarabad)",
     "Actual(bu/ac)": 24.9,
-    "Predicted(bu/ac)": 26.34
+    "Predicted": 26.34
   },
   {
     "Dist_ID": 9,
     "District": "Kurnool",
     "Actual(bu/ac)": 84.39,
-    "Predicted(bu/ac)": 71.57
+    "Predicted": 71.57
   },
   {
     "Dist_ID": 149,
     "District": "Kurukshetra",
     "Actual(bu/ac)": 61.93,
-    "Predicted(bu/ac)": 54.75
+    "Predicted": 54.75
   },
   {
     "Dist_ID": 19,
     "District": "Kurung Kumey",
     "Actual(bu/ac)": 24.9,
-    "Predicted(bu/ac)": 18.98
+    "Predicted": 18.98
   },
   {
     "Dist_ID": 535,
     "District": "Kushinagar",
     "Actual(bu/ac)": 51.26,
-    "Predicted(bu/ac)": 44.27
+    "Predicted": 44.27
   },
   {
     "Dist_ID": 164,
     "District": "Lahul and Spiti",
     "Actual(bu/ac)": 43.97,
-    "Predicted(bu/ac)": 39.99
+    "Predicted": 39.99
   },
   {
     "Dist_ID": 46,
     "District": "Lakhimpur",
     "Actual(bu/ac)": 59.09,
-    "Predicted(bu/ac)": 48.61
+    "Predicted": 48.61
   },
   {
     "Dist_ID": 70,
     "District": "Lakhisarai",
     "Actual(bu/ac)": 65.33,
-    "Predicted(bu/ac)": 57.09
+    "Predicted": 57.09
   },
   {
     "Dist_ID": 537,
     "District": "Lalitpur",
     "Actual(bu/ac)": 11.92,
-    "Predicted(bu/ac)": 19.75
+    "Predicted": 19.75
   },
   {
     "Dist_ID": 196,
     "District": "Latehar",
     "Actual(bu/ac)": 25.25,
-    "Predicted(bu/ac)": 19.17
+    "Predicted": 19.17
   },
   {
     "Dist_ID": 312,
     "District": "Latur",
     "Actual(bu/ac)": 9.13,
-    "Predicted(bu/ac)": 28.03
+    "Predicted": 28.03
   },
   {
     "Dist_ID": 349,
     "District": "Lawngtlai",
     "Actual(bu/ac)": 47.47,
-    "Predicted(bu/ac)": 41.42
+    "Predicted": 41.42
   },
   {
     "Dist_ID": 197,
     "District": "Lohardaga",
     "Actual(bu/ac)": 48.59,
-    "Predicted(bu/ac)": 42.03
+    "Predicted": 42.03
   },
   {
     "Dist_ID": 20,
     "District": "Lohit",
     "Actual(bu/ac)": 19.89,
-    "Predicted(bu/ac)": 26.69
+    "Predicted": 26.69
   },
   {
     "Dist_ID": 21,
     "District": "Lower Dibang Valley",
     "Actual(bu/ac)": 21.47,
-    "Predicted(bu/ac)": 32.67
+    "Predicted": 32.67
   },
   {
     "Dist_ID": 22,
     "District": "Lower Subansiri",
     "Actual(bu/ac)": 36.48,
-    "Predicted(bu/ac)": 38.21
+    "Predicted": 38.21
   },
   {
     "Dist_ID": 538,
     "District": "Lucknow",
     "Actual(bu/ac)": 26.64,
-    "Predicted(bu/ac)": 26.54
+    "Predicted": 26.54
   },
   {
     "Dist_ID": 350,
     "District": "Lunglei",
     "Actual(bu/ac)": 24.19,
-    "Predicted(bu/ac)": 29.31
+    "Predicted": 29.31
   },
   {
     "Dist_ID": 72,
     "District": "Madhubani",
     "Actual(bu/ac)": 52.85,
-    "Predicted(bu/ac)": 48.16
+    "Predicted": 48.16
   },
   {
     "Dist_ID": 539,
     "District": "Maharajganj",
     "Actual(bu/ac)": 39.02,
-    "Predicted(bu/ac)": 38.93
+    "Predicted": 38.93
   },
   {
     "Dist_ID": 103,
     "District": "Mahasamund",
     "Actual(bu/ac)": 28.57,
-    "Predicted(bu/ac)": 30.67
+    "Predicted": 30.67
   },
   {
     "Dist_ID": 483,
     "District": "Mahbubnagar",
     "Actual(bu/ac)": 49.91,
-    "Predicted(bu/ac)": 42.86
+    "Predicted": 42.86
   },
   {
     "Dist_ID": 126,
     "District": "Mahesana",
     "Actual(bu/ac)": 28.08,
-    "Predicted(bu/ac)": 33.91
+    "Predicted": 33.91
   },
   {
     "Dist_ID": 540,
     "District": "Mahoba",
     "Actual(bu/ac)": 38.23,
-    "Predicted(bu/ac)": 40.63
+    "Predicted": 40.63
   },
   {
     "Dist_ID": 541,
     "District": "Mainpuri",
     "Actual(bu/ac)": 56.57,
-    "Predicted(bu/ac)": 47.4
+    "Predicted": 47.4
   },
   {
     "Dist_ID": 382,
     "District": "Malkangiri",
     "Actual(bu/ac)": 12.3,
-    "Predicted(bu/ac)": 19.55
+    "Predicted": 19.55
   },
   {
     "Dist_ID": 351,
     "District": "Mamit",
     "Actual(bu/ac)": 18.95,
-    "Predicted(bu/ac)": 29.73
+    "Predicted": 29.73
   },
   {
     "Dist_ID": 165,
     "District": "Mandi",
     "Actual(bu/ac)": 40.78,
-    "Predicted(bu/ac)": 41.52
+    "Predicted": 41.52
   },
   {
     "Dist_ID": 272,
     "District": "Mandla",
     "Actual(bu/ac)": 34.24,
-    "Predicted(bu/ac)": 38.25
+    "Predicted": 38.25
   },
   {
     "Dist_ID": 273,
     "District": "Mandsaur",
     "Actual(bu/ac)": 28.42,
-    "Predicted(bu/ac)": 27.13
+    "Predicted": 27.13
   },
   {
     "Dist_ID": 226,
     "District": "Mandya",
     "Actual(bu/ac)": 55.03,
-    "Predicted(bu/ac)": 46.31
+    "Predicted": 46.31
   },
   {
     "Dist_ID": 406,
     "District": "Mansa",
     "Actual(bu/ac)": 45.96,
-    "Predicted(bu/ac)": 41.05
+    "Predicted": 41.05
   },
   {
     "Dist_ID": 47,
     "District": "Marigaon",
     "Actual(bu/ac)": 48.11,
-    "Predicted(bu/ac)": 40.9
+    "Predicted": 40.9
   },
   {
     "Dist_ID": 542,
     "District": "Mathura",
     "Actual(bu/ac)": 55.97,
-    "Predicted(bu/ac)": 51.04
+    "Predicted": 51.04
   },
   {
     "Dist_ID": 543,
     "District": "Mau",
     "Actual(bu/ac)": 28.37,
-    "Predicted(bu/ac)": 19.74
+    "Predicted": 19.74
   },
   {
     "Dist_ID": 383,
     "District": "Mayurbhanj",
     "Actual(bu/ac)": 26.61,
-    "Predicted(bu/ac)": 33.68
+    "Predicted": 33.68
   },
   {
     "Dist_ID": 484,
     "District": "Medak",
     "Actual(bu/ac)": 74.41,
-    "Predicted(bu/ac)": 59.52
+    "Predicted": 59.52
   },
   {
     "Dist_ID": 544,
     "District": "Meerut",
     "Actual(bu/ac)": 34.71,
-    "Predicted(bu/ac)": 36.93
+    "Predicted": 36.93
   },
   {
     "Dist_ID": 545,
     "District": "Mirzapur",
     "Actual(bu/ac)": 14.28,
-    "Predicted(bu/ac)": 23.31
+    "Predicted": 23.31
   },
   {
     "Dist_ID": 407,
     "District": "Moga",
     "Actual(bu/ac)": 47.79,
-    "Predicted(bu/ac)": 41.47
+    "Predicted": 41.47
   },
   {
     "Dist_ID": 356,
     "District": "Mokokchung",
     "Actual(bu/ac)": 31.66,
-    "Predicted(bu/ac)": 35.78
+    "Predicted": 35.78
   },
   {
     "Dist_ID": 357,
     "District": "Mon",
     "Actual(bu/ac)": 31.55,
-    "Predicted(bu/ac)": 36.1
+    "Predicted": 36.1
   },
   {
     "Dist_ID": 546,
     "District": "Moradabad",
     "Actual(bu/ac)": 27.52,
-    "Predicted(bu/ac)": 33.73
+    "Predicted": 33.73
   },
   {
     "Dist_ID": 73,
     "District": "Munger",
     "Actual(bu/ac)": 54.65,
-    "Predicted(bu/ac)": 50.26
+    "Predicted": 50.26
   },
   {
     "Dist_ID": 547,
     "District": "Muzaffarnagar",
     "Actual(bu/ac)": 40.62,
-    "Predicted(bu/ac)": 38.38
+    "Predicted": 38.38
   },
   {
     "Dist_ID": 74,
     "District": "Muzaffarpur",
     "Actual(bu/ac)": 57.66,
-    "Predicted(bu/ac)": 49.61
+    "Predicted": 49.61
   },
   {
     "Dist_ID": 227,
     "District": "Mysore",
     "Actual(bu/ac)": 49.96,
-    "Predicted(bu/ac)": 44.35
+    "Predicted": 44.35
   },
   {
     "Dist_ID": 384,
     "District": "Nabarangpur",
     "Actual(bu/ac)": 57.82,
-    "Predicted(bu/ac)": 49.79
+    "Predicted": 49.79
   },
   {
     "Dist_ID": 589,
     "District": "Nadia",
     "Actual(bu/ac)": 69.67,
-    "Predicted(bu/ac)": 58.66
+    "Predicted": 58.66
   },
   {
     "Dist_ID": 48,
     "District": "Nagaon",
     "Actual(bu/ac)": 53.11,
-    "Predicted(bu/ac)": 48.09
+    "Predicted": 48.09
   },
   {
     "Dist_ID": 437,
     "District": "Nagaur",
     "Actual(bu/ac)": 19.91,
-    "Predicted(bu/ac)": 23.68
+    "Predicted": 23.68
   },
   {
     "Dist_ID": 313,
     "District": "Nagpur",
     "Actual(bu/ac)": 21.96,
-    "Predicted(bu/ac)": 25.79
+    "Predicted": 25.79
   },
   {
     "Dist_ID": 569,
     "District": "Naini Tal",
     "Actual(bu/ac)": 21.35,
-    "Predicted(bu/ac)": 28.92
+    "Predicted": 28.92
   },
   {
     "Dist_ID": 75,
     "District": "Nalanda",
     "Actual(bu/ac)": 57,
-    "Predicted(bu/ac)": 48.55
+    "Predicted": 48.55
   },
   {
     "Dist_ID": 49,
     "District": "Nalbari",
     "Actual(bu/ac)": 33.44,
-    "Predicted(bu/ac)": 38.44
+    "Predicted": 38.44
   },
   {
     "Dist_ID": 485,
     "District": "Nalgonda",
     "Actual(bu/ac)": 92.51,
-    "Predicted(bu/ac)": 79.66
+    "Predicted": 79.66
   },
   {
     "Dist_ID": 314,
     "District": "Nanded",
     "Actual(bu/ac)": 24.11,
-    "Predicted(bu/ac)": 19.21
+    "Predicted": 19.21
   },
   {
     "Dist_ID": 315,
     "District": "Nandurbar",
     "Actual(bu/ac)": 31.53,
-    "Predicted(bu/ac)": 35.73
+    "Predicted": 35.73
   },
   {
     "Dist_ID": 127,
     "District": "Narmada",
     "Actual(bu/ac)": 30.32,
-    "Predicted(bu/ac)": 34.12
+    "Predicted": 34.12
   },
   {
     "Dist_ID": 275,
     "District": "Narsinghpur",
     "Actual(bu/ac)": 33.46,
-    "Predicted(bu/ac)": 37.79
+    "Predicted": 37.79
   },
   {
     "Dist_ID": 316,
     "District": "Nashik",
     "Actual(bu/ac)": 25.03,
-    "Predicted(bu/ac)": 22.4
+    "Predicted": 22.4
   },
   {
     "Dist_ID": 128,
     "District": "Navsari",
     "Actual(bu/ac)": 21.36,
-    "Predicted(bu/ac)": 29.04
+    "Predicted": 29.04
   },
   {
     "Dist_ID": 76,
     "District": "Nawada",
     "Actual(bu/ac)": 47.32,
-    "Predicted(bu/ac)": 40.77
+    "Predicted": 40.77
   },
   {
     "Dist_ID": 409,
     "District": "Nawan Shehar",
     "Actual(bu/ac)": 69.52,
-    "Predicted(bu/ac)": 57.11
+    "Predicted": 57.11
   },
   {
     "Dist_ID": 385,
     "District": "Nayagarh",
     "Actual(bu/ac)": 51.13,
-    "Predicted(bu/ac)": 46.03
+    "Predicted": 46.03
   },
   {
     "Dist_ID": 276,
     "District": "Neemuch",
     "Actual(bu/ac)": 25.7,
-    "Predicted(bu/ac)": 22.76
+    "Predicted": 22.76
   },
   {
     "Dist_ID": 486,
     "District": "Nizamabad",
     "Actual(bu/ac)": 99.34,
-    "Predicted(bu/ac)": 84.41
+    "Predicted": 84.41
   },
   {
     "Dist_ID": 50,
     "District": "North Cachar Hills",
     "Actual(bu/ac)": 21.24,
-    "Predicted(bu/ac)": 28.84
+    "Predicted": 28.84
   },
   {
     "Dist_ID": 446,
     "District": "North Sikkim",
     "Actual(bu/ac)": 25.5,
-    "Predicted(bu/ac)": 29.87
+    "Predicted": 29.87
   },
   {
     "Dist_ID": 490,
     "District": "North Tripura",
     "Actual(bu/ac)": 24.09,
-    "Predicted(bu/ac)": 29.5
+    "Predicted": 29.5
   },
   {
     "Dist_ID": 386,
     "District": "Nuapada",
     "Actual(bu/ac)": 33.95,
-    "Predicted(bu/ac)": 36.89
+    "Predicted": 36.89
   },
   {
     "Dist_ID": 317,
     "District": "Osmanabad",
     "Actual(bu/ac)": 14.23,
-    "Predicted(bu/ac)": 23.29
+    "Predicted": 23.29
   },
   {
     "Dist_ID": 198,
     "District": "Pakur",
     "Actual(bu/ac)": 24.36,
-    "Predicted(bu/ac)": 19.27
+    "Predicted": 19.27
   },
   {
     "Dist_ID": 242,
     "District": "Palakkad",
     "Actual(bu/ac)": 16.1,
-    "Predicted(bu/ac)": 29.18
+    "Predicted": 29.18
   },
   {
     "Dist_ID": 199,
     "District": "Palamu",
     "Actual(bu/ac)": 25.22,
-    "Predicted(bu/ac)": 29.4
+    "Predicted": 29.4
   },
   {
     "Dist_ID": 438,
     "District": "Pali",
     "Actual(bu/ac)": 20.27,
-    "Predicted(bu/ac)": 21.78
+    "Predicted": 21.78
   },
   {
     "Dist_ID": 129,
     "District": "Panch Mahals",
     "Actual(bu/ac)": 27.88,
-    "Predicted(bu/ac)": 26.52
+    "Predicted": 26.52
   },
   {
     "Dist_ID": 151,
     "District": "Panchkula",
     "Actual(bu/ac)": 51.25,
-    "Predicted(bu/ac)": 45.15
+    "Predicted": 45.15
   },
   {
     "Dist_ID": 277,
     "District": "Panna",
     "Actual(bu/ac)": 28.89,
-    "Predicted(bu/ac)": 23.27
+    "Predicted": 23.27
   },
   {
     "Dist_ID": 23,
     "District": "Papum Pare",
     "Actual(bu/ac)": 28.22,
-    "Predicted(bu/ac)": 20.03
+    "Predicted": 20.03
   },
   {
     "Dist_ID": 318,
     "District": "Parbhani",
     "Actual(bu/ac)": 17.37,
-    "Predicted(bu/ac)": 26.57
+    "Predicted": 26.57
   },
   {
     "Dist_ID": 77,
     "District": "Pashchim Champaran",
     "Actual(bu/ac)": 71.92,
-    "Predicted(bu/ac)": 61.55
+    "Predicted": 61.55
   },
   {
     "Dist_ID": 410,
     "District": "Patiala",
     "Actual(bu/ac)": 43.81,
-    "Predicted(bu/ac)": 42.05
+    "Predicted": 42.05
   },
   {
     "Dist_ID": 78,
     "District": "Patna",
     "Actual(bu/ac)": 40.08,
-    "Predicted(bu/ac)": 39.17
+    "Predicted": 39.17
   },
   {
     "Dist_ID": 570,
     "District": "Pauri Garhwal",
     "Actual(bu/ac)": 31.7,
-    "Predicted(bu/ac)": 35.03
+    "Predicted": 35.03
   },
   {
     "Dist_ID": 358,
     "District": "Phek",
     "Actual(bu/ac)": 31.63,
-    "Predicted(bu/ac)": 33.97
+    "Predicted": 33.97
   },
   {
     "Dist_ID": 548,
     "District": "Pilibhit",
     "Actual(bu/ac)": 38.97,
-    "Predicted(bu/ac)": 36.93
+    "Predicted": 36.93
   },
   {
     "Dist_ID": 571,
     "District": "Pithoragarh",
     "Actual(bu/ac)": 30.4,
-    "Predicted(bu/ac)": 33.63
+    "Predicted": 33.63
   },
   {
     "Dist_ID": 549,
     "District": "Pratapgarh",
     "Actual(bu/ac)": 29.51,
-    "Predicted(bu/ac)": 23.67
+    "Predicted": 23.67
   },
   {
     "Dist_ID": 179,
     "District": "Pulwama",
     "Actual(bu/ac)": 22.75,
-    "Predicted(bu/ac)": 18.93
+    "Predicted": 18.93
   },
   {
     "Dist_ID": 180,
     "District": "Punch",
     "Actual(bu/ac)": 40.73,
-    "Predicted(bu/ac)": 40.42
+    "Predicted": 40.42
   },
   {
     "Dist_ID": 319,
     "District": "Pune",
     "Actual(bu/ac)": 59.76,
-    "Predicted(bu/ac)": 49.02
+    "Predicted": 49.02
   },
   {
     "Dist_ID": 79,
     "District": "Purba Champaran",
     "Actual(bu/ac)": 37.24,
-    "Predicted(bu/ac)": 38.02
+    "Predicted": 38.02
   },
   {
     "Dist_ID": 591,
     "District": "Puruliya",
     "Actual(bu/ac)": 36.23,
-    "Predicted(bu/ac)": 37.56
+    "Predicted": 37.56
   },
   {
     "Dist_ID": 550,
     "District": "Rae Bareli",
     "Actual(bu/ac)": 40.64,
-    "Predicted(bu/ac)": 41.98
+    "Predicted": 41.98
   },
   {
     "Dist_ID": 104,
     "District": "Raigarh",
     "Actual(bu/ac)": 38.77,
-    "Predicted(bu/ac)": 36.69
+    "Predicted": 36.69
   },
   {
     "Dist_ID": 105,
     "District": "Raipur",
     "Actual(bu/ac)": 32.96,
-    "Predicted(bu/ac)": 37.31
+    "Predicted": 37.31
   },
   {
     "Dist_ID": 278,
     "District": "Raisen",
     "Actual(bu/ac)": 21.94,
-    "Predicted(bu/ac)": 25.59
+    "Predicted": 25.59
   },
   {
     "Dist_ID": 106,
     "District": "Raj Nandgaon",
     "Actual(bu/ac)": 32.21,
-    "Predicted(bu/ac)": 35.12
+    "Predicted": 35.12
   },
   {
     "Dist_ID": 181,
     "District": "Rajauri",
     "Actual(bu/ac)": 37.95,
-    "Predicted(bu/ac)": 36.74
+    "Predicted": 36.74
   },
   {
     "Dist_ID": 279,
     "District": "Rajgarh",
     "Actual(bu/ac)": 18.8,
-    "Predicted(bu/ac)": 29.96
+    "Predicted": 29.96
   },
   {
     "Dist_ID": 132,
     "District": "Rajkot",
     "Actual(bu/ac)": 33.57,
-    "Predicted(bu/ac)": 38.99
+    "Predicted": 38.99
   },
   {
     "Dist_ID": 439,
     "District": "Rajsamand",
     "Actual(bu/ac)": 27.78,
-    "Predicted(bu/ac)": 19.93
+    "Predicted": 19.93
   },
   {
     "Dist_ID": 551,
     "District": "Rampur",
     "Actual(bu/ac)": 28.94,
-    "Predicted(bu/ac)": 19.89
+    "Predicted": 19.89
   },
   {
     "Dist_ID": 202,
     "District": "Ranchi",
     "Actual(bu/ac)": 43.75,
-    "Predicted(bu/ac)": 40.08
+    "Predicted": 40.08
   },
   {
     "Dist_ID": 487,
     "District": "Rangareddi",
     "Actual(bu/ac)": 53.07,
-    "Predicted(bu/ac)": 49.5
+    "Predicted": 49.5
   },
   {
     "Dist_ID": 280,
     "District": "Ratlam",
     "Actual(bu/ac)": 26.86,
-    "Predicted(bu/ac)": 30.07
+    "Predicted": 30.07
   },
   {
     "Dist_ID": 388,
     "District": "Rayagada",
     "Actual(bu/ac)": 30.16,
-    "Predicted(bu/ac)": 34.23
+    "Predicted": 34.23
   },
   {
     "Dist_ID": 281,
     "District": "Rewa",
     "Actual(bu/ac)": 21,
-    "Predicted(bu/ac)": 25.13
+    "Predicted": 25.13
   },
   {
     "Dist_ID": 342,
     "District": "Ri-Bhoi",
     "Actual(bu/ac)": 51.4,
-    "Predicted(bu/ac)": 45.55
+    "Predicted": 45.55
   },
   {
     "Dist_ID": 81,
     "District": "Rohtas",
     "Actual(bu/ac)": 38.64,
-    "Predicted(bu/ac)": 40.63
+    "Predicted": 40.63
   },
   {
     "Dist_ID": 572,
     "District": "Rudra Prayag",
     "Actual(bu/ac)": 25.84,
-    "Predicted(bu/ac)": 26.28
+    "Predicted": 26.28
   },
   {
     "Dist_ID": 411,
     "District": "Rupnagar",
     "Actual(bu/ac)": 56.98,
-    "Predicted(bu/ac)": 51.69
+    "Predicted": 51.69
   },
   {
     "Dist_ID": 133,
     "District": "Sabar Kantha",
     "Actual(bu/ac)": 38.91,
-    "Predicted(bu/ac)": 39.74
+    "Predicted": 39.74
   },
   {
     "Dist_ID": 282,
     "District": "Sagar",
     "Actual(bu/ac)": 35.62,
-    "Predicted(bu/ac)": 36.63
+    "Predicted": 36.63
   },
   {
     "Dist_ID": 552,
     "District": "Saharanpur",
     "Actual(bu/ac)": 40.69,
-    "Predicted(bu/ac)": 39.48
+    "Predicted": 39.48
   },
   {
     "Dist_ID": 82,
     "District": "Saharsa",
     "Actual(bu/ac)": 87.64,
-    "Predicted(bu/ac)": 73.66
+    "Predicted": 73.66
   },
   {
     "Dist_ID": 203,
     "District": "Sahibganj",
     "Actual(bu/ac)": 45.67,
-    "Predicted(bu/ac)": 43.73
+    "Predicted": 43.73
   },
   {
     "Dist_ID": 352,
     "District": "Saiha",
     "Actual(bu/ac)": 22.78,
-    "Predicted(bu/ac)": 18.39
+    "Predicted": 18.39
   },
   {
     "Dist_ID": 389,
     "District": "Sambalpur",
     "Actual(bu/ac)": 28.98,
-    "Predicted(bu/ac)": 30.73
+    "Predicted": 30.73
   },
   {
     "Dist_ID": 322,
     "District": "Sangli",
     "Actual(bu/ac)": 31.07,
-    "Predicted(bu/ac)": 33.53
+    "Predicted": 33.53
   },
   {
     "Dist_ID": 412,
     "District": "Sangrur",
     "Actual(bu/ac)": 47.79,
-    "Predicted(bu/ac)": 44.82
+    "Predicted": 44.82
   },
   {
     "Dist_ID": 553,
     "District": "Sant Kabir Nagar",
     "Actual(bu/ac)": 12.45,
-    "Predicted(bu/ac)": 19.81
+    "Predicted": 19.81
   },
   {
     "Dist_ID": 204,
     "District": "Saraikela Kharsawan",
     "Actual(bu/ac)": 17.51,
-    "Predicted(bu/ac)": 20.64
+    "Predicted": 20.64
   },
   {
     "Dist_ID": 84,
     "District": "Saran",
     "Actual(bu/ac)": 47.5,
-    "Predicted(bu/ac)": 40.58
+    "Predicted": 40.58
   },
   {
     "Dist_ID": 323,
     "District": "Satara",
     "Actual(bu/ac)": 33.06,
-    "Predicted(bu/ac)": 35.8
+    "Predicted": 35.8
   },
   {
     "Dist_ID": 283,
     "District": "Satna",
     "Actual(bu/ac)": 23.7,
-    "Predicted(bu/ac)": 25.95
+    "Predicted": 25.95
   },
   {
     "Dist_ID": 440,
     "District": "Sawai Madhopur",
     "Actual(bu/ac)": 20.65,
-    "Predicted(bu/ac)": 28.45
+    "Predicted": 28.45
   },
   {
     "Dist_ID": 284,
     "District": "Sehore",
     "Actual(bu/ac)": 32.01,
-    "Predicted(bu/ac)": 34.04
+    "Predicted": 34.04
   },
   {
     "Dist_ID": 334,
     "District": "Senapati",
     "Actual(bu/ac)": 35.87,
-    "Predicted(bu/ac)": 39.82
+    "Predicted": 39.82
   },
   {
     "Dist_ID": 285,
     "District": "Seoni",
     "Actual(bu/ac)": 59.5,
-    "Predicted(bu/ac)": 52.64
+    "Predicted": 52.64
   },
   {
     "Dist_ID": 353,
     "District": "Serchhip",
     "Actual(bu/ac)": 26.07,
-    "Predicted(bu/ac)": 19.25
+    "Predicted": 19.25
   },
   {
     "Dist_ID": 286,
     "District": "Shahdol",
     "Actual(bu/ac)": 29.74,
-    "Predicted(bu/ac)": 34.29
+    "Predicted": 34.29
   },
   {
     "Dist_ID": 555,
     "District": "Shahjahanpur",
     "Actual(bu/ac)": 35.23,
-    "Predicted(bu/ac)": 38.19
+    "Predicted": 38.19
   },
   {
     "Dist_ID": 287,
     "District": "Shajapur",
     "Actual(bu/ac)": 13.92,
-    "Predicted(bu/ac)": 19.86
+    "Predicted": 19.86
   },
   {
     "Dist_ID": 85,
     "District": "Sheikhpura",
     "Actual(bu/ac)": 42.97,
-    "Predicted(bu/ac)": 42.65
+    "Predicted": 42.65
   },
   {
     "Dist_ID": 86,
     "District": "Sheohar",
     "Actual(bu/ac)": 73.13,
-    "Predicted(bu/ac)": 58.87
+    "Predicted": 58.87
   },
   {
     "Dist_ID": 288,
     "District": "Sheopur",
     "Actual(bu/ac)": 36.69,
-    "Predicted(bu/ac)": 37.73
+    "Predicted": 37.73
   },
   {
     "Dist_ID": 166,
     "District": "Shimla",
     "Actual(bu/ac)": 42.22,
-    "Predicted(bu/ac)": 39.42
+    "Predicted": 39.42
   },
   {
     "Dist_ID": 229,
     "District": "Shimoga",
     "Actual(bu/ac)": 59.3,
-    "Predicted(bu/ac)": 49.48
+    "Predicted": 49.48
   },
   {
     "Dist_ID": 289,
     "District": "Shivpuri",
     "Actual(bu/ac)": 22.18,
-    "Predicted(bu/ac)": 18.66
+    "Predicted": 18.66
   },
   {
     "Dist_ID": 556,
     "District": "Shravasti",
     "Actual(bu/ac)": 15.63,
-    "Predicted(bu/ac)": 32.52
+    "Predicted": 32.52
   },
   {
     "Dist_ID": 51,
     "District": "Sibsagar",
     "Actual(bu/ac)": 37.29,
-    "Predicted(bu/ac)": 37.26
+    "Predicted": 37.26
   },
   {
     "Dist_ID": 557,
     "District": "Siddharth Nagar",
     "Actual(bu/ac)": 12.74,
-    "Predicted(bu/ac)": 28.67
+    "Predicted": 28.67
   },
   {
     "Dist_ID": 290,
     "District": "Sidhi",
     "Actual(bu/ac)": 26.8,
-    "Predicted(bu/ac)": 19.57
+    "Predicted": 19.57
   },
   {
     "Dist_ID": 441,
     "District": "Sikar",
     "Actual(bu/ac)": 23.9,
-    "Predicted(bu/ac)": 32.64
+    "Predicted": 32.64
   },
   {
     "Dist_ID": 205,
     "District": "Simdega",
     "Actual(bu/ac)": 44.61,
-    "Predicted(bu/ac)": 39.17
+    "Predicted": 39.17
   },
   {
     "Dist_ID": 167,
     "District": "Sirmaur",
     "Actual(bu/ac)": 46.52,
-    "Predicted(bu/ac)": 44.29
+    "Predicted": 44.29
   },
   {
     "Dist_ID": 442,
     "District": "Sirohi",
     "Actual(bu/ac)": 29.53,
-    "Predicted(bu/ac)": 34.01
+    "Predicted": 34.01
   },
   {
     "Dist_ID": 87,
     "District": "Sitamarhi",
     "Actual(bu/ac)": 85.55,
-    "Predicted(bu/ac)": 71.01
+    "Predicted": 71.01
   },
   {
     "Dist_ID": 558,
     "District": "Sitapur",
     "Actual(bu/ac)": 17.98,
-    "Predicted(bu/ac)": 32.97
+    "Predicted": 32.97
   },
   {
     "Dist_ID": 88,
     "District": "Siwan",
     "Actual(bu/ac)": 36.55,
-    "Predicted(bu/ac)": 36.92
+    "Predicted": 36.92
   },
   {
     "Dist_ID": 168,
     "District": "Solan",
     "Actual(bu/ac)": 45.09,
-    "Predicted(bu/ac)": 41.59
+    "Predicted": 41.59
   },
   {
     "Dist_ID": 325,
     "District": "Solapur",
     "Actual(bu/ac)": 31.24,
-    "Predicted(bu/ac)": 34.02
+    "Predicted": 34.02
   },
   {
     "Dist_ID": 559,
     "District": "Sonbhadra",
     "Actual(bu/ac)": 21.01,
-    "Predicted(bu/ac)": 25.02
+    "Predicted": 25.02
   },
   {
     "Dist_ID": 52,
     "District": "Sonitpur",
     "Actual(bu/ac)": 82.89,
-    "Predicted(bu/ac)": 66.36
+    "Predicted": 66.36
   },
   {
     "Dist_ID": 343,
     "District": "South Garo Hills",
     "Actual(bu/ac)": 27.97,
-    "Predicted(bu/ac)": 30.49
+    "Predicted": 30.49
   },
   {
     "Dist_ID": 447,
     "District": "South Sikkim",
     "Actual(bu/ac)": 29.07,
-    "Predicted(bu/ac)": 23.72
+    "Predicted": 23.72
   },
   {
     "Dist_ID": 491,
     "District": "South Tripura",
     "Actual(bu/ac)": 26.74,
-    "Predicted(bu/ac)": 30.17
+    "Predicted": 30.17
   },
   {
     "Dist_ID": 182,
     "District": "Srinagar",
     "Actual(bu/ac)": 29.89,
-    "Predicted(bu/ac)": 30.87
+    "Predicted": 30.87
   },
   {
     "Dist_ID": 560,
     "District": "Sultanpur",
     "Actual(bu/ac)": 20.5,
-    "Predicted(bu/ac)": 28.78
+    "Predicted": 28.78
   },
   {
     "Dist_ID": 391,
     "District": "Sundargarh",
     "Actual(bu/ac)": 35.86,
-    "Predicted(bu/ac)": 38.39
+    "Predicted": 38.39
   },
   {
     "Dist_ID": 134,
     "District": "Surat",
     "Actual(bu/ac)": 25.6,
-    "Predicted(bu/ac)": 26.17
+    "Predicted": 26.17
   },
   {
     "Dist_ID": 135,
     "District": "Surendranagar",
     "Actual(bu/ac)": 39.83,
-    "Predicted(bu/ac)": 37.02
+    "Predicted": 37.02
   },
   {
     "Dist_ID": 107,
     "District": "Surguja",
     "Actual(bu/ac)": 35.72,
-    "Predicted(bu/ac)": 35.46
+    "Predicted": 35.46
   },
   {
     "Dist_ID": 335,
     "District": "Tamenglong",
     "Actual(bu/ac)": 38.62,
-    "Predicted(bu/ac)": 40.76
+    "Predicted": 40.76
   },
   {
     "Dist_ID": 24,
     "District": "Tawang",
     "Actual(bu/ac)": 37.63,
-    "Predicted(bu/ac)": 36.53
+    "Predicted": 36.53
   },
   {
     "Dist_ID": 573,
     "District": "Tehri Garhwal",
     "Actual(bu/ac)": 25.81,
-    "Predicted(bu/ac)": 33.42
+    "Predicted": 33.42
   },
   {
     "Dist_ID": 336,
     "District": "Thoubal",
     "Actual(bu/ac)": 41.03,
-    "Predicted(bu/ac)": 40.64
+    "Predicted": 40.64
   },
   {
     "Dist_ID": 291,
     "District": "Tikamgarh",
     "Actual(bu/ac)": 22.54,
-    "Predicted(bu/ac)": 32.91
+    "Predicted": 32.91
   },
   {
     "Dist_ID": 53,
     "District": "Tinsukia",
     "Actual(bu/ac)": 17.23,
-    "Predicted(bu/ac)": 23.81
+    "Predicted": 23.81
   },
   {
     "Dist_ID": 25,
     "District": "Tirap",
     "Actual(bu/ac)": 18.97,
-    "Predicted(bu/ac)": 29.89
+    "Predicted": 29.89
   },
   {
     "Dist_ID": 443,
     "District": "Tonk",
     "Actual(bu/ac)": 16.6,
-    "Predicted(bu/ac)": 23.61
+    "Predicted": 23.61
   },
   {
     "Dist_ID": 359,
     "District": "Tuensang",
     "Actual(bu/ac)": 31.61,
-    "Predicted(bu/ac)": 38.08
+    "Predicted": 38.08
   },
   {
     "Dist_ID": 230,
     "District": "Tumkur",
     "Actual(bu/ac)": 43.44,
-    "Predicted(bu/ac)": 39.04
+    "Predicted": 39.04
   },
   {
     "Dist_ID": 444,
     "District": "Udaipur",
     "Actual(bu/ac)": 16.22,
-    "Predicted(bu/ac)": 32.21
+    "Predicted": 32.21
   },
   {
     "Dist_ID": 574,
     "District": "Udham Singh Nagar",
     "Actual(bu/ac)": 21.27,
-    "Predicted(bu/ac)": 32.55
+    "Predicted": 32.55
   },
   {
     "Dist_ID": 183,
     "District": "Udhampur",
     "Actual(bu/ac)": 37.44,
-    "Predicted(bu/ac)": 40.21
+    "Predicted": 40.21
   },
   {
     "Dist_ID": 231,
     "District": "Udupi",
     "Actual(bu/ac)": 54.87,
-    "Predicted(bu/ac)": 47.07
+    "Predicted": 47.07
   },
   {
     "Dist_ID": 292,
     "District": "Ujjain",
     "Actual(bu/ac)": 21.29,
-    "Predicted(bu/ac)": 28.75
+    "Predicted": 28.75
   },
   {
     "Dist_ID": 337,
     "District": "Ukhrul",
     "Actual(bu/ac)": 39.38,
-    "Predicted(bu/ac)": 40.99
+    "Predicted": 40.99
   },
   {
     "Dist_ID": 293,
     "District": "Umaria",
     "Actual(bu/ac)": 34.4,
-    "Predicted(bu/ac)": 38.97
+    "Predicted": 38.97
   },
   {
     "Dist_ID": 169,
     "District": "Una",
     "Actual(bu/ac)": 44.29,
-    "Predicted(bu/ac)": 39.33
+    "Predicted": 39.33
   },
   {
     "Dist_ID": 561,
     "District": "Unnao",
     "Actual(bu/ac)": 31.5,
-    "Predicted(bu/ac)": 34.17
+    "Predicted": 34.17
   },
   {
     "Dist_ID": 26,
     "District": "Upper Dibang Valley",
     "Actual(bu/ac)": 23.34,
-    "Predicted(bu/ac)": 19.06
+    "Predicted": 19.06
   },
   {
     "Dist_ID": 27,
     "District": "Upper Siang",
     "Actual(bu/ac)": 21.81,
-    "Predicted(bu/ac)": 25.38
+    "Predicted": 25.38
   },
   {
     "Dist_ID": 28,
     "District": "Upper Subansiri",
     "Actual(bu/ac)": 24.26,
-    "Predicted(bu/ac)": 29.5
+    "Predicted": 29.5
   },
   {
     "Dist_ID": 232,
     "District": "Uttar Kannand",
     "Actual(bu/ac)": 66.86,
-    "Predicted(bu/ac)": 55.58
+    "Predicted": 55.58
   },
   {
     "Dist_ID": 575,
     "District": "Uttarkashi",
     "Actual(bu/ac)": 20.72,
-    "Predicted(bu/ac)": 18.2
+    "Predicted": 18.2
   },
   {
     "Dist_ID": 137,
     "District": "Vadodara",
     "Actual(bu/ac)": 29.83,
-    "Predicted(bu/ac)": 34
+    "Predicted": 34
   },
   {
     "Dist_ID": 90,
     "District": "Vaishali",
     "Actual(bu/ac)": 43.62,
-    "Predicted(bu/ac)": 41.78
+    "Predicted": 41.78
   },
   {
     "Dist_ID": 138,
     "District": "Valsad",
     "Actual(bu/ac)": 27.78,
-    "Predicted(bu/ac)": 23.02
+    "Predicted": 23.02
   },
   {
     "Dist_ID": 562,
     "District": "Varanasi",
     "Actual(bu/ac)": 29.22,
-    "Predicted(bu/ac)": 33.89
+    "Predicted": 33.89
   },
   {
     "Dist_ID": 294,
     "District": "Vidisha",
     "Actual(bu/ac)": 23.85,
-    "Predicted(bu/ac)": 22.61
+    "Predicted": 22.61
   },
   {
     "Dist_ID": 327,
     "District": "Wardha",
     "Actual(bu/ac)": 17,
-    "Predicted(bu/ac)": 26.63
+    "Predicted": 26.63
   },
   {
     "Dist_ID": 328,
     "District": "Washim",
     "Actual(bu/ac)": 29.26,
-    "Predicted(bu/ac)": 34.32
+    "Predicted": 34.32
   },
   {
     "Dist_ID": 344,
     "District": "West Garo Hills",
     "Actual(bu/ac)": 37.55,
-    "Predicted(bu/ac)": 40.28
+    "Predicted": 40.28
   },
   {
     "Dist_ID": 338,
     "District": "West Imphal",
     "Actual(bu/ac)": 36.88,
-    "Predicted(bu/ac)": 37.13
+    "Predicted": 37.13
   },
   {
     "Dist_ID": 29,
     "District": "West Kameng",
     "Actual(bu/ac)": 28.55,
-    "Predicted(bu/ac)": 30.65
+    "Predicted": 30.65
   },
   {
     "Dist_ID": 345,
     "District": "West Khasi Hills",
     "Actual(bu/ac)": 30.95,
-    "Predicted(bu/ac)": 33.7
+    "Predicted": 33.7
   },
   {
     "Dist_ID": 594,
     "District": "West Midnapore",
     "Actual(bu/ac)": 49.65,
-    "Predicted(bu/ac)": 41.28
+    "Predicted": 41.28
   },
   {
     "Dist_ID": 30,
     "District": "West Siang",
     "Actual(bu/ac)": 22.8,
-    "Predicted(bu/ac)": 18.76
+    "Predicted": 18.76
   },
   {
     "Dist_ID": 448,
     "District": "West Sikkim",
     "Actual(bu/ac)": 27.99,
-    "Predicted(bu/ac)": 33.63
+    "Predicted": 33.63
   },
   {
     "Dist_ID": 492,
     "District": "West Tripura",
     "Actual(bu/ac)": 24.64,
-    "Predicted(bu/ac)": 29.65
+    "Predicted": 29.65
   },
   {
     "Dist_ID": 360,
     "District": "Wokha",
     "Actual(bu/ac)": 31.66,
-    "Predicted(bu/ac)": 37.82
+    "Predicted": 37.82
   },
   {
     "Dist_ID": 329,
     "District": "Yavatmal",
     "Actual(bu/ac)": 9.46,
-    "Predicted(bu/ac)": 25.9
+    "Predicted": 25.9
   },
   {
     "Dist_ID": 361,
     "District": "Zunheboto",
     "Actual(bu/ac)": 31.56,
-    "Predicted(bu/ac)": 35.95
+    "Predicted": 35.95
   }
 ]
