@@ -36,8 +36,10 @@ import TagLine from './assets/InnovateAchieveLead.jpg'
 
 
 
+
 function App() {
-  const crops = ['Wheat']
+
+
   
  
   const [distName, setdistName] = React.useState([]);
@@ -47,7 +49,7 @@ function App() {
   ]);
   const [data2, setData2] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [error, seterror] = useState(null)
+  const [error, seterror] = useState()
   const [perf,setperf]=useState(false);
   const [yeild,setyeild]=useState(false);
   const [comp,setcomp]=useState("");
@@ -141,6 +143,9 @@ function App() {
     }
   return (
     <>
+
+
+
     
     <Navbar  className='navbar' data-bs-theme="dark">
         <Container>
@@ -374,7 +379,7 @@ function App() {
 
 
     </div>
-    <Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button>
+    {data=="Wheat" || data=="Corn"?<><Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button></>:<></> }
     
     {yeild?<><h5>Note: Click each Table row in the below Table to get Advisory</h5><Table className='table' striped bordered hover>
       <thead>
@@ -454,11 +459,8 @@ investment. <br />
 ● Efficient Use of Resources: Focus on optimizing the use of water, fertilizers, and
 pesticides to reduce waste and improve efficiency.
 </div></div>:<></>}</>:<></> }
-    <div className='footer'>
-      <img src={TagLine} className='footer-img' ></img>
+<div className='footer'>
       <div className='ftext' >
-        An Institution Deemed to be University estd. vide Sec.3 of the UGC Act,1956 under notification # F.12-23/63.U-2 of Jun 18,1964<br/>
-        <p>Privacy Policy | Terms and Conditions</p>
         <p>© 2024 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in</p>
       </div>
     </div>
