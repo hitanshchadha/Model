@@ -42,15 +42,13 @@ import wheatDataPred from './assets/wheat_pred_json.json'
 function Early_prediction() {
 
 
-  const crops = ['Wheat']
   
  
   const [distName, setdistName] = React.useState([]);
   const [cropName, setcropName] = React.useState();
   const [data, setData] = useState("");
-  const [data1, setData1] = useState([
-    { id: 1, DistrictID: '1', DistrictName: 'Ariyalur', Actual: 0, Predicted: 0 },
-  ]);
+  const [data1, setData1] = useState([]);
+  const [data3, setData3] = useState([]);
   const [data2, setData2] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [error, seterror] = useState()
@@ -93,16 +91,15 @@ function Early_prediction() {
   }
   
 
-  const call = async()=>{
-    const wheat = wheatDataPred.filter((wheatDataPred)=>{for (let index = 0; index < data2.length; index++){
+  const call =()=>{
+    const wheat1 = wheatDataPred.filter((wheatDataPred)=>{for (let index = 0; index < data2.length; index++){
       if(data2[index]==wheatDataPred.District_ID){
         return wheatDataPred;
       }
       
     }})
-    console.log(wheat)
-    setData1(wheat);
-  
+    console.log(wheat1);
+    setData1(wheat1);
     }
     const call2 =()=>{
       const corn = cornDataPred.filter((cornDataPred)=>{for (let index = 0; index < data2.length; index++){
@@ -113,20 +110,10 @@ function Early_prediction() {
       }})
       console.log(corn)
       setData1(corn);
+      
+      
     }
-    const columns = [
-      { field: 'District_Name', headerName: 'District',flex:1 },
-        { field: 'Actual', headerName: 'Actual' ,flex:1},
-        { field: '8_week', headerName: 'Week 8', flex:1 },
-        { field: '7_week', headerName: 'Week 7', flex:1 },
-        { field: '6_week', headerName: 'Week 6', flex:1 },
-        { field: '5_week', headerName: 'Week 5', flex:1 },
-        { field: '4_week', headerName: 'Week 4', flex:1 },
-        { field: '3_week', headerName: 'Week 3', flex:1 },
-        { field: '2_week', headerName: 'Week 2', flex:1 },
-        { field: '1_week', headerName: 'Week 1', flex:1 },
-        { field: '0_week', headerName: 'Week 0', flex:1 },
-    ]
+    
 
     
       const columns2 = [
@@ -305,7 +292,7 @@ function Early_prediction() {
         </Select>
         
       </FormControl>
-      <Button className='search' onClick={call}> Predict Yield</Button>
+      <Button className='search' onClick={()=>{call();seterror(null);}}> Predict Yield</Button>
       <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
       </div></>:data==="Corn"?<><div className='dropdown-2'>
     <FormControl sx={{ m: 1, width: 400 }}>
