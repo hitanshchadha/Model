@@ -30,8 +30,8 @@ import cornData from './assets/cornData (2).json'
 import cornDataPred from './assets/csvjson (6).json'
 import cornPred from './assets/Corn-Pred.jpg'
 import TagLine from './assets/InnovateAchieveLead.jpg'
-import wheat_var from './assets/wheat_var.png'
-import rice_var from './assets/rice_var.png'
+import wheat_var from './assets/Wheat_Var.png'
+import rice_var from './assets/Rice_var.png'
 import wheatDataPred from './assets/csvjson (7).json'
 
 
