@@ -145,7 +145,7 @@ function Variability_prediction() {
       </div>
       <div style={{ display: 'flex', alignItems: 'center' }}>
 
-          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Variability Prediction Model </h2>
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Variability Prediction </h2>
           <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
         </div>
 
@@ -155,8 +155,17 @@ function Variability_prediction() {
         <Select
           value={cropName??""}
           onChange={(event)=>{handleChange2(event)
-            setData(event.target.value)
+            setData1([]);
             setData2([]);
+            seterror();
+            setData2([]);
+            setdistName([]);
+            setperf(false);
+            setyeild(false);
+            setadv(false);
+            setcomp("");
+            setData(event.target.value)
+           
           }}
           input={<OutlinedInput label="Crop Name" />}
           defaultValue={""}
@@ -176,7 +185,7 @@ function Variability_prediction() {
       {data==="Wheat"?<>
         <div className='wheat-data' style={{display:'flex', marginTop:'2rem', justifyContent:'space-evenly', alignItems:'center', width:'70vw'}}>
         <div className='metadata' style={{textAlign:'left'}}>
-    <h1>Metadata</h1>
+    <h1>Data & Model</h1>
     <Table className='table' striped bordered hover>
       <thead>
        
@@ -207,7 +216,7 @@ function Variability_prediction() {
     {data==="Corn"?<>
       <div className='wheat-data' style={{display:'flex', marginTop:'2rem', justifyContent:'space-evenly', alignItems:'center', width:'70vw'}}>
         <div className='metadata' style={{textAlign:'left'}}>
-    <h1>Metadata</h1>
+    <h1>Data & Model</h1>
     <Table className='table' striped bordered hover>
       <thead>
        

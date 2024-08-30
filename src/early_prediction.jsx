@@ -189,7 +189,7 @@ function Early_prediction() {
       </div>
         <div style={{ display: 'flex', alignItems: 'center' }}>
 
-          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Early Prediction Model </h2>
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Early Prediction</h2>
           <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
         </div>
       <div className='dropdown-container'>
@@ -199,8 +199,17 @@ function Early_prediction() {
             value={cropName ?? ""}
             onChange={(event) => {
               handleChange2(event)
+              setData1([]);
+            setData2([]);
+            seterror();
+            setData2([]);
+            setdistName([]);
+            setperf(false);
+            setyeild(false);
+            setadv(false);
+            setcomp("");
               setData(event.target.value)
-              setData2([]);
+              
             }}
             input={<OutlinedInput label="Crop Name" />}
             defaultValue={""}
@@ -220,7 +229,7 @@ function Early_prediction() {
         {data === "Wheat" ? <>
           <div className='wheat-data' style={{ display: 'flex', marginTop: '2rem', justifyContent: 'space-evenly', alignItems: 'center', width: '70vw' }}>
             <div className='metadata' style={{ textAlign: 'left' }}>
-              <h1>Metadata</h1>
+              <h1>Data & Model</h1>
               <Table className='table' striped bordered hover>
                 <thead>
 
@@ -251,7 +260,7 @@ function Early_prediction() {
         {data === "Corn" ? <>
           <div className='wheat-data' style={{ display: 'flex', marginTop: '2rem', justifyContent: 'space-evenly', alignItems: 'center', width: '70vw' }}>
             <div className='metadata' style={{ textAlign: 'left' }}>
-              <h1>Metadata</h1>
+              <h1>Data & Model</h1>
               <Table className='table' striped bordered hover>
                 <thead>
 

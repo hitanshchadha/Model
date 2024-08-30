@@ -28,7 +28,7 @@ import PerfGraph from './assets/Pred-Graph.jpg'
 import PerfTable from './assets/Pred-Table.jpg'
 import cornData from './assets/cornData (2).json'
 import cornDataPred from './assets/csvjson (5).json'
-import rice_advisory from './assets/rice_advisory_ncc.json'
+import rice_advisory_ncc from './assets/rice_advisory_ncc.json'
 import wheat_advisory from './assets/wheat_advisory_ncc.json'
 import rice_pred_ncc from './assets/rice_pred_ncc.json'
 import wheat_pred_ncc from './assets/wheat_pred_ncc.json'
@@ -70,6 +70,7 @@ function NextCropCycle() {
     const {
       target: { value },
     } = event;
+    
     setcropName(
       typeof value === 'string' ? value.split(',') : value,
     );
@@ -148,7 +149,7 @@ function NextCropCycle() {
       </div>
       <div style={{ display: 'flex', alignItems: 'center' }}>
 
-          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Next Crop Cycle Prediction Model </h2>
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Next Crop Cycle Prediction </h2>
           <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
         </div>
       <div className='dropdown-container'>
@@ -157,8 +158,16 @@ function NextCropCycle() {
         <Select
           value={cropName??""}
           onChange={(event)=>{handleChange2(event)
-            setData(event.target.value)
+            setData1([]);
             setData2([]);
+            seterror();
+            setData2([]);
+            setdistName([]);
+            setperf(false);
+            setyeild(false);
+            setadv(false);
+            setcomp("");
+            setData(event.target.value)
           }}
           input={<OutlinedInput label="Crop Name" />}
           defaultValue={""}
@@ -176,7 +185,7 @@ function NextCropCycle() {
       {data==="Wheat"?<>
         <div className='wheat-data' style={{display:'flex', marginTop:'2rem', justifyContent:'space-evenly', alignItems:'center', width:'70vw'}}>
         <div className='metadata' style={{textAlign:'left'}}>
-    <h1>Metadata</h1>
+    <h1>Data & Model</h1>
     <Table className='table' striped bordered hover>
       <thead>
        
@@ -207,7 +216,7 @@ function NextCropCycle() {
     {data==="Corn"?<>
       <div className='wheat-data' style={{display:'flex', marginTop:'2rem', justifyContent:'space-evenly', alignItems:'center', width:'70vw'}}>
         <div className='metadata' style={{textAlign:'left'}}>
-    <h1>Metadata</h1>
+    <h1>Data & Model</h1>
     <Table className='table' striped bordered hover>
       <thead>
        
@@ -364,13 +373,13 @@ function NextCropCycle() {
 
 
     </div>
-    {data=="Wheat" || data=="Corn"?<><Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button></>:<></> }
+    {data=="Wheat" || data=="Corn"?<><Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Present Yield</Button></>:<></> }
     
     {yeild?<><h5>Note: Click each Table row in the below Table to get Advisory</h5><Table className='table3' style={{width:'70vw', marginLeft:'15vw'}} striped bordered hover>
       <thead>
         <tr>
           <th>District Name</th>
-          <th>Avg Yield for Last 3 Years</th>
+          <th>Present Yield</th>
         </tr>
       </thead>
       <tbody>
@@ -394,18 +403,18 @@ function NextCropCycle() {
           
         } 
       }
-        )}</>:data==="Corn"?<>{cornData.map((cornData)=>{ for (let index = 0; index < data2.length; index++) {
-          if(data2[index]==cornData.Dist_ID){
+        )}</>:data==="Corn"?<>{rice_advisory_ncc.map((rice_advisory_ncc)=>{ for (let index = 0; index < data2.length; index++) {
+          if(data2[index]==rice_advisory_ncc.Dist_ID){
             return(<>
             <tr onClick={()=>{setadv(true);data1.map((data1)=>{
               if(data1.Dist_ID==data2[index]){
-               if(data1.Predicted>cornData.Average_yield){
+               if(data1.Predicted>rice_advisory_ncc.Present_Yield){
                  setcomp("high") 
               }
               else{
                 setcomp("low")
               }}
-            })}}><td>{cornData.District_Name}</td><td>{cornData.Average_yield}</td></tr>
+            })}}><td>{rice_advisory_ncc.Dist_Name}</td><td>{rice_advisory_ncc.Present_Yield}</td></tr>
             </>);
           }
           
@@ -417,33 +426,23 @@ function NextCropCycle() {
       </tbody>
     </Table></>:<></>}
     {adv?<>{comp==="high"?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
-    }}><h1>ADVISORY</h1><h3>Higher Yield prediction</h3>
-<b>Expected Conditions:</b> <br /> Our model indicates a higher-than-average yield for your crops this
-season. This could be due to favorable weather conditions, improved farming practices, or
-better seed quality. <br />
-<b style={{textAlign:'left'}}>Advisory:</b><br />
-<div style={{marginLeft: 50, marginRight: 50}}>
-● Plan for Storage: With higher yields, it's essential to plan for adequate storage to
-prevent post-harvest losses. Ensure your storage facilities are clean, dry, and pest-free. <br />
-● Market Strategy: Consider the possibility of price fluctuations due to increased supply. <br />
-● Value Addition: Explore opportunities for value addition, such as processing or
-packaging, to increase your returns from the higher yield. <br />
-</div></div>:<></>}</>:<></> }
+    }}><h1>ADVISORY</h1>
+<b>Exciting News: High Yield Predicted!</b> <br /> 
+Our model is forecasting a bumper harvest this season! We recommend ramping up
+preparations—ensure your fields are well-managed, optimize water and fertilizer use, and
+think ahead about storage solutions and market strategies. This season could be one for the
+record books, so gear up, stay informed, and make the most of this promising outlook! <br />
+</div>:<></>}</>:<></> }
   
 {adv?<>{comp==="low"?<div className='middle' style={{padding:10, fontSize:20, textAlign:'left'
-    }}><h1>ADVISORY</h1><h3>Lower Yield Prediction</h3>
-<b>Expected Conditions:</b> <br /> Our model has predicted a lower-than-average yield this season,
-possibly due to adverse weather conditions, pest infestations, or other factors. <br />
-<b style={{textAlign:'left'}}>Advisory:</b><br />
-<div style={{marginLeft: 50, marginRight: 50}}>
-● Cost Management: Review and manage your input costs carefully. Prioritize essential
-expenditures and avoid unnecessary costs. <br />
-● Crop Insurance: Ensure your crops are insured against potential risks. If you haven't
-already, consider enrolling in the government's crop insurance schemes to protect your
-investment. <br />
-● Efficient Use of Resources: Focus on optimizing the use of water, fertilizers, and
-pesticides to reduce waste and improve efficiency.
-</div></div>:<></>}</>:<></> }
+    }}><h1>ADVISORY</h1>
+<b>Urgent Advisory: Anticipated Low Yield This Season</b> <br />
+Unfortunately, our model forecasts a lower-than-average yield for the upcoming season. To
+prepare for this challenging period, we strongly advise farmers to consider diversifying crops,
+carefully managing resources, and optimizing expenses. While this season may be difficult,
+proactive planning and smart decisions can help mitigate the impact and ensure your farm&#39;s
+resilience.<br />
+</div>:<></>}</>:<></> }
 <div className='footer'>
       <div className='ftext' >
         <p>© 2024 BITS Pilani</p>
