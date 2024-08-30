@@ -86,10 +86,11 @@
 }
 .sec-2{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   margin-top: 4rem;
   margin-bottom: 4rem;
-  width: 100%;
+  margin-left: 15vw;
+  width: 70vw;
   height: auto;
   
 }
@@ -102,9 +103,7 @@
     margin-bottom: 4rem;
 }
 
-.table1{
-  margin-left: 2rem;
-}
+
 .Map{
   width: 30vw;
   height: 30vw;
@@ -129,7 +128,14 @@
     text-align: right;
     margin:1.5rem;
 
+  
   }
+  .table3{
+    width: 70%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
 @media only screen and (max-width: 900px) {
   .sec-2{
     flex-direction: column;

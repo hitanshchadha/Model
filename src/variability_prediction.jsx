@@ -46,7 +46,7 @@ function Variability_prediction() {
   ]);
   const [data2, setData2] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [error, seterror] = useState(null)
+  const [error, seterror] = useState()
   const [perf,setperf]=useState(false);
   const [yeild,setyeild]=useState(false);
   const [comp,setcomp]=useState("");
@@ -140,14 +140,17 @@ function Variability_prediction() {
 
     <div className="middle">
       <img src={hero} className='hero-img' alt="" />
-      <div style={{display:'flex', justifyContent:'space-evenly', alignItems:'center'}}>
+      
+      
+      </div>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
 
-      <h2 style={{marginTop:20}}>Variability Prediction Model </h2>
-      <Button style={{height:'2.3rem', width:'5rem'}} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
-      </div>
-      </div>
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Variability Prediction Model </h2>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+        </div>
+
       <div className='dropdown-container'>
-      <FormControl sx={{ m: 1, width: 400 }}>
+      <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel>Crop Name</InputLabel>
         <Select
           value={cropName??""}
@@ -244,7 +247,7 @@ function Variability_prediction() {
       
   
       {data==="Wheat"?<><div className='dropdown-2'>
-    <FormControl sx={{ m: 1, width: 400 }}>
+    <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
           labelId="demo-multiple-checkbox-label"
@@ -278,7 +281,7 @@ function Variability_prediction() {
       <Button className='search' onClick={call}> Predict Yield</Button>
       <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
       </div></>:data==="Corn"?<><div className='dropdown-2'>
-    <FormControl sx={{ m: 1, width: 400 }}>
+    <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
           labelId="demo-multiple-checkbox-label"
@@ -443,7 +446,7 @@ pesticides to reduce waste and improve efficiency.
 </div></div>:<></>}</>:<></> }*/}
     <div className='footer'>
       <div className='ftext' >
-        <p>© 2024 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in</p>
+        <p>© 2024 BITS Pilani</p>
       </div>
     </div>
     </>

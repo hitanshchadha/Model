@@ -186,14 +186,14 @@ function Early_prediction() {
 
       <div className="middle">
         <img src={hero} className='hero-img' alt="" />
-        <div style={{ display: 'flex', justifyContent: 'space-evenly', alignItems: 'center' }}>
-
-          <h2 style={{ marginTop: 20 }}>Early Prediction Model </h2>
-          <Button style={{ height: '2.3rem', width: '5rem' }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
-        </div>
       </div>
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Early Prediction Model </h2>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+        </div>
       <div className='dropdown-container'>
-        <FormControl sx={{ m: 1, width: 400 }}>
+        <FormControl sx={{ m: 1, width: 350 }}>
           <InputLabel>Crop Name</InputLabel>
           <Select
             value={cropName ?? ""}
@@ -559,7 +559,7 @@ pesticides to reduce waste and improve efficiency.
 </div></div>:<></>}</>:<></> } */}
       <div className='footer'>
         <div className='ftext' >
-          <p>© 2024 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in</p>
+          <p>© 2024 BITS Pilani</p>
         </div>
       </div>
     </>

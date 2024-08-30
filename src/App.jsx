@@ -158,12 +158,14 @@ function App() {
 
     <div className="middle">
       <img src={hero} className='hero-img' alt="" />
-      <div style={{display:'flex', justifyContent:'space-evenly', alignItems:'center'}}>
+      
+      
+      </div>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
 
-      <h2 style={{marginTop:20}}>Crop Yield Prediction By Foundation Model </h2>
-      <Button style={{height:'2.3rem', width:'5rem'}} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
-      </div>
-      </div>
+          <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Crop Yield Prediction Model </h2>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+        </div>
       <div className='dropdown-container'>
       <FormControl sx={{ m: 1, width: 400 }}>
         <InputLabel>Crop Name</InputLabel>
@@ -262,7 +264,7 @@ function App() {
       
   
       {data==="Wheat"?<><div className='dropdown-2'>
-    <FormControl sx={{ m: 1, width: 400 }}>
+    <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
           labelId="demo-multiple-checkbox-label"
@@ -296,7 +298,7 @@ function App() {
       <Button className='search' onClick={call}> Predict Yield</Button>
       <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
       </div></>:data==="Corn"?<><div className='dropdown-2'>
-    <FormControl sx={{ m: 1, width: 400 }}>
+    <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
         <Select
           labelId="demo-multiple-checkbox-label"
@@ -337,7 +339,7 @@ function App() {
     </div>
     
 
-
+        
           <div className="sec-2">
           {!isLoading ?
       error===null?
@@ -381,7 +383,7 @@ function App() {
     </div>
     {data=="Wheat" || data=="Corn"?<><Button className='search' onClick={()=>{setyeild(true)}}> Click here to Get Avg Yield For Last 3 years</Button></>:<></> }
     
-    {yeild?<><h5>Note: Click each Table row in the below Table to get Advisory</h5><Table className='table' striped bordered hover>
+    {yeild?<><h5>Note: Click each Table row in the below Table to get Advisory</h5><Table className='table3' style={{width:'70vw', marginLeft:'15vw'}} striped bordered hover>
       <thead>
         <tr>
           <th>District Name</th>
@@ -461,7 +463,7 @@ pesticides to reduce waste and improve efficiency.
 </div></div>:<></>}</>:<></> }
 <div className='footer'>
       <div className='ftext' >
-        <p>© 2024 BITS Pilani | Contact us : webmaster@pilani.bits-pilani.ac.in</p>
+        <p>© 2024 BITS Pilani</p>
       </div>
     </div>
     </>
