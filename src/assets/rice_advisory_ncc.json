@@ -1,0 +1,1207 @@
+[
+  {
+    "Dist_ID": 479,
+    "Dist_Name": "Adilabad",
+    "Present Yield": 53.97683686
+  },
+  {
+    "Dist_ID": 493,
+    "Dist_Name": "Agra",
+    "Present Yield": 38.36370223
+  },
+  {
+    "Dist_ID": 114,
+    "Dist_Name": "Ahmadabad",
+    "Present Yield": 30.33409014
+  },
+  {
+    "Dist_ID": 296,
+    "Dist_Name": "Ahmednagar",
+    "Present Yield": 16.65401027
+  },
+  {
+    "Dist_ID": 346,
+    "Dist_Name": "Aizawl",
+    "Present Yield": 33.30802054
+  },
+  {
+    "Dist_ID": 494,
+    "Dist_Name": "Aligarh",
+    "Present Yield": 38.80979179
+  },
+  {
+    "Dist_ID": 495,
+    "Dist_Name": "Allahabad",
+    "Present Yield": 46.39331432
+  },
+  {
+    "Dist_ID": 414,
+    "Dist_Name": "Alwar",
+    "Present Yield": 32.56453794
+  },
+  {
+    "Dist_ID": 139,
+    "Dist_Name": "Ambala",
+    "Present Yield": 58.88382203
+  },
+  {
+    "Dist_ID": 496,
+    "Dist_Name": "Ambedkar Nagar",
+    "Present Yield": 45.64983172
+  },
+  {
+    "Dist_ID": 298,
+    "Dist_Name": "Amravati",
+    "Present Yield": 2.825233885
+  },
+  {
+    "Dist_ID": 396,
+    "Dist_Name": "Amritsar",
+    "Present Yield": 49.06985169
+  },
+  {
+    "Dist_ID": 3,
+    "Dist_Name": "Anantapur",
+    "Present Yield": 53.67944382
+  },
+  {
+    "Dist_ID": 170,
+    "Dist_Name": "Anantnag (Kashmir South)",
+    "Present Yield": 44.16286652
+  },
+  {
+    "Dist_ID": 248,
+    "Dist_Name": "Anuppur",
+    "Present Yield": 30.33409014
+  },
+  {
+    "Dist_ID": 497,
+    "Dist_Name": "Auraiya",
+    "Present Yield": 52.04378209
+  },
+  {
+    "Dist_ID": 498,
+    "Dist_Name": "Azamgarh",
+    "Present Yield": 36.87673703
+  },
+  {
+    "Dist_ID": 171,
+    "Dist_Name": "Bagdam",
+    "Present Yield": 39.25588135
+  },
+  {
+    "Dist_ID": 500,
+    "Dist_Name": "Baghpat",
+    "Present Yield": 45.79852824
+  },
+  {
+    "Dist_ID": 501,
+    "Dist_Name": "Bahraich",
+    "Present Yield": 39.70197091
+  },
+  {
+    "Dist_ID": 250,
+    "Dist_Name": "Balaghat",
+    "Present Yield": 32.71323446
+  },
+  {
+    "Dist_ID": 502,
+    "Dist_Name": "Ballia",
+    "Present Yield": 42.22981176
+  },
+  {
+    "Dist_ID": 503,
+    "Dist_Name": "Balrampur",
+    "Present Yield": 41.18893611
+  },
+  {
+    "Dist_ID": 504,
+    "Dist_Name": "Banda",
+    "Present Yield": 39.10718483
+  },
+  {
+    "Dist_ID": 207,
+    "Dist_Name": "Bangalore Rural",
+    "Present Yield": 43.2706874
+  },
+  {
+    "Dist_ID": 208,
+    "Dist_Name": "Bangalore Urban",
+    "Present Yield": 58.14033943
+  },
+  {
+    "Dist_ID": 415,
+    "Dist_Name": "Banswara",
+    "Present Yield": 11.15223902
+  },
+  {
+    "Dist_ID": 505,
+    "Dist_Name": "Bara Banki",
+    "Present Yield": 50.55681689
+  },
+  {
+    "Dist_ID": 172,
+    "Dist_Name": "Baramula (Kashmir North)",
+    "Present Yield": 43.12199088
+  },
+  {
+    "Dist_ID": 416,
+    "Dist_Name": "Baran",
+    "Present Yield": 32.86193098
+  },
+  {
+    "Dist_ID": 506,
+    "Dist_Name": "Bareilly",
+    "Present Yield": 35.53846834
+  },
+  {
+    "Dist_ID": 251,
+    "Dist_Name": "Barwani",
+    "Present Yield": 5.799164291
+  },
+  {
+    "Dist_ID": 92,
+    "Dist_Name": "Bastar",
+    "Present Yield": 28.84712493
+  },
+  {
+    "Dist_ID": 507,
+    "Dist_Name": "Basti",
+    "Present Yield": 40.29675699
+  },
+  {
+    "Dist_ID": 209,
+    "Dist_Name": "Belgaum",
+    "Present Yield": 37.32282659
+  },
+  {
+    "Dist_ID": 210,
+    "Dist_Name": "Bellary",
+    "Present Yield": 64.5342898
+  },
+  {
+    "Dist_ID": 252,
+    "Dist_Name": "Betul",
+    "Present Yield": 26.91407017
+  },
+  {
+    "Dist_ID": 418,
+    "Dist_Name": "Bharatpur",
+    "Present Yield": 41.04023959
+  },
+  {
+    "Dist_ID": 118,
+    "Dist_Name": "Bharuch",
+    "Present Yield": 23.4940502
+  },
+  {
+    "Dist_ID": 419,
+    "Dist_Name": "Bhilwara",
+    "Present Yield": 32.56453794
+  },
+  {
+    "Dist_ID": 211,
+    "Dist_Name": "Bidar",
+    "Present Yield": 16.65401027
+  },
+  {
+    "Dist_ID": 212,
+    "Dist_Name": "Bijapur",
+    "Present Yield": 47.58288649
+  },
+  {
+    "Dist_ID": 508,
+    "Dist_Name": "Bijnor",
+    "Present Yield": 39.40457787
+  },
+  {
+    "Dist_ID": 93,
+    "Dist_Name": "Bilaspur",
+    "Present Yield": 32.56453794
+  },
+  {
+    "Dist_ID": 158,
+    "Dist_Name": "Bilaspur",
+    "Present Yield": 29.44191101
+  },
+  {
+    "Dist_ID": 330,
+    "Dist_Name": "Bishnupur",
+    "Present Yield": 39.40457787
+  },
+  {
+    "Dist_ID": 509,
+    "Dist_Name": "Bulandshahr",
+    "Present Yield": 42.97329436
+  },
+  {
+    "Dist_ID": 421,
+    "Dist_Name": "Bundi",
+    "Present Yield": 39.99936395
+  },
+  {
+    "Dist_ID": 255,
+    "Dist_Name": "Burhanpur",
+    "Present Yield": 25.57580149
+  },
+  {
+    "Dist_ID": 159,
+    "Dist_Name": "Chamba",
+    "Present Yield": 22.30447804
+  },
+  {
+    "Dist_ID": 347,
+    "Dist_Name": "Champhai",
+    "Present Yield": 34.20019966
+  },
+  {
+    "Dist_ID": 213,
+    "Dist_Name": "Chamrajnagar",
+    "Present Yield": 51.00290645
+  },
+  {
+    "Dist_ID": 510,
+    "Dist_Name": "Chandauli",
+    "Present Yield": 49.66463777
+  },
+  {
+    "Dist_ID": 331,
+    "Dist_Name": "Chandel",
+    "Present Yield": 25.87319453
+  },
+  {
+    "Dist_ID": 91,
+    "Dist_Name": "Chandigarh",
+    "Present Yield": 81.78308615
+  },
+  {
+    "Dist_ID": 303,
+    "Dist_Name": "Chandrapur",
+    "Present Yield": 20.81751284
+  },
+  {
+    "Dist_ID": 16,
+    "Dist_Name": "Changlang",
+    "Present Yield": 33.15932402
+  },
+  {
+    "Dist_ID": 256,
+    "Dist_Name": "Chhatarpur",
+    "Present Yield": 16.05922419
+  },
+  {
+    "Dist_ID": 257,
+    "Dist_Name": "Chhindwara",
+    "Present Yield": 23.79144324
+  },
+  {
+    "Dist_ID": 214,
+    "Dist_Name": "Chikmagalur",
+    "Present Yield": 37.47152311
+  },
+  {
+    "Dist_ID": 215,
+    "Dist_Name": "Chitradurga",
+    "Present Yield": 33.45671706
+  },
+  {
+    "Dist_ID": 511,
+    "Dist_Name": "Chitrakoot",
+    "Present Yield": 30.18539361
+  },
+  {
+    "Dist_ID": 422,
+    "Dist_Name": "Chittaurgarh",
+    "Present Yield": 11.0035425
+  },
+  {
+    "Dist_ID": 4,
+    "Dist_Name": "Chittoor",
+    "Present Yield": 59.92469767
+  },
+  {
+    "Dist_ID": 332,
+    "Dist_Name": "Churachandpur",
+    "Present Yield": 26.31928409
+  },
+  {
+    "Dist_ID": 120,
+    "Dist_Name": "Dahod",
+    "Present Yield": 17.84358243
+  },
+  {
+    "Dist_ID": 258,
+    "Dist_Name": "Damoh",
+    "Present Yield": 19.7766372
+  },
+  {
+    "Dist_ID": 94,
+    "Dist_Name": "Dantewada",
+    "Present Yield": 23.04796064
+  },
+  {
+    "Dist_ID": 259,
+    "Dist_Name": "Datia",
+    "Present Yield": 22.15578152
+  },
+  {
+    "Dist_ID": 217,
+    "Dist_Name": "Davanagere",
+    "Present Yield": 49.66463777
+  },
+  {
+    "Dist_ID": 512,
+    "Dist_Name": "Deoria",
+    "Present Yield": 39.70197091
+  },
+  {
+    "Dist_ID": 489,
+    "Dist_Name": "Dhalai",
+    "Present Yield": 14.42356247
+  },
+  {
+    "Dist_ID": 95,
+    "Dist_Name": "Dhamtari",
+    "Present Yield": 47.58288649
+  },
+  {
+    "Dist_ID": 218,
+    "Dist_Name": "Dharwad",
+    "Present Yield": 18.28967199
+  },
+  {
+    "Dist_ID": 354,
+    "Dist_Name": "Dimapur",
+    "Present Yield": 40.44545351
+  },
+  {
+    "Dist_ID": 262,
+    "Dist_Name": "Dindori",
+    "Present Yield": 25.87319453
+  },
+  {
+    "Dist_ID": 173,
+    "Dist_Name": "Doda",
+    "Present Yield": 21.2636024
+  },
+  {
+    "Dist_ID": 426,
+    "Dist_Name": "Dungarpur",
+    "Present Yield": 15.76183115
+  },
+  {
+    "Dist_ID": 96,
+    "Dist_Name": "Durg",
+    "Present Yield": 47.58288649
+  },
+  {
+    "Dist_ID": 333,
+    "Dist_Name": "East Imphal",
+    "Present Yield": 30.92887622
+  },
+  {
+    "Dist_ID": 17,
+    "Dist_Name": "East Kameng",
+    "Present Yield": 19.7766372
+  },
+  {
+    "Dist_ID": 18,
+    "Dist_Name": "East Siang",
+    "Present Yield": 27.36015973
+  },
+  {
+    "Dist_ID": 513,
+    "Dist_Name": "Etah",
+    "Present Yield": 43.2706874
+  },
+  {
+    "Dist_ID": 514,
+    "Dist_Name": "Etawah",
+    "Present Yield": 46.2446178
+  },
+  {
+    "Dist_ID": 515,
+    "Dist_Name": "Faizabad",
+    "Present Yield": 44.01417
+  },
+  {
+    "Dist_ID": 516,
+    "Dist_Name": "Farrukhabad",
+    "Present Yield": 56.20728466
+  },
+  {
+    "Dist_ID": 399,
+    "Dist_Name": "Fatehgarh Sahib",
+    "Present Yield": 63.34471764
+  },
+  {
+    "Dist_ID": 517,
+    "Dist_Name": "Fatehpur",
+    "Present Yield": 44.60895608
+  },
+  {
+    "Dist_ID": 518,
+    "Dist_Name": "Firozabad",
+    "Present Yield": 42.22981176
+  },
+  {
+    "Dist_ID": 219,
+    "Dist_Name": "Gadag",
+    "Present Yield": 44.01417
+  },
+  {
+    "Dist_ID": 121,
+    "Dist_Name": "Gandhinagar",
+    "Present Yield": 34.34889618
+  },
+  {
+    "Dist_ID": 427,
+    "Dist_Name": "Ganganagar",
+    "Present Yield": 41.33763264
+  },
+  {
+    "Dist_ID": 305,
+    "Dist_Name": "Garhchiroli",
+    "Present Yield": 25.27840845
+  },
+  {
+    "Dist_ID": 519,
+    "Dist_Name": "Gautam Buddha Nagar",
+    "Present Yield": 43.41938392
+  },
+  {
+    "Dist_ID": 520,
+    "Dist_Name": "Ghaziabad",
+    "Present Yield": 41.48632916
+  },
+  {
+    "Dist_ID": 521,
+    "Dist_Name": "Ghazipur",
+    "Present Yield": 38.66109527
+  },
+  {
+    "Dist_ID": 522,
+    "Dist_Name": "Gonda",
+    "Present Yield": 38.36370223
+  },
+  {
+    "Dist_ID": 306,
+    "Dist_Name": "Gondiya",
+    "Present Yield": 29.59060753
+  },
+  {
+    "Dist_ID": 523,
+    "Dist_Name": "Gorakhpur",
+    "Present Yield": 41.63502568
+  },
+  {
+    "Dist_ID": 220,
+    "Dist_Name": "Gulbarga",
+    "Present Yield": 55.0177125
+  },
+  {
+    "Dist_ID": 401,
+    "Dist_Name": "Gurdaspur",
+    "Present Yield": 54.42292642
+  },
+  {
+    "Dist_ID": 265,
+    "Dist_Name": "Gwalior",
+    "Present Yield": 45.79852824
+  },
+  {
+    "Dist_ID": 524,
+    "Dist_Name": "Hamirpur",
+    "Present Yield": 37.62021963
+  },
+  {
+    "Dist_ID": 428,
+    "Dist_Name": "Hanumangarh",
+    "Present Yield": 37.02543355
+  },
+  {
+    "Dist_ID": 525,
+    "Dist_Name": "Hardoi",
+    "Present Yield": 44.16286652
+  },
+  {
+    "Dist_ID": 221,
+    "Dist_Name": "Hassan",
+    "Present Yield": 43.86547348
+  },
+  {
+    "Dist_ID": 526,
+    "Dist_Name": "Hathras",
+    "Present Yield": 37.91761267
+  },
+  {
+    "Dist_ID": 222,
+    "Dist_Name": "Haveri",
+    "Present Yield": 23.34535368
+  },
+  {
+    "Dist_ID": 267,
+    "Dist_Name": "Hoshangabad",
+    "Present Yield": 43.2706874
+  },
+  {
+    "Dist_ID": 402,
+    "Dist_Name": "Hoshiarpur",
+    "Present Yield": 59.47860811
+  },
+  {
+    "Dist_ID": 269,
+    "Dist_Name": "Jabalpur",
+    "Present Yield": 38.36370223
+  },
+  {
+    "Dist_ID": 403,
+    "Dist_Name": "Jalandhar",
+    "Present Yield": 60.51948375
+  },
+  {
+    "Dist_ID": 527,
+    "Dist_Name": "Jalaun",
+    "Present Yield": 38.06630919
+  },
+  {
+    "Dist_ID": 174,
+    "Dist_Name": "Jammu",
+    "Present Yield": 28.69842841
+  },
+  {
+    "Dist_ID": 97,
+    "Dist_Name": "Janjgir-Champa",
+    "Present Yield": 44.60895608
+  },
+  {
+    "Dist_ID": 98,
+    "Dist_Name": "Jashpur",
+    "Present Yield": 15.46443811
+  },
+  {
+    "Dist_ID": 270,
+    "Dist_Name": "Jhabua",
+    "Present Yield": 15.76183115
+  },
+  {
+    "Dist_ID": 145,
+    "Dist_Name": "Jhajjar",
+    "Present Yield": 38.06630919
+  },
+  {
+    "Dist_ID": 432,
+    "Dist_Name": "Jhalawar",
+    "Present Yield": 22.007085
+  },
+  {
+    "Dist_ID": 99,
+    "Dist_Name": "Kanker",
+    "Present Yield": 32.41584142
+  },
+  {
+    "Dist_ID": 404,
+    "Dist_Name": "Kapurthala",
+    "Present Yield": 61.41166287
+  },
+  {
+    "Dist_ID": 435,
+    "Dist_Name": "Karauli",
+    "Present Yield": 23.4940502
+  },
+  {
+    "Dist_ID": 481,
+    "Dist_Name": "Karimnagar",
+    "Present Yield": 49.96203081
+  },
+  {
+    "Dist_ID": 176,
+    "Dist_Name": "Kathua",
+    "Present Yield": 25.12971193
+  },
+  {
+    "Dist_ID": 271,
+    "Dist_Name": "Katni",
+    "Present Yield": 44.7576526
+  },
+  {
+    "Dist_ID": 482,
+    "Dist_Name": "Khammam",
+    "Present Yield": 54.12553338
+  },
+  {
+    "Dist_ID": 125,
+    "Dist_Name": "Kheda",
+    "Present Yield": 39.99936395
+  },
+  {
+    "Dist_ID": 162,
+    "Dist_Name": "Kinnaur",
+    "Present Yield": 22.30447804
+  },
+  {
+    "Dist_ID": 223,
+    "Dist_Name": "Kodagu",
+    "Present Yield": 38.06630919
+  },
+  {
+    "Dist_ID": 355,
+    "Dist_Name": "Kohima",
+    "Present Yield": 38.80979179
+  },
+  {
+    "Dist_ID": 224,
+    "Dist_Name": "Kolar",
+    "Present Yield": 35.38977182
+  },
+  {
+    "Dist_ID": 348,
+    "Dist_Name": "Kolasib",
+    "Present Yield": 33.45671706
+  },
+  {
+    "Dist_ID": 311,
+    "Dist_Name": "Kolhapur",
+    "Present Yield": 36.13325443
+  },
+  {
+    "Dist_ID": 225,
+    "Dist_Name": "Koppal",
+    "Present Yield": 59.32991159
+  },
+  {
+    "Dist_ID": 101,
+    "Dist_Name": "Korba",
+    "Present Yield": 22.7505676
+  },
+  {
+    "Dist_ID": 102,
+    "Dist_Name": "Koriya",
+    "Present Yield": 23.94013976
+  },
+  {
+    "Dist_ID": 436,
+    "Dist_Name": "Kota",
+    "Present Yield": 43.12199088
+  },
+  {
+    "Dist_ID": 163,
+    "Dist_Name": "Kullu",
+    "Present Yield": 19.7766372
+  },
+  {
+    "Dist_ID": 177,
+    "Dist_Name": "Kupwara (Muzaffarabad)",
+    "Present Yield": 33.0106275
+  },
+  {
+    "Dist_ID": 9,
+    "Dist_Name": "Kurnool",
+    "Present Yield": 59.18121507
+  },
+  {
+    "Dist_ID": 149,
+    "Dist_Name": "Kurukshetra",
+    "Present Yield": 66.61604108
+  },
+  {
+    "Dist_ID": 19,
+    "Dist_Name": "Kurung Kumey",
+    "Present Yield": 28.25233885
+  },
+  {
+    "Dist_ID": 312,
+    "Dist_Name": "Latur",
+    "Present Yield": 1.189572162
+  },
+  {
+    "Dist_ID": 349,
+    "Dist_Name": "Lawngtlai",
+    "Present Yield": 32.2671449
+  },
+  {
+    "Dist_ID": 20,
+    "Dist_Name": "Lohit",
+    "Present Yield": 31.37496578
+  },
+  {
+    "Dist_ID": 21,
+    "Dist_Name": "Lower Dibang Valley",
+    "Present Yield": 22.89926412
+  },
+  {
+    "Dist_ID": 22,
+    "Dist_Name": "Lower Subansiri",
+    "Present Yield": 30.63148318
+  },
+  {
+    "Dist_ID": 405,
+    "Dist_Name": "Ludhiana",
+    "Present Yield": 69.58997149
+  },
+  {
+    "Dist_ID": 350,
+    "Dist_Name": "Lunglei",
+    "Present Yield": 30.7801797
+  },
+  {
+    "Dist_ID": 103,
+    "Dist_Name": "Mahasamund",
+    "Present Yield": 24.08883628
+  },
+  {
+    "Dist_ID": 483,
+    "Dist_Name": "Mahbubnagar",
+    "Present Yield": 51.44899601
+  },
+  {
+    "Dist_ID": 126,
+    "Dist_Name": "Mahesana",
+    "Present Yield": 28.99582145
+  },
+  {
+    "Dist_ID": 351,
+    "Dist_Name": "Mamit",
+    "Present Yield": 31.67235882
+  },
+  {
+    "Dist_ID": 165,
+    "Dist_Name": "Mandi",
+    "Present Yield": 24.2375328
+  },
+  {
+    "Dist_ID": 272,
+    "Dist_Name": "Mandla",
+    "Present Yield": 28.69842841
+  },
+  {
+    "Dist_ID": 226,
+    "Dist_Name": "Mandya",
+    "Present Yield": 44.60895608
+  },
+  {
+    "Dist_ID": 406,
+    "Dist_Name": "Mansa",
+    "Present Yield": 61.11426983
+  },
+  {
+    "Dist_ID": 484,
+    "Dist_Name": "Medak",
+    "Present Yield": 65.12907588
+  },
+  {
+    "Dist_ID": 407,
+    "Dist_Name": "Moga",
+    "Present Yield": 67.80561324
+  },
+  {
+    "Dist_ID": 356,
+    "Dist_Name": "Mokokchung",
+    "Present Yield": 35.68716486
+  },
+  {
+    "Dist_ID": 357,
+    "Dist_Name": "Mon",
+    "Present Yield": 33.15932402
+  },
+  {
+    "Dist_ID": 227,
+    "Dist_Name": "Mysore",
+    "Present Yield": 46.83940389
+  },
+  {
+    "Dist_ID": 313,
+    "Dist_Name": "Nagpur",
+    "Present Yield": 23.34535368
+  },
+  {
+    "Dist_ID": 485,
+    "Dist_Name": "Nalgonda",
+    "Present Yield": 51.30029949
+  },
+  {
+    "Dist_ID": 314,
+    "Dist_Name": "Nanded",
+    "Present Yield": 10.2600599
+  },
+  {
+    "Dist_ID": 315,
+    "Dist_Name": "Nandurbar",
+    "Present Yield": 23.79144324
+  },
+  {
+    "Dist_ID": 127,
+    "Dist_Name": "Narmada",
+    "Present Yield": 14.86965203
+  },
+  {
+    "Dist_ID": 275,
+    "Dist_Name": "Narsinghpur",
+    "Present Yield": 31.37496578
+  },
+  {
+    "Dist_ID": 316,
+    "Dist_Name": "Nashik",
+    "Present Yield": 17.69488591
+  },
+  {
+    "Dist_ID": 128,
+    "Dist_Name": "Navsari",
+    "Present Yield": 39.55327439
+  },
+  {
+    "Dist_ID": 409,
+    "Dist_Name": "Nawan Shehar",
+    "Present Yield": 62.15514547
+  },
+  {
+    "Dist_ID": 486,
+    "Dist_Name": "Nizamabad",
+    "Present Yield": 61.70905591
+  },
+  {
+    "Dist_ID": 490,
+    "Dist_Name": "North Tripura",
+    "Present Yield": 17.84358243
+  },
+  {
+    "Dist_ID": 129,
+    "Dist_Name": "Panch Mahals",
+    "Present Yield": 26.17058757
+  },
+  {
+    "Dist_ID": 151,
+    "Dist_Name": "Panchkula",
+    "Present Yield": 53.08465774
+  },
+  {
+    "Dist_ID": 277,
+    "Dist_Name": "Panna",
+    "Present Yield": 26.91407017
+  },
+  {
+    "Dist_ID": 23,
+    "Dist_Name": "Papum Pare",
+    "Present Yield": 29.73930405
+  },
+  {
+    "Dist_ID": 410,
+    "Dist_Name": "Patiala",
+    "Present Yield": 58.73512551
+  },
+  {
+    "Dist_ID": 358,
+    "Dist_Name": "Phek",
+    "Present Yield": 41.7837222
+  },
+  {
+    "Dist_ID": 179,
+    "Dist_Name": "Pulwama",
+    "Present Yield": 40.29675699
+  },
+  {
+    "Dist_ID": 180,
+    "Dist_Name": "Punch",
+    "Present Yield": 26.02189105
+  },
+  {
+    "Dist_ID": 319,
+    "Dist_Name": "Pune",
+    "Present Yield": 26.91407017
+  },
+  {
+    "Dist_ID": 228,
+    "Dist_Name": "Raichur",
+    "Present Yield": 52.93596122
+  },
+  {
+    "Dist_ID": 104,
+    "Dist_Name": "Raigarh",
+    "Present Yield": 31.5236623
+  },
+  {
+    "Dist_ID": 105,
+    "Dist_Name": "Raipur",
+    "Present Yield": 44.01417
+  },
+  {
+    "Dist_ID": 278,
+    "Dist_Name": "Raisen",
+    "Present Yield": 31.37496578
+  },
+  {
+    "Dist_ID": 106,
+    "Dist_Name": "Raj Nandgaon",
+    "Present Yield": 26.76537365
+  },
+  {
+    "Dist_ID": 181,
+    "Dist_Name": "Rajauri",
+    "Present Yield": 18.58706503
+  },
+  {
+    "Dist_ID": 279,
+    "Dist_Name": "Rajgarh",
+    "Present Yield": 23.19665716
+  },
+  {
+    "Dist_ID": 439,
+    "Dist_Name": "Rajsamand",
+    "Present Yield": 32.56453794
+  },
+  {
+    "Dist_ID": 487,
+    "Dist_Name": "Rangareddi",
+    "Present Yield": 49.06985169
+  },
+  {
+    "Dist_ID": 281,
+    "Dist_Name": "Rewa",
+    "Present Yield": 40.14806047
+  },
+  {
+    "Dist_ID": 411,
+    "Dist_Name": "Rupnagar",
+    "Present Yield": 53.5307473
+  },
+  {
+    "Dist_ID": 133,
+    "Dist_Name": "Sabar Kantha",
+    "Present Yield": 38.80979179
+  },
+  {
+    "Dist_ID": 282,
+    "Dist_Name": "Sagar",
+    "Present Yield": 22.60187108
+  },
+  {
+    "Dist_ID": 352,
+    "Dist_Name": "Saiha",
+    "Present Yield": 31.67235882
+  },
+  {
+    "Dist_ID": 322,
+    "Dist_Name": "Sangli",
+    "Present Yield": 18.88445807
+  },
+  {
+    "Dist_ID": 412,
+    "Dist_Name": "Sangrur",
+    "Present Yield": 70.03606105
+  },
+  {
+    "Dist_ID": 323,
+    "Dist_Name": "Satara",
+    "Present Yield": 21.41229892
+  },
+  {
+    "Dist_ID": 283,
+    "Dist_Name": "Satna",
+    "Present Yield": 41.48632916
+  },
+  {
+    "Dist_ID": 440,
+    "Dist_Name": "Sawai Madhopur",
+    "Present Yield": 43.12199088
+  },
+  {
+    "Dist_ID": 334,
+    "Dist_Name": "Senapati",
+    "Present Yield": 6.393950372
+  },
+  {
+    "Dist_ID": 285,
+    "Dist_Name": "Seoni",
+    "Present Yield": 27.80624929
+  },
+  {
+    "Dist_ID": 353,
+    "Dist_Name": "Serchhip",
+    "Present Yield": 34.64628922
+  },
+  {
+    "Dist_ID": 286,
+    "Dist_Name": "Shahdol",
+    "Present Yield": 33.45671706
+  },
+  {
+    "Dist_ID": 288,
+    "Dist_Name": "Sheopur",
+    "Present Yield": 50.85420993
+  },
+  {
+    "Dist_ID": 166,
+    "Dist_Name": "Shimla",
+    "Present Yield": 15.16704507
+  },
+  {
+    "Dist_ID": 229,
+    "Dist_Name": "Shimoga",
+    "Present Yield": 40.89154307
+  },
+  {
+    "Dist_ID": 289,
+    "Dist_Name": "Shivpuri",
+    "Present Yield": 39.40457787
+  },
+  {
+    "Dist_ID": 290,
+    "Dist_Name": "Sidhi",
+    "Present Yield": 31.67235882
+  },
+  {
+    "Dist_ID": 167,
+    "Dist_Name": "Sirmaur",
+    "Present Yield": 17.99227895
+  },
+  {
+    "Dist_ID": 168,
+    "Dist_Name": "Solan",
+    "Present Yield": 37.32282659
+  },
+  {
+    "Dist_ID": 491,
+    "Dist_Name": "South Tripura",
+    "Present Yield": 15.46443811
+  },
+  {
+    "Dist_ID": 182,
+    "Dist_Name": "Srinagar",
+    "Present Yield": 34.05150314
+  },
+  {
+    "Dist_ID": 134,
+    "Dist_Name": "Surat",
+    "Present Yield": 35.09237878
+  },
+  {
+    "Dist_ID": 107,
+    "Dist_Name": "Surguja",
+    "Present Yield": 23.4940502
+  },
+  {
+    "Dist_ID": 335,
+    "Dist_Name": "Tamenglong",
+    "Present Yield": 17.99227895
+  },
+  {
+    "Dist_ID": 24,
+    "Dist_Name": "Tawang",
+    "Present Yield": 28.40103537
+  },
+  {
+    "Dist_ID": 336,
+    "Dist_Name": "Thoubal",
+    "Present Yield": 37.76891615
+  },
+  {
+    "Dist_ID": 291,
+    "Dist_Name": "Tikamgarh",
+    "Present Yield": 9.516577297
+  },
+  {
+    "Dist_ID": 25,
+    "Dist_Name": "Tirap",
+    "Present Yield": 21.11490588
+  },
+  {
+    "Dist_ID": 359,
+    "Dist_Name": "Tuensang",
+    "Present Yield": 35.38977182
+  },
+  {
+    "Dist_ID": 230,
+    "Dist_Name": "Tumkur",
+    "Present Yield": 44.16286652
+  },
+  {
+    "Dist_ID": 444,
+    "Dist_Name": "Udaipur",
+    "Present Yield": 15.01834855
+  },
+  {
+    "Dist_ID": 183,
+    "Dist_Name": "Udhampur",
+    "Present Yield": 17.10009983
+  },
+  {
+    "Dist_ID": 231,
+    "Dist_Name": "Udupi",
+    "Present Yield": 42.82459784
+  },
+  {
+    "Dist_ID": 337,
+    "Dist_Name": "Ukhrul",
+    "Present Yield": 31.37496578
+  },
+  {
+    "Dist_ID": 293,
+    "Dist_Name": "Umaria",
+    "Present Yield": 28.69842841
+  },
+  {
+    "Dist_ID": 169,
+    "Dist_Name": "Una",
+    "Present Yield": 35.83586139
+  },
+  {
+    "Dist_ID": 26,
+    "Dist_Name": "Upper Dibang Valley",
+    "Present Yield": 17.10009983
+  },
+  {
+    "Dist_ID": 27,
+    "Dist_Name": "Upper Siang",
+    "Present Yield": 28.69842841
+  },
+  {
+    "Dist_ID": 28,
+    "Dist_Name": "Upper Subansiri",
+    "Present Yield": 31.37496578
+  },
+  {
+    "Dist_ID": 232,
+    "Dist_Name": "Uttar Kannand",
+    "Present Yield": 33.90280662
+  },
+  {
+    "Dist_ID": 137,
+    "Dist_Name": "Vadodara",
+    "Present Yield": 30.03669709
+  },
+  {
+    "Dist_ID": 138,
+    "Dist_Name": "Valsad",
+    "Present Yield": 34.4975927
+  },
+  {
+    "Dist_ID": 488,
+    "Dist_Name": "Warangal",
+    "Present Yield": 51.00290645
+  },
+  {
+    "Dist_ID": 29,
+    "Dist_Name": "West Kameng",
+    "Present Yield": 26.31928409
+  },
+  {
+    "Dist_ID": 30,
+    "Dist_Name": "West Siang",
+    "Present Yield": 24.08883628
+  },
+  {
+    "Dist_ID": 492,
+    "Dist_Name": "West Tripura",
+    "Present Yield": 16.05922419
+  },
+  {
+    "Dist_ID": 360,
+    "Dist_Name": "Wokha",
+    "Present Yield": 36.28195095
+  },
+  {
+    "Dist_ID": 361,
+    "Dist_Name": "Zunheboto",
+    "Present Yield": 34.79498574
+  }
+]

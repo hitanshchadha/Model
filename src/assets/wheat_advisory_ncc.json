@@ -1,0 +1,1602 @@
+[
+  {
+    "District_ID": 493,
+    "District_Name": "agra",
+    "Present_Yield": 60.07
+  },
+  {
+    "District_ID": 114,
+    "District_Name": "ahmadabad",
+    "Present_Yield": 40
+  },
+  {
+    "District_ID": 296,
+    "District_Name": "ahmednagar",
+    "Present_Yield": 31.23
+  },
+  {
+    "District_ID": 413,
+    "District_Name": "ajmer",
+    "Present_Yield": 53.23
+  },
+  {
+    "District_ID": 297,
+    "District_Name": "akola",
+    "Present_Yield": 19.18
+  },
+  {
+    "District_ID": 494,
+    "District_Name": "aligarh",
+    "Present_Yield": 61.26
+  },
+  {
+    "District_ID": 495,
+    "District_Name": "allahabad",
+    "Present_Yield": 41.93
+  },
+  {
+    "District_ID": 414,
+    "District_Name": "alwar",
+    "Present_Yield": 65.13
+  },
+  {
+    "District_ID": 139,
+    "District_Name": "ambala",
+    "Present_Yield": 62.16
+  },
+  {
+    "District_ID": 496,
+    "District_Name": "ambedkar nagar",
+    "Present_Yield": 58.29
+  },
+  {
+    "District_ID": 298,
+    "District_Name": "amravati",
+    "Present_Yield": 25.87
+  },
+  {
+    "District_ID": 115,
+    "District_Name": "amreli",
+    "Present_Yield": 60.22
+  },
+  {
+    "District_ID": 396,
+    "District_Name": "amritsar",
+    "Present_Yield": 67.36
+  },
+  {
+    "District_ID": 116,
+    "District_Name": "anand",
+    "Present_Yield": 46.1
+  },
+  {
+    "District_ID": 248,
+    "District_Name": "anuppur",
+    "Present_Yield": 24.09
+  },
+  {
+    "District_ID": 249,
+    "District_Name": "ashoknagar",
+    "Present_Yield": 56.95
+  },
+  {
+    "District_ID": 497,
+    "District_Name": "auraiya",
+    "Present_Yield": 57.69
+  },
+  {
+    "District_ID": 55,
+    "District_Name": "aurangabad",
+    "Present_Yield": 31.37
+  },
+  {
+    "District_ID": 299,
+    "District_Name": "aurangabad",
+    "Present_Yield": 31.37
+  },
+  {
+    "District_ID": 498,
+    "District_Name": "azamgarh",
+    "Present_Yield": 51.3
+  },
+  {
+    "District_ID": 206,
+    "District_Name": "bagalkot",
+    "Present_Yield": 23.79
+  },
+  {
+    "District_ID": 500,
+    "District_Name": "baghpat",
+    "Present_Yield": 67.21
+  },
+  {
+    "District_ID": 501,
+    "District_Name": "bahraich",
+    "Present_Yield": 45.5
+  },
+  {
+    "District_ID": 250,
+    "District_Name": "balaghat",
+    "Present_Yield": 24.53
+  },
+  {
+    "District_ID": 502,
+    "District_Name": "ballia",
+    "Present_Yield": 56.65
+  },
+  {
+    "District_ID": 503,
+    "District_Name": "balrampur",
+    "Present_Yield": 54.72
+  },
+  {
+    "District_ID": 117,
+    "District_Name": "banas kantha",
+    "Present_Yield": 46.69
+  },
+  {
+    "District_ID": 504,
+    "District_Name": "banda",
+    "Present_Yield": 42.38
+  },
+  {
+    "District_ID": 56,
+    "District_Name": "banka",
+    "Present_Yield": 33.01
+  },
+  {
+    "District_ID": 415,
+    "District_Name": "banswara",
+    "Present_Yield": 39.4
+  },
+  {
+    "District_ID": 505,
+    "District_Name": "bara banki",
+    "Present_Yield": 60.07
+  },
+  {
+    "District_ID": 416,
+    "District_Name": "baran",
+    "Present_Yield": 72.27
+  },
+  {
+    "District_ID": 506,
+    "District_Name": "bareilly",
+    "Present_Yield": 46.99
+  },
+  {
+    "District_ID": 417,
+    "District_Name": "barmer",
+    "Present_Yield": 26.77
+  },
+  {
+    "District_ID": 251,
+    "District_Name": "barwani",
+    "Present_Yield": 61.11
+  },
+  {
+    "District_ID": 92,
+    "District_Name": "bastar",
+    "Present_Yield": 25.43
+  },
+  {
+    "District_ID": 507,
+    "District_Name": "basti",
+    "Present_Yield": 45.65
+  },
+  {
+    "District_ID": 57,
+    "District_Name": "begusarai",
+    "Present_Yield": 55.61
+  },
+  {
+    "District_ID": 209,
+    "District_Name": "belgaum",
+    "Present_Yield": 20.67
+  },
+  {
+    "District_ID": 210,
+    "District_Name": "bellary",
+    "Present_Yield": 17.69
+  },
+  {
+    "District_ID": 252,
+    "District_Name": "betul",
+    "Present_Yield": 38.96
+  },
+  {
+    "District_ID": 59,
+    "District_Name": "bhagalpur",
+    "Present_Yield": 42.38
+  },
+  {
+    "District_ID": 418,
+    "District_Name": "bharatpur",
+    "Present_Yield": 63.64
+  },
+  {
+    "District_ID": 118,
+    "District_Name": "bharuch",
+    "Present_Yield": 29.59
+  },
+  {
+    "District_ID": 119,
+    "District_Name": "bhavnagar",
+    "Present_Yield": 49.22
+  },
+  {
+    "District_ID": 419,
+    "District_Name": "bhilwara",
+    "Present_Yield": 60.82
+  },
+  {
+    "District_ID": 60,
+    "District_Name": "bhojpur",
+    "Present_Yield": 36.88
+  },
+  {
+    "District_ID": 254,
+    "District_Name": "bhopal",
+    "Present_Yield": 44.91
+  },
+  {
+    "District_ID": 301,
+    "District_Name": "bid",
+    "Present_Yield": 19.18
+  },
+  {
+    "District_ID": 211,
+    "District_Name": "bidar",
+    "Present_Yield": 15.32
+  },
+  {
+    "District_ID": 212,
+    "District_Name": "bijapur",
+    "Present_Yield": 11.15
+  },
+  {
+    "District_ID": 508,
+    "District_Name": "bijnor",
+    "Present_Yield": 52.04
+  },
+  {
+    "District_ID": 93,
+    "District_Name": "bilaspur",
+    "Present_Yield": 18.88
+  },
+  {
+    "District_ID": 158,
+    "District_Name": "bilaspur",
+    "Present_Yield": 30.04
+  },
+  {
+    "District_ID": 184,
+    "District_Name": "bokaro",
+    "Present_Yield": 32.27
+  },
+  {
+    "District_ID": 509,
+    "District_Name": "bulandshahr",
+    "Present_Yield": 65.13
+  },
+  {
+    "District_ID": 302,
+    "District_Name": "buldana",
+    "Present_Yield": 27.66
+  },
+  {
+    "District_ID": 421,
+    "District_Name": "bundi",
+    "Present_Yield": 70.18
+  },
+  {
+    "District_ID": 255,
+    "District_Name": "burhanpur",
+    "Present_Yield": 53.53
+  },
+  {
+    "District_ID": 61,
+    "District_Name": "buxar",
+    "Present_Yield": 40.74
+  },
+  {
+    "District_ID": 159,
+    "District_Name": "chamba",
+    "Present_Yield": 34.05
+  },
+  {
+    "District_ID": 510,
+    "District_Name": "chandauli",
+    "Present_Yield": 50.71
+  },
+  {
+    "District_ID": 91,
+    "District_Name": "chandigarh",
+    "Present_Yield": 66.91
+  },
+  {
+    "District_ID": 303,
+    "District_Name": "chandrapur",
+    "Present_Yield": 10.71
+  },
+  {
+    "District_ID": 16,
+    "District_Name": "changlang",
+    "Present_Yield": 34.2
+  },
+  {
+    "District_ID": 185,
+    "District_Name": "chatra",
+    "Present_Yield": 22.6
+  },
+  {
+    "District_ID": 256,
+    "District_Name": "chhatarpur",
+    "Present_Yield": 39.55
+  },
+  {
+    "District_ID": 257,
+    "District_Name": "chhindwara",
+    "Present_Yield": 81.04
+  },
+  {
+    "District_ID": 215,
+    "District_Name": "chitradurga",
+    "Present_Yield": 16.65
+  },
+  {
+    "District_ID": 511,
+    "District_Name": "chitrakoot",
+    "Present_Yield": 39.4
+  },
+  {
+    "District_ID": 422,
+    "District_Name": "chittaurgarh",
+    "Present_Yield": 69.59
+  },
+  {
+    "District_ID": 120,
+    "District_Name": "dahod",
+    "Present_Yield": 31.82
+  },
+  {
+    "District_ID": 258,
+    "District_Name": "damoh",
+    "Present_Yield": 36.28
+  },
+  {
+    "District_ID": 94,
+    "District_Name": "dantewada",
+    "Present_Yield": 22.3
+  },
+  {
+    "District_ID": 259,
+    "District_Name": "datia",
+    "Present_Yield": 50.71
+  },
+  {
+    "District_ID": 424,
+    "District_Name": "dausa",
+    "Present_Yield": 58.59
+  },
+  {
+    "District_ID": 217,
+    "District_Name": "davanagere",
+    "Present_Yield": 16.95
+  },
+  {
+    "District_ID": 186,
+    "District_Name": "deoghar",
+    "Present_Yield": 38.66
+  },
+  {
+    "District_ID": 512,
+    "District_Name": "deoria",
+    "Present_Yield": 49.96
+  },
+  {
+    "District_ID": 260,
+    "District_Name": "dewas",
+    "Present_Yield": 64.83
+  },
+  {
+    "District_ID": 95,
+    "District_Name": "dhamtari",
+    "Present_Yield": 21.26
+  },
+  {
+    "District_ID": 187,
+    "District_Name": "dhanbad",
+    "Present_Yield": 31.67
+  },
+  {
+    "District_ID": 261,
+    "District_Name": "dhar",
+    "Present_Yield": 53.53
+  },
+  {
+    "District_ID": 218,
+    "District_Name": "dharwad",
+    "Present_Yield": 13.98
+  },
+  {
+    "District_ID": 304,
+    "District_Name": "dhule",
+    "Present_Yield": 36.73
+  },
+  {
+    "District_ID": 354,
+    "District_Name": "dimapur",
+    "Present_Yield": 27.51
+  },
+  {
+    "District_ID": 262,
+    "District_Name": "dindori",
+    "Present_Yield": 23.49
+  },
+  {
+    "District_ID": 188,
+    "District_Name": "dumka",
+    "Present_Yield": 33.46
+  },
+  {
+    "District_ID": 426,
+    "District_Name": "dungarpur",
+    "Present_Yield": 35.39
+  },
+  {
+    "District_ID": 96,
+    "District_Name": "durg",
+    "Present_Yield": 13.98
+  },
+  {
+    "District_ID": 339,
+    "District_Name": "east garo hills",
+    "Present_Yield": 17.84
+  },
+  {
+    "District_ID": 17,
+    "District_Name": "east kameng",
+    "Present_Yield": 34.79
+  },
+  {
+    "District_ID": 18,
+    "District_Name": "east siang",
+    "Present_Yield": 39.4
+  },
+  {
+    "District_ID": 513,
+    "District_Name": "etah",
+    "Present_Yield": 61.71
+  },
+  {
+    "District_ID": 514,
+    "District_Name": "etawah",
+    "Present_Yield": 61.11
+  },
+  {
+    "District_ID": 515,
+    "District_Name": "faizabad",
+    "Present_Yield": 55.17
+  },
+  {
+    "District_ID": 516,
+    "District_Name": "farrukhabad",
+    "Present_Yield": 62.6
+  },
+  {
+    "District_ID": 399,
+    "District_Name": "fatehgarh sahib",
+    "Present_Yield": 65.43
+  },
+  {
+    "District_ID": 517,
+    "District_Name": "fatehpur",
+    "Present_Yield": 58.88
+  },
+  {
+    "District_ID": 518,
+    "District_Name": "firozabad",
+    "Present_Yield": 60.22
+  },
+  {
+    "District_ID": 219,
+    "District_Name": "gadag",
+    "Present_Yield": 8.48
+  },
+  {
+    "District_ID": 121,
+    "District_Name": "gandhinagar",
+    "Present_Yield": 52.49
+  },
+  {
+    "District_ID": 427,
+    "District_Name": "ganganagar",
+    "Present_Yield": 69.29
+  },
+  {
+    "District_ID": 305,
+    "District_Name": "garhchiroli",
+    "Present_Yield": 10.71
+  },
+  {
+    "District_ID": 189,
+    "District_Name": "garhwa",
+    "Present_Yield": 15.61
+  },
+  {
+    "District_ID": 519,
+    "District_Name": "gautam buddha nagar",
+    "Present_Yield": 62.75
+  },
+  {
+    "District_ID": 63,
+    "District_Name": "gaya",
+    "Present_Yield": 25.58
+  },
+  {
+    "District_ID": 520,
+    "District_Name": "ghaziabad",
+    "Present_Yield": 61.11
+  },
+  {
+    "District_ID": 521,
+    "District_Name": "ghazipur",
+    "Present_Yield": 51.3
+  },
+  {
+    "District_ID": 190,
+    "District_Name": "giridih",
+    "Present_Yield": 38.66
+  },
+  {
+    "District_ID": 191,
+    "District_Name": "godda",
+    "Present_Yield": 35.84
+  },
+  {
+    "District_ID": 522,
+    "District_Name": "gonda",
+    "Present_Yield": 48.77
+  },
+  {
+    "District_ID": 306,
+    "District_Name": "gondiya",
+    "Present_Yield": 8.33
+  },
+  {
+    "District_ID": 64,
+    "District_Name": "gopalganj",
+    "Present_Yield": 43.42
+  },
+  {
+    "District_ID": 523,
+    "District_Name": "gorakhpur",
+    "Present_Yield": 55.02
+  },
+  {
+    "District_ID": 220,
+    "District_Name": "gulbarga",
+    "Present_Yield": 30.33
+  },
+  {
+    "District_ID": 192,
+    "District_Name": "gumla",
+    "Present_Yield": 34.79
+  },
+  {
+    "District_ID": 264,
+    "District_Name": "guna",
+    "Present_Yield": 58.88
+  },
+  {
+    "District_ID": 401,
+    "District_Name": "gurdaspur",
+    "Present_Yield": 62.01
+  },
+  {
+    "District_ID": 265,
+    "District_Name": "gwalior",
+    "Present_Yield": 64.24
+  },
+  {
+    "District_ID": 160,
+    "District_Name": "hamirpur",
+    "Present_Yield": 29
+  },
+  {
+    "District_ID": 524,
+    "District_Name": "hamirpur",
+    "Present_Yield": 48.62
+  },
+  {
+    "District_ID": 428,
+    "District_Name": "hanumangarh",
+    "Present_Yield": 69.59
+  },
+  {
+    "District_ID": 266,
+    "District_Name": "harda",
+    "Present_Yield": 52.19
+  },
+  {
+    "District_ID": 525,
+    "District_Name": "hardoi",
+    "Present_Yield": 53.08
+  },
+  {
+    "District_ID": 526,
+    "District_Name": "hathras",
+    "Present_Yield": 59.33
+  },
+  {
+    "District_ID": 222,
+    "District_Name": "haveri",
+    "Present_Yield": 5.5
+  },
+  {
+    "District_ID": 193,
+    "District_Name": "hazaribag",
+    "Present_Yield": 28.85
+  },
+  {
+    "District_ID": 308,
+    "District_Name": "hingoli",
+    "Present_Yield": 11.75
+  },
+  {
+    "District_ID": 267,
+    "District_Name": "hoshangabad",
+    "Present_Yield": 70.18
+  },
+  {
+    "District_ID": 402,
+    "District_Name": "hoshiarpur",
+    "Present_Yield": 63.79
+  },
+  {
+    "District_ID": 268,
+    "District_Name": "indore",
+    "Present_Yield": 76.58
+  },
+  {
+    "District_ID": 269,
+    "District_Name": "jabalpur",
+    "Present_Yield": 64.24
+  },
+  {
+    "District_ID": 429,
+    "District_Name": "jaipur",
+    "Present_Yield": 57.69
+  },
+  {
+    "District_ID": 403,
+    "District_Name": "jalandhar",
+    "Present_Yield": 74.79
+  },
+  {
+    "District_ID": 527,
+    "District_Name": "jalaun",
+    "Present_Yield": 55.46
+  },
+  {
+    "District_ID": 309,
+    "District_Name": "jalgaon",
+    "Present_Yield": 36.73
+  },
+  {
+    "District_ID": 310,
+    "District_Name": "jalna",
+    "Present_Yield": 23.79
+  },
+  {
+    "District_ID": 431,
+    "District_Name": "jalor",
+    "Present_Yield": 33.16
+  },
+  {
+    "District_ID": 194,
+    "District_Name": "jamtara",
+    "Present_Yield": 24.83
+  },
+  {
+    "District_ID": 65,
+    "District_Name": "jamui",
+    "Present_Yield": 28.25
+  },
+  {
+    "District_ID": 97,
+    "District_Name": "janjgir-champa",
+    "Present_Yield": 22.9
+  },
+  {
+    "District_ID": 98,
+    "District_Name": "jashpur",
+    "Present_Yield": 18.88
+  },
+  {
+    "District_ID": 528,
+    "District_Name": "jaunpur",
+    "Present_Yield": 53.38
+  },
+  {
+    "District_ID": 66,
+    "District_Name": "jehanabad",
+    "Present_Yield": 42.08
+  },
+  {
+    "District_ID": 270,
+    "District_Name": "jhabua",
+    "Present_Yield": 42.23
+  },
+  {
+    "District_ID": 145,
+    "District_Name": "jhajjar",
+    "Present_Yield": 71.52
+  },
+  {
+    "District_ID": 432,
+    "District_Name": "jhalawar",
+    "Present_Yield": 62.16
+  },
+  {
+    "District_ID": 529,
+    "District_Name": "jhansi",
+    "Present_Yield": 50.85
+  },
+  {
+    "District_ID": 434,
+    "District_Name": "jodhpur",
+    "Present_Yield": 40.3
+  },
+  {
+    "District_ID": 41,
+    "District_Name": "jorhat",
+    "Present_Yield": 19.18
+  },
+  {
+    "District_ID": 123,
+    "District_Name": "junagadh",
+    "Present_Yield": 70.93
+  },
+  {
+    "District_ID": 124,
+    "District_Name": "kachchh",
+    "Present_Yield": 43.42
+  },
+  {
+    "District_ID": 42,
+    "District_Name": "kamrup",
+    "Present_Yield": 12.49
+  },
+  {
+    "District_ID": 161,
+    "District_Name": "kangra",
+    "Present_Yield": 33.46
+  },
+  {
+    "District_ID": 99,
+    "District_Name": "kanker",
+    "Present_Yield": 20.37
+  },
+  {
+    "District_ID": 531,
+    "District_Name": "kannauj",
+    "Present_Yield": 66.17
+  },
+  {
+    "District_ID": 532,
+    "District_Name": "kanpur dehat",
+    "Present_Yield": 63.2
+  },
+  {
+    "District_ID": 404,
+    "District_Name": "kapurthala",
+    "Present_Yield": 69.14
+  },
+  {
+    "District_ID": 435,
+    "District_Name": "karauli",
+    "Present_Yield": 63.34
+  },
+  {
+    "District_ID": 271,
+    "District_Name": "katni",
+    "Present_Yield": 51.6
+  },
+  {
+    "District_ID": 534,
+    "District_Name": "kaushambi",
+    "Present_Yield": 46.39
+  },
+  {
+    "District_ID": 125,
+    "District_Name": "kheda",
+    "Present_Yield": 49.81
+  },
+  {
+    "District_ID": 162,
+    "District_Name": "kinnaur",
+    "Present_Yield": 16.21
+  },
+  {
+    "District_ID": 195,
+    "District_Name": "koderma",
+    "Present_Yield": 37.17
+  },
+  {
+    "District_ID": 355,
+    "District_Name": "kohima",
+    "Present_Yield": 27.36
+  },
+  {
+    "District_ID": 45,
+    "District_Name": "kokrajhar",
+    "Present_Yield": 19.33
+  },
+  {
+    "District_ID": 311,
+    "District_Name": "kolhapur",
+    "Present_Yield": 34.94
+  },
+  {
+    "District_ID": 225,
+    "District_Name": "koppal",
+    "Present_Yield": 7.29
+  },
+  {
+    "District_ID": 101,
+    "District_Name": "korba",
+    "Present_Yield": 19.18
+  },
+  {
+    "District_ID": 102,
+    "District_Name": "koriya",
+    "Present_Yield": 17.99
+  },
+  {
+    "District_ID": 436,
+    "District_Name": "kota",
+    "Present_Yield": 64.68
+  },
+  {
+    "District_ID": 163,
+    "District_Name": "kullu",
+    "Present_Yield": 24.09
+  },
+  {
+    "District_ID": 9,
+    "District_Name": "kurnool",
+    "Present_Yield": 4.76
+  },
+  {
+    "District_ID": 149,
+    "District_Name": "kurukshetra",
+    "Present_Yield": 70.04
+  },
+  {
+    "District_ID": 535,
+    "District_Name": "kushinagar",
+    "Present_Yield": 55.02
+  },
+  {
+    "District_ID": 164,
+    "District_Name": "lahul and spiti",
+    "Present_Yield": 21.11
+  },
+  {
+    "District_ID": 46,
+    "District_Name": "lakhimpur",
+    "Present_Yield": 19.78
+  },
+  {
+    "District_ID": 70,
+    "District_Name": "lakhisarai",
+    "Present_Yield": 43.42
+  },
+  {
+    "District_ID": 537,
+    "District_Name": "lalitpur",
+    "Present_Yield": 47.58
+  },
+  {
+    "District_ID": 196,
+    "District_Name": "latehar",
+    "Present_Yield": 19.78
+  },
+  {
+    "District_ID": 312,
+    "District_Name": "latur",
+    "Present_Yield": 9.67
+  },
+  {
+    "District_ID": 197,
+    "District_Name": "lohardaga",
+    "Present_Yield": 40.15
+  },
+  {
+    "District_ID": 20,
+    "District_Name": "lohit",
+    "Present_Yield": 31.52
+  },
+  {
+    "District_ID": 21,
+    "District_Name": "lower dibang valley",
+    "Present_Yield": 30.04
+  },
+  {
+    "District_ID": 538,
+    "District_Name": "lucknow",
+    "Present_Yield": 46.1
+  },
+  {
+    "District_ID": 72,
+    "District_Name": "madhubani",
+    "Present_Yield": 32.12
+  },
+  {
+    "District_ID": 539,
+    "District_Name": "maharajganj",
+    "Present_Yield": 59.92
+  },
+  {
+    "District_ID": 103,
+    "District_Name": "mahasamund",
+    "Present_Yield": 18.88
+  },
+  {
+    "District_ID": 126,
+    "District_Name": "mahesana",
+    "Present_Yield": 51.6
+  },
+  {
+    "District_ID": 540,
+    "District_Name": "mahoba",
+    "Present_Yield": 42.82
+  },
+  {
+    "District_ID": 541,
+    "District_Name": "mainpuri",
+    "Present_Yield": 62.9
+  },
+  {
+    "District_ID": 165,
+    "District_Name": "mandi",
+    "Present_Yield": 29.89
+  },
+  {
+    "District_ID": 272,
+    "District_Name": "mandla",
+    "Present_Yield": 29
+  },
+  {
+    "District_ID": 273,
+    "District_Name": "mandsaur",
+    "Present_Yield": 83.57
+  },
+  {
+    "District_ID": 406,
+    "District_Name": "mansa",
+    "Present_Yield": 80.15
+  },
+  {
+    "District_ID": 47,
+    "District_Name": "marigaon",
+    "Present_Yield": 17.69
+  },
+  {
+    "District_ID": 542,
+    "District_Name": "mathura",
+    "Present_Yield": 42.38
+  },
+  {
+    "District_ID": 543,
+    "District_Name": "mau",
+    "Present_Yield": 51.45
+  },
+  {
+    "District_ID": 484,
+    "District_Name": "medak",
+    "Present_Yield": 27.36
+  },
+  {
+    "District_ID": 544,
+    "District_Name": "meerut",
+    "Present_Yield": 67.81
+  },
+  {
+    "District_ID": 545,
+    "District_Name": "mirzapur",
+    "Present_Yield": 35.98
+  },
+  {
+    "District_ID": 407,
+    "District_Name": "moga",
+    "Present_Yield": 79.55
+  },
+  {
+    "District_ID": 356,
+    "District_Name": "mokokchung",
+    "Present_Yield": 27.06
+  },
+  {
+    "District_ID": 357,
+    "District_Name": "mon",
+    "Present_Yield": 27.36
+  },
+  {
+    "District_ID": 546,
+    "District_Name": "moradabad",
+    "Present_Yield": 56.06
+  },
+  {
+    "District_ID": 73,
+    "District_Name": "munger",
+    "Present_Yield": 37.77
+  },
+  {
+    "District_ID": 547,
+    "District_Name": "muzaffarnagar",
+    "Present_Yield": 59.18
+  },
+  {
+    "District_ID": 48,
+    "District_Name": "nagaon",
+    "Present_Yield": 19.33
+  },
+  {
+    "District_ID": 437,
+    "District_Name": "nagaur",
+    "Present_Yield": 41.78
+  },
+  {
+    "District_ID": 313,
+    "District_Name": "nagpur",
+    "Present_Yield": 20.97
+  },
+  {
+    "District_ID": 75,
+    "District_Name": "nalanda",
+    "Present_Yield": 37.62
+  },
+  {
+    "District_ID": 49,
+    "District_Name": "nalbari",
+    "Present_Yield": 18.88
+  },
+  {
+    "District_ID": 314,
+    "District_Name": "nanded",
+    "Present_Yield": 13.53
+  },
+  {
+    "District_ID": 315,
+    "District_Name": "nandurbar",
+    "Present_Yield": 42.38
+  },
+  {
+    "District_ID": 127,
+    "District_Name": "narmada",
+    "Present_Yield": 49.66
+  },
+  {
+    "District_ID": 275,
+    "District_Name": "narsinghpur",
+    "Present_Yield": 72.27
+  },
+  {
+    "District_ID": 316,
+    "District_Name": "nashik",
+    "Present_Yield": 37.92
+  },
+  {
+    "District_ID": 128,
+    "District_Name": "navsari",
+    "Present_Yield": 49.66
+  },
+  {
+    "District_ID": 76,
+    "District_Name": "nawada",
+    "Present_Yield": 29.44
+  },
+  {
+    "District_ID": 409,
+    "District_Name": "nawan shehar",
+    "Present_Yield": 75.54
+  },
+  {
+    "District_ID": 276,
+    "District_Name": "neemuch",
+    "Present_Yield": 70.48
+  },
+  {
+    "District_ID": 486,
+    "District_Name": "nizamabad",
+    "Present_Yield": 27.51
+  },
+  {
+    "District_ID": 317,
+    "District_Name": "osmanabad",
+    "Present_Yield": 8.33
+  },
+  {
+    "District_ID": 198,
+    "District_Name": "pakur",
+    "Present_Yield": 22.3
+  },
+  {
+    "District_ID": 199,
+    "District_Name": "palamu",
+    "Present_Yield": 28.4
+  },
+  {
+    "District_ID": 438,
+    "District_Name": "pali",
+    "Present_Yield": 40.89
+  },
+  {
+    "District_ID": 129,
+    "District_Name": "panch mahals",
+    "Present_Yield": 33.46
+  },
+  {
+    "District_ID": 151,
+    "District_Name": "panchkula",
+    "Present_Yield": 62.01
+  },
+  {
+    "District_ID": 277,
+    "District_Name": "panna",
+    "Present_Yield": 36.73
+  },
+  {
+    "District_ID": 23,
+    "District_Name": "papum pare",
+    "Present_Yield": 36.73
+  },
+  {
+    "District_ID": 318,
+    "District_Name": "parbhani",
+    "Present_Yield": 15.32
+  },
+  {
+    "District_ID": 77,
+    "District_Name": "pashchim champaran",
+    "Present_Yield": 42.82
+  },
+  {
+    "District_ID": 410,
+    "District_Name": "patiala",
+    "Present_Yield": 70.93
+  },
+  {
+    "District_ID": 78,
+    "District_Name": "patna",
+    "Present_Yield": 49.07
+  },
+  {
+    "District_ID": 358,
+    "District_Name": "phek",
+    "Present_Yield": 27.21
+  },
+  {
+    "District_ID": 548,
+    "District_Name": "pilibhit",
+    "Present_Yield": 63.79
+  },
+  {
+    "District_ID": 549,
+    "District_Name": "pratapgarh",
+    "Present_Yield": 51
+  },
+  {
+    "District_ID": 180,
+    "District_Name": "punch",
+    "Present_Yield": 26.91
+  },
+  {
+    "District_ID": 319,
+    "District_Name": "pune",
+    "Present_Yield": 30.78
+  },
+  {
+    "District_ID": 79,
+    "District_Name": "purba champaran",
+    "Present_Yield": 31.37
+  },
+  {
+    "District_ID": 550,
+    "District_Name": "rae bareli",
+    "Present_Yield": 49.96
+  },
+  {
+    "District_ID": 104,
+    "District_Name": "raigarh",
+    "Present_Yield": 22.9
+  },
+  {
+    "District_ID": 105,
+    "District_Name": "raipur",
+    "Present_Yield": 23.64
+  },
+  {
+    "District_ID": 278,
+    "District_Name": "raisen",
+    "Present_Yield": 60.52
+  },
+  {
+    "District_ID": 106,
+    "District_Name": "raj nandgaon",
+    "Present_Yield": 14.57
+  },
+  {
+    "District_ID": 279,
+    "District_Name": "rajgarh",
+    "Present_Yield": 42.53
+  },
+  {
+    "District_ID": 132,
+    "District_Name": "rajkot",
+    "Present_Yield": 52.79
+  },
+  {
+    "District_ID": 439,
+    "District_Name": "rajsamand",
+    "Present_Yield": 50.85
+  },
+  {
+    "District_ID": 551,
+    "District_Name": "rampur",
+    "Present_Yield": 60.97
+  },
+  {
+    "District_ID": 202,
+    "District_Name": "ranchi",
+    "Present_Yield": 29.74
+  },
+  {
+    "District_ID": 487,
+    "District_Name": "rangareddi",
+    "Present_Yield": 27.66
+  },
+  {
+    "District_ID": 280,
+    "District_Name": "ratlam",
+    "Present_Yield": 53.83
+  },
+  {
+    "District_ID": 281,
+    "District_Name": "rewa",
+    "Present_Yield": 46.69
+  },
+  {
+    "District_ID": 81,
+    "District_Name": "rohtas",
+    "Present_Yield": 45.95
+  },
+  {
+    "District_ID": 411,
+    "District_Name": "rupnagar",
+    "Present_Yield": 64.39
+  },
+  {
+    "District_ID": 133,
+    "District_Name": "sabar kantha",
+    "Present_Yield": 51.15
+  },
+  {
+    "District_ID": 282,
+    "District_Name": "sagar",
+    "Present_Yield": 49.52
+  },
+  {
+    "District_ID": 552,
+    "District_Name": "saharanpur",
+    "Present_Yield": 57.84
+  },
+  {
+    "District_ID": 82,
+    "District_Name": "saharsa",
+    "Present_Yield": 29.59
+  },
+  {
+    "District_ID": 203,
+    "District_Name": "sahibganj",
+    "Present_Yield": 27.51
+  },
+  {
+    "District_ID": 322,
+    "District_Name": "sangli",
+    "Present_Yield": 25.43
+  },
+  {
+    "District_ID": 412,
+    "District_Name": "sangrur",
+    "Present_Yield": 85.8
+  },
+  {
+    "District_ID": 553,
+    "District_Name": "sant kabir nagar",
+    "Present_Yield": 58.14
+  },
+  {
+    "District_ID": 204,
+    "District_Name": "saraikela kharsawan",
+    "Present_Yield": 46.1
+  },
+  {
+    "District_ID": 84,
+    "District_Name": "saran",
+    "Present_Yield": 46.69
+  },
+  {
+    "District_ID": 323,
+    "District_Name": "satara",
+    "Present_Yield": 29.29
+  },
+  {
+    "District_ID": 283,
+    "District_Name": "satna",
+    "Present_Yield": 47.58
+  },
+  {
+    "District_ID": 440,
+    "District_Name": "sawai madhopur",
+    "Present_Yield": 50.85
+  },
+  {
+    "District_ID": 284,
+    "District_Name": "sehore",
+    "Present_Yield": 53.83
+  },
+  {
+    "District_ID": 285,
+    "District_Name": "seoni",
+    "Present_Yield": 64.24
+  },
+  {
+    "District_ID": 286,
+    "District_Name": "shahdol",
+    "Present_Yield": 36.88
+  },
+  {
+    "District_ID": 555,
+    "District_Name": "shahjahanpur",
+    "Present_Yield": 64.68
+  },
+  {
+    "District_ID": 287,
+    "District_Name": "shajapur",
+    "Present_Yield": 80.15
+  },
+  {
+    "District_ID": 85,
+    "District_Name": "sheikhpura",
+    "Present_Yield": 25.87
+  },
+  {
+    "District_ID": 86,
+    "District_Name": "sheohar",
+    "Present_Yield": 34.35
+  },
+  {
+    "District_ID": 288,
+    "District_Name": "sheopur",
+    "Present_Yield": 66.91
+  },
+  {
+    "District_ID": 166,
+    "District_Name": "shimla",
+    "Present_Yield": 26.91
+  },
+  {
+    "District_ID": 289,
+    "District_Name": "shivpuri",
+    "Present_Yield": 40.59
+  },
+  {
+    "District_ID": 556,
+    "District_Name": "shravasti",
+    "Present_Yield": 49.37
+  },
+  {
+    "District_ID": 51,
+    "District_Name": "sibsagar",
+    "Present_Yield": 19.78
+  },
+  {
+    "District_ID": 557,
+    "District_Name": "siddharth nagar",
+    "Present_Yield": 60.22
+  },
+  {
+    "District_ID": 290,
+    "District_Name": "sidhi",
+    "Present_Yield": 35.24
+  },
+  {
+    "District_ID": 441,
+    "District_Name": "sikar",
+    "Present_Yield": 51.9
+  },
+  {
+    "District_ID": 205,
+    "District_Name": "simdega",
+    "Present_Yield": 32.71
+  },
+  {
+    "District_ID": 167,
+    "District_Name": "sirmaur",
+    "Present_Yield": 23.49
+  },
+  {
+    "District_ID": 442,
+    "District_Name": "sirohi",
+    "Present_Yield": 47.29
+  },
+  {
+    "District_ID": 87,
+    "District_Name": "sitamarhi",
+    "Present_Yield": 45.35
+  },
+  {
+    "District_ID": 558,
+    "District_Name": "sitapur",
+    "Present_Yield": 49.96
+  },
+  {
+    "District_ID": 88,
+    "District_Name": "siwan",
+    "Present_Yield": 30.78
+  },
+  {
+    "District_ID": 168,
+    "District_Name": "solan",
+    "Present_Yield": 22.9
+  },
+  {
+    "District_ID": 325,
+    "District_Name": "solapur",
+    "Present_Yield": 16.8
+  },
+  {
+    "District_ID": 559,
+    "District_Name": "sonbhadra",
+    "Present_Yield": 35.54
+  },
+  {
+    "District_ID": 52,
+    "District_Name": "sonitpur",
+    "Present_Yield": 22.45
+  },
+  {
+    "District_ID": 560,
+    "District_Name": "sultanpur",
+    "Present_Yield": 59.03
+  },
+  {
+    "District_ID": 134,
+    "District_Name": "surat",
+    "Present_Yield": 38.36
+  },
+  {
+    "District_ID": 135,
+    "District_Name": "surendranagar",
+    "Present_Yield": 37.62
+  },
+  {
+    "District_ID": 107,
+    "District_Name": "surguja",
+    "Present_Yield": 19.03
+  },
+  {
+    "District_ID": 24,
+    "District_Name": "tawang",
+    "Present_Yield": 26.02
+  },
+  {
+    "District_ID": 291,
+    "District_Name": "tikamgarh",
+    "Present_Yield": 45.65
+  },
+  {
+    "District_ID": 53,
+    "District_Name": "tinsukia",
+    "Present_Yield": 18.88
+  },
+  {
+    "District_ID": 25,
+    "District_Name": "tirap",
+    "Present_Yield": 23.49
+  },
+  {
+    "District_ID": 443,
+    "District_Name": "tonk",
+    "Present_Yield": 56.95
+  },
+  {
+    "District_ID": 359,
+    "District_Name": "tuensang",
+    "Present_Yield": 27.21
+  },
+  {
+    "District_ID": 444,
+    "District_Name": "udaipur",
+    "Present_Yield": 46.99
+  },
+  {
+    "District_ID": 292,
+    "District_Name": "ujjain",
+    "Present_Yield": 64.24
+  },
+  {
+    "District_ID": 293,
+    "District_Name": "umaria",
+    "Present_Yield": 29.29
+  },
+  {
+    "District_ID": 169,
+    "District_Name": "una",
+    "Present_Yield": 22.45
+  },
+  {
+    "District_ID": 561,
+    "District_Name": "unnao",
+    "Present_Yield": 49.22
+  },
+  {
+    "District_ID": 137,
+    "District_Name": "vadodara",
+    "Present_Yield": 34.94
+  },
+  {
+    "District_ID": 90,
+    "District_Name": "vaishali",
+    "Present_Yield": 42.53
+  },
+  {
+    "District_ID": 294,
+    "District_Name": "vidisha",
+    "Present_Yield": 43.42
+  },
+  {
+    "District_ID": 327,
+    "District_Name": "wardha",
+    "Present_Yield": 20.52
+  },
+  {
+    "District_ID": 328,
+    "District_Name": "washim",
+    "Present_Yield": 19.48
+  },
+  {
+    "District_ID": 29,
+    "District_Name": "west kameng",
+    "Present_Yield": 25.13
+  },
+  {
+    "District_ID": 345,
+    "District_Name": "west khasi hills",
+    "Present_Yield": 23.79
+  },
+  {
+    "District_ID": 492,
+    "District_Name": "west tripura",
+    "Present_Yield": 32.27
+  },
+  {
+    "District_ID": 360,
+    "District_Name": "wokha",
+    "Present_Yield": 27.36
+  },
+  {
+    "District_ID": 329,
+    "District_Name": "yavatmal",
+    "Present_Yield": 17.99
+  },
+  {
+    "District_ID": 361,
+    "District_Name": "zunheboto",
+    "Present_Yield": 26.91
+  }
+]

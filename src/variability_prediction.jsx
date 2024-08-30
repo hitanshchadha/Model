@@ -278,7 +278,7 @@ function Variability_prediction() {
         </Select>
         
       </FormControl>
-      <Button className='search' onClick={call}> Predict Yield</Button>
+      <Button className='search' onClick={()=>{call();seterror(null)}}> Predict Yield</Button>
       <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
       </div></>:data==="Corn"?<><div className='dropdown-2'>
     <FormControl sx={{ m: 1, width: 350 }}>

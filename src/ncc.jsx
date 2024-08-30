@@ -28,19 +28,15 @@ import PerfGraph from './assets/Pred-Graph.jpg'
 import PerfTable from './assets/Pred-Table.jpg'
 import cornData from './assets/cornData (2).json'
 import cornDataPred from './assets/csvjson (5).json'
+import rice_advisory from './assets/rice_advisory_ncc.json'
+import wheat_advisory from './assets/wheat_advisory_ncc.json'
+import rice_pred_ncc from './assets/rice_pred_ncc.json'
+import wheat_pred_ncc from './assets/wheat_pred_ncc.json'
 import cornPred from './assets/Corn-Pred.jpg'
 import TagLine from './assets/InnovateAchieveLead.jpg'
 
 
-
-
-
-
-
 function NextCropCycle() {
-
-
-  
  
   const [distName, setdistName] = React.useState([]);
   const [cropName, setcropName] = React.useState();
@@ -87,49 +83,38 @@ function NextCropCycle() {
   
 
   const call = async()=>{
-    setIsLoading(true)
-    await axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
-      'content-type': 'application/json',
-   },
-})
-  .then(function (response) {
-    console.log(response.data);
-    console.log(Papa.parse(response.data));
-    Papa.parse(response.data, {
-      complete: (result) => {
-          setData1(result.data);
-          setIsLoading(false);
-          seterror(null)
-      },
-      header: true,
-  });
-  })
-  .catch(function (error) {
-    setIsLoading(false);
-    console.log(error.message);
-    seterror(error.message)
-  });
+ 
+    const corn = wheat_pred_ncc.filter((wheat_pred_ncc)=>{for (let index = 0; index < data2.length; index++){
+      if(data2[index]==wheat_pred_ncc.District_ID){
+        return wheat_pred_ncc;
+      }
+      
+    }})
+    console.log(corn)
+    setData1(corn);
+
   
     }
     const call2 =()=>{
-      const corn = cornDataPred.filter((cornDataPred)=>{for (let index = 0; index < data2.length; index++){
-        if(data2[index]==cornDataPred.Dist_ID){
-          return cornDataPred;
+      const corn = rice_pred_ncc.filter((rice_pred_ncc)=>{for (let index = 0; index < data2.length; index++){
+        if(data2[index]==rice_pred_ncc.Dist_ID){
+          return rice_pred_ncc;
         }
         
       }})
       console.log(corn)
       setData1(corn);
     }
+
     const columns = [
-      { field: 'DistrictName', headerName: 'District',flex:1 },
+      { field: 'District_Name', headerName: 'District',flex:1 },
       { field: 'Actual', headerName: 'Actual' ,flex:1},
       { field: 'Predicted', headerName: 'Predicted', flex:1 },]
 
     
       const columns2 = [
-        { field: 'District', headerName: 'District',flex:1 },
-        { field: 'Actual(bu/ac)', headerName: 'Actual' ,flex:1},
+        { field: 'Dist_Name', headerName: 'District',flex:1 },
+        { field: 'Actual', headerName: 'Actual' ,flex:1},
         { field: 'Predicted', headerName: 'Predicted', flex:1 },]
   
       function generateRandom() {
@@ -284,17 +269,17 @@ function NextCropCycle() {
             PaperProps: { sx: { maxHeight: 200 } },
           }}
         > {}
-          {dist.map((dist) => (
-            <MenuItem key={dist.DistrictID} value={dist.DistrictID}>
-              <Checkbox checked={distName.indexOf(dist.DistrictID) > -1} />
-              <ListItemText primary={dist.DistrictName} />
+          {wheat_pred_ncc.map((wheat_pred_ncc) => (
+            <MenuItem key={wheat_pred_ncc.District_ID} value={wheat_pred_ncc.District_ID}>
+              <Checkbox checked={distName.indexOf(wheat_pred_ncc.District_ID) > -1} />
+              <ListItemText primary={wheat_pred_ncc.District_Name} />
             </MenuItem>
           ))}
         </Select>
         
       </FormControl>
-      <Button className='search' onClick={call}> Predict Yield</Button>
-      <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
+      <Button className='search' onClick={()=>{call();seterror(null)}}> Predict Yield</Button>
+      {/* <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button> */}
       </div></>:data==="Corn"?<><div className='dropdown-2'>
     <FormControl sx={{ m: 1, width: 350 }}>
         <InputLabel id="demo-multiple-checkbox-label">District</InputLabel>
@@ -317,10 +302,10 @@ function NextCropCycle() {
             },
             PaperProps: { sx: { maxHeight: 200 } },
           }}
-        > {cornData.map((cornData) => (
-          <MenuItem key={cornData.Dist_ID} value={cornData.Dist_ID}>
-            <Checkbox checked={distName.indexOf(cornData.Dist_ID) > -1} />
-            <ListItemText primary={cornData.District_Name} />
+        > {rice_pred_ncc.map((rice_pred_ncc) => (
+          <MenuItem key={rice_pred_ncc.Dist_ID} value={rice_pred_ncc.Dist_ID}>
+            <Checkbox checked={distName.indexOf(rice_pred_ncc.Dist_ID) > -1} />
+            <ListItemText primary={rice_pred_ncc.Dist_Name} />
           </MenuItem>
         ))}
           
@@ -329,7 +314,7 @@ function NextCropCycle() {
       </FormControl>
       <Button className='search' onClick={()=>{call2();setIsLoading(false);seterror(null)}}> Predict Yield</Button>
       </div>
-      <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button>
+      {/* <Button className='search' onClick={()=>{if(perf){setperf(false)} else{setperf(true)} }}> Model Performance</Button> */}
       </>
       :<></>}
       
@@ -385,7 +370,7 @@ function NextCropCycle() {
       <thead>
         <tr>
           <th>District Name</th>
-          <th>Avg Yeild for Last 3 Years</th>
+          <th>Avg Yield for Last 3 Years</th>
         </tr>
       </thead>
       <tbody>
@@ -393,7 +378,7 @@ function NextCropCycle() {
           if(data2[index]==distperf.dist_id){
             return(<>
             <tr onClick={()=>{setadv(true);data1.map((data1)=>{
-              if(data1.DistrictID==data2[index]){
+              if(data1.District_ID==data2[index]){
                if(data1.Predicted>distperf.YieldBuAc){
                  setcomp("high") 
               }
