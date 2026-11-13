@@ -1,0 +1,1207 @@
+[
+ {
+  "id": 479,
+  "district": "Adilabad",
+  "yield": 53.97683686
+ },
+ {
+  "id": 493,
+  "district": "Agra",
+  "yield": 38.36370223
+ },
+ {
+  "id": 114,
+  "district": "Ahmadabad",
+  "yield": 30.33409014
+ },
+ {
+  "id": 296,
+  "district": "Ahmednagar",
+  "yield": 16.65401027
+ },
+ {
+  "id": 346,
+  "district": "Aizawl",
+  "yield": 33.30802054
+ },
+ {
+  "id": 494,
+  "district": "Aligarh",
+  "yield": 38.80979179
+ },
+ {
+  "id": 495,
+  "district": "Allahabad",
+  "yield": 46.39331432
+ },
+ {
+  "id": 414,
+  "district": "Alwar",
+  "yield": 32.56453794
+ },
+ {
+  "id": 139,
+  "district": "Ambala",
+  "yield": 58.88382203
+ },
+ {
+  "id": 496,
+  "district": "Ambedkar Nagar",
+  "yield": 45.64983172
+ },
+ {
+  "id": 298,
+  "district": "Amravati",
+  "yield": 2.825233885
+ },
+ {
+  "id": 396,
+  "district": "Amritsar",
+  "yield": 49.06985169
+ },
+ {
+  "id": 3,
+  "district": "Anantapur",
+  "yield": 53.67944382
+ },
+ {
+  "id": 170,
+  "district": "Anantnag (Kashmir South)",
+  "yield": 44.16286652
+ },
+ {
+  "id": 248,
+  "district": "Anuppur",
+  "yield": 30.33409014
+ },
+ {
+  "id": 497,
+  "district": "Auraiya",
+  "yield": 52.04378209
+ },
+ {
+  "id": 498,
+  "district": "Azamgarh",
+  "yield": 36.87673703
+ },
+ {
+  "id": 171,
+  "district": "Bagdam",
+  "yield": 39.25588135
+ },
+ {
+  "id": 500,
+  "district": "Baghpat",
+  "yield": 45.79852824
+ },
+ {
+  "id": 501,
+  "district": "Bahraich",
+  "yield": 39.70197091
+ },
+ {
+  "id": 250,
+  "district": "Balaghat",
+  "yield": 32.71323446
+ },
+ {
+  "id": 502,
+  "district": "Ballia",
+  "yield": 42.22981176
+ },
+ {
+  "id": 503,
+  "district": "Balrampur",
+  "yield": 41.18893611
+ },
+ {
+  "id": 504,
+  "district": "Banda",
+  "yield": 39.10718483
+ },
+ {
+  "id": 207,
+  "district": "Bangalore Rural",
+  "yield": 43.2706874
+ },
+ {
+  "id": 208,
+  "district": "Bangalore Urban",
+  "yield": 58.14033943
+ },
+ {
+  "id": 415,
+  "district": "Banswara",
+  "yield": 11.15223902
+ },
+ {
+  "id": 505,
+  "district": "Bara Banki",
+  "yield": 50.55681689
+ },
+ {
+  "id": 172,
+  "district": "Baramula (Kashmir North)",
+  "yield": 43.12199088
+ },
+ {
+  "id": 416,
+  "district": "Baran",
+  "yield": 32.86193098
+ },
+ {
+  "id": 506,
+  "district": "Bareilly",
+  "yield": 35.53846834
+ },
+ {
+  "id": 251,
+  "district": "Barwani",
+  "yield": 5.799164291
+ },
+ {
+  "id": 92,
+  "district": "Bastar",
+  "yield": 28.84712493
+ },
+ {
+  "id": 507,
+  "district": "Basti",
+  "yield": 40.29675699
+ },
+ {
+  "id": 209,
+  "district": "Belgaum",
+  "yield": 37.32282659
+ },
+ {
+  "id": 210,
+  "district": "Bellary",
+  "yield": 64.5342898
+ },
+ {
+  "id": 252,
+  "district": "Betul",
+  "yield": 26.91407017
+ },
+ {
+  "id": 418,
+  "district": "Bharatpur",
+  "yield": 41.04023959
+ },
+ {
+  "id": 118,
+  "district": "Bharuch",
+  "yield": 23.4940502
+ },
+ {
+  "id": 419,
+  "district": "Bhilwara",
+  "yield": 32.56453794
+ },
+ {
+  "id": 211,
+  "district": "Bidar",
+  "yield": 16.65401027
+ },
+ {
+  "id": 212,
+  "district": "Bijapur",
+  "yield": 47.58288649
+ },
+ {
+  "id": 508,
+  "district": "Bijnor",
+  "yield": 39.40457787
+ },
+ {
+  "id": 93,
+  "district": "Bilaspur",
+  "yield": 32.56453794
+ },
+ {
+  "id": 158,
+  "district": "Bilaspur",
+  "yield": 29.44191101
+ },
+ {
+  "id": 330,
+  "district": "Bishnupur",
+  "yield": 39.40457787
+ },
+ {
+  "id": 509,
+  "district": "Bulandshahr",
+  "yield": 42.97329436
+ },
+ {
+  "id": 421,
+  "district": "Bundi",
+  "yield": 39.99936395
+ },
+ {
+  "id": 255,
+  "district": "Burhanpur",
+  "yield": 25.57580149
+ },
+ {
+  "id": 159,
+  "district": "Chamba",
+  "yield": 22.30447804
+ },
+ {
+  "id": 347,
+  "district": "Champhai",
+  "yield": 34.20019966
+ },
+ {
+  "id": 213,
+  "district": "Chamrajnagar",
+  "yield": 51.00290645
+ },
+ {
+  "id": 510,
+  "district": "Chandauli",
+  "yield": 49.66463777
+ },
+ {
+  "id": 331,
+  "district": "Chandel",
+  "yield": 25.87319453
+ },
+ {
+  "id": 91,
+  "district": "Chandigarh",
+  "yield": 81.78308615
+ },
+ {
+  "id": 303,
+  "district": "Chandrapur",
+  "yield": 20.81751284
+ },
+ {
+  "id": 16,
+  "district": "Changlang",
+  "yield": 33.15932402
+ },
+ {
+  "id": 256,
+  "district": "Chhatarpur",
+  "yield": 16.05922419
+ },
+ {
+  "id": 257,
+  "district": "Chhindwara",
+  "yield": 23.79144324
+ },
+ {
+  "id": 214,
+  "district": "Chikmagalur",
+  "yield": 37.47152311
+ },
+ {
+  "id": 215,
+  "district": "Chitradurga",
+  "yield": 33.45671706
+ },
+ {
+  "id": 511,
+  "district": "Chitrakoot",
+  "yield": 30.18539361
+ },
+ {
+  "id": 422,
+  "district": "Chittaurgarh",
+  "yield": 11.0035425
+ },
+ {
+  "id": 4,
+  "district": "Chittoor",
+  "yield": 59.92469767
+ },
+ {
+  "id": 332,
+  "district": "Churachandpur",
+  "yield": 26.31928409
+ },
+ {
+  "id": 120,
+  "district": "Dahod",
+  "yield": 17.84358243
+ },
+ {
+  "id": 258,
+  "district": "Damoh",
+  "yield": 19.7766372
+ },
+ {
+  "id": 94,
+  "district": "Dantewada",
+  "yield": 23.04796064
+ },
+ {
+  "id": 259,
+  "district": "Datia",
+  "yield": 22.15578152
+ },
+ {
+  "id": 217,
+  "district": "Davanagere",
+  "yield": 49.66463777
+ },
+ {
+  "id": 512,
+  "district": "Deoria",
+  "yield": 39.70197091
+ },
+ {
+  "id": 489,
+  "district": "Dhalai",
+  "yield": 14.42356247
+ },
+ {
+  "id": 95,
+  "district": "Dhamtari",
+  "yield": 47.58288649
+ },
+ {
+  "id": 218,
+  "district": "Dharwad",
+  "yield": 18.28967199
+ },
+ {
+  "id": 354,
+  "district": "Dimapur",
+  "yield": 40.44545351
+ },
+ {
+  "id": 262,
+  "district": "Dindori",
+  "yield": 25.87319453
+ },
+ {
+  "id": 173,
+  "district": "Doda",
+  "yield": 21.2636024
+ },
+ {
+  "id": 426,
+  "district": "Dungarpur",
+  "yield": 15.76183115
+ },
+ {
+  "id": 96,
+  "district": "Durg",
+  "yield": 47.58288649
+ },
+ {
+  "id": 333,
+  "district": "East Imphal",
+  "yield": 30.92887622
+ },
+ {
+  "id": 17,
+  "district": "East Kameng",
+  "yield": 19.7766372
+ },
+ {
+  "id": 18,
+  "district": "East Siang",
+  "yield": 27.36015973
+ },
+ {
+  "id": 513,
+  "district": "Etah",
+  "yield": 43.2706874
+ },
+ {
+  "id": 514,
+  "district": "Etawah",
+  "yield": 46.2446178
+ },
+ {
+  "id": 515,
+  "district": "Faizabad",
+  "yield": 44.01417
+ },
+ {
+  "id": 516,
+  "district": "Farrukhabad",
+  "yield": 56.20728466
+ },
+ {
+  "id": 399,
+  "district": "Fatehgarh Sahib",
+  "yield": 63.34471764
+ },
+ {
+  "id": 517,
+  "district": "Fatehpur",
+  "yield": 44.60895608
+ },
+ {
+  "id": 518,
+  "district": "Firozabad",
+  "yield": 42.22981176
+ },
+ {
+  "id": 219,
+  "district": "Gadag",
+  "yield": 44.01417
+ },
+ {
+  "id": 121,
+  "district": "Gandhinagar",
+  "yield": 34.34889618
+ },
+ {
+  "id": 427,
+  "district": "Ganganagar",
+  "yield": 41.33763264
+ },
+ {
+  "id": 305,
+  "district": "Garhchiroli",
+  "yield": 25.27840845
+ },
+ {
+  "id": 519,
+  "district": "Gautam Buddha Nagar",
+  "yield": 43.41938392
+ },
+ {
+  "id": 520,
+  "district": "Ghaziabad",
+  "yield": 41.48632916
+ },
+ {
+  "id": 521,
+  "district": "Ghazipur",
+  "yield": 38.66109527
+ },
+ {
+  "id": 522,
+  "district": "Gonda",
+  "yield": 38.36370223
+ },
+ {
+  "id": 306,
+  "district": "Gondiya",
+  "yield": 29.59060753
+ },
+ {
+  "id": 523,
+  "district": "Gorakhpur",
+  "yield": 41.63502568
+ },
+ {
+  "id": 220,
+  "district": "Gulbarga",
+  "yield": 55.0177125
+ },
+ {
+  "id": 401,
+  "district": "Gurdaspur",
+  "yield": 54.42292642
+ },
+ {
+  "id": 265,
+  "district": "Gwalior",
+  "yield": 45.79852824
+ },
+ {
+  "id": 524,
+  "district": "Hamirpur",
+  "yield": 37.62021963
+ },
+ {
+  "id": 428,
+  "district": "Hanumangarh",
+  "yield": 37.02543355
+ },
+ {
+  "id": 525,
+  "district": "Hardoi",
+  "yield": 44.16286652
+ },
+ {
+  "id": 221,
+  "district": "Hassan",
+  "yield": 43.86547348
+ },
+ {
+  "id": 526,
+  "district": "Hathras",
+  "yield": 37.91761267
+ },
+ {
+  "id": 222,
+  "district": "Haveri",
+  "yield": 23.34535368
+ },
+ {
+  "id": 267,
+  "district": "Hoshangabad",
+  "yield": 43.2706874
+ },
+ {
+  "id": 402,
+  "district": "Hoshiarpur",
+  "yield": 59.47860811
+ },
+ {
+  "id": 269,
+  "district": "Jabalpur",
+  "yield": 38.36370223
+ },
+ {
+  "id": 403,
+  "district": "Jalandhar",
+  "yield": 60.51948375
+ },
+ {
+  "id": 527,
+  "district": "Jalaun",
+  "yield": 38.06630919
+ },
+ {
+  "id": 174,
+  "district": "Jammu",
+  "yield": 28.69842841
+ },
+ {
+  "id": 97,
+  "district": "Janjgir-Champa",
+  "yield": 44.60895608
+ },
+ {
+  "id": 98,
+  "district": "Jashpur",
+  "yield": 15.46443811
+ },
+ {
+  "id": 270,
+  "district": "Jhabua",
+  "yield": 15.76183115
+ },
+ {
+  "id": 145,
+  "district": "Jhajjar",
+  "yield": 38.06630919
+ },
+ {
+  "id": 432,
+  "district": "Jhalawar",
+  "yield": 22.007085
+ },
+ {
+  "id": 99,
+  "district": "Kanker",
+  "yield": 32.41584142
+ },
+ {
+  "id": 404,
+  "district": "Kapurthala",
+  "yield": 61.41166287
+ },
+ {
+  "id": 435,
+  "district": "Karauli",
+  "yield": 23.4940502
+ },
+ {
+  "id": 481,
+  "district": "Karimnagar",
+  "yield": 49.96203081
+ },
+ {
+  "id": 176,
+  "district": "Kathua",
+  "yield": 25.12971193
+ },
+ {
+  "id": 271,
+  "district": "Katni",
+  "yield": 44.7576526
+ },
+ {
+  "id": 482,
+  "district": "Khammam",
+  "yield": 54.12553338
+ },
+ {
+  "id": 125,
+  "district": "Kheda",
+  "yield": 39.99936395
+ },
+ {
+  "id": 162,
+  "district": "Kinnaur",
+  "yield": 22.30447804
+ },
+ {
+  "id": 223,
+  "district": "Kodagu",
+  "yield": 38.06630919
+ },
+ {
+  "id": 355,
+  "district": "Kohima",
+  "yield": 38.80979179
+ },
+ {
+  "id": 224,
+  "district": "Kolar",
+  "yield": 35.38977182
+ },
+ {
+  "id": 348,
+  "district": "Kolasib",
+  "yield": 33.45671706
+ },
+ {
+  "id": 311,
+  "district": "Kolhapur",
+  "yield": 36.13325443
+ },
+ {
+  "id": 225,
+  "district": "Koppal",
+  "yield": 59.32991159
+ },
+ {
+  "id": 101,
+  "district": "Korba",
+  "yield": 22.7505676
+ },
+ {
+  "id": 102,
+  "district": "Koriya",
+  "yield": 23.94013976
+ },
+ {
+  "id": 436,
+  "district": "Kota",
+  "yield": 43.12199088
+ },
+ {
+  "id": 163,
+  "district": "Kullu",
+  "yield": 19.7766372
+ },
+ {
+  "id": 177,
+  "district": "Kupwara (Muzaffarabad)",
+  "yield": 33.0106275
+ },
+ {
+  "id": 9,
+  "district": "Kurnool",
+  "yield": 59.18121507
+ },
+ {
+  "id": 149,
+  "district": "Kurukshetra",
+  "yield": 66.61604108
+ },
+ {
+  "id": 19,
+  "district": "Kurung Kumey",
+  "yield": 28.25233885
+ },
+ {
+  "id": 312,
+  "district": "Latur",
+  "yield": 1.189572162
+ },
+ {
+  "id": 349,
+  "district": "Lawngtlai",
+  "yield": 32.2671449
+ },
+ {
+  "id": 20,
+  "district": "Lohit",
+  "yield": 31.37496578
+ },
+ {
+  "id": 21,
+  "district": "Lower Dibang Valley",
+  "yield": 22.89926412
+ },
+ {
+  "id": 22,
+  "district": "Lower Subansiri",
+  "yield": 30.63148318
+ },
+ {
+  "id": 405,
+  "district": "Ludhiana",
+  "yield": 69.58997149
+ },
+ {
+  "id": 350,
+  "district": "Lunglei",
+  "yield": 30.7801797
+ },
+ {
+  "id": 103,
+  "district": "Mahasamund",
+  "yield": 24.08883628
+ },
+ {
+  "id": 483,
+  "district": "Mahbubnagar",
+  "yield": 51.44899601
+ },
+ {
+  "id": 126,
+  "district": "Mahesana",
+  "yield": 28.99582145
+ },
+ {
+  "id": 351,
+  "district": "Mamit",
+  "yield": 31.67235882
+ },
+ {
+  "id": 165,
+  "district": "Mandi",
+  "yield": 24.2375328
+ },
+ {
+  "id": 272,
+  "district": "Mandla",
+  "yield": 28.69842841
+ },
+ {
+  "id": 226,
+  "district": "Mandya",
+  "yield": 44.60895608
+ },
+ {
+  "id": 406,
+  "district": "Mansa",
+  "yield": 61.11426983
+ },
+ {
+  "id": 484,
+  "district": "Medak",
+  "yield": 65.12907588
+ },
+ {
+  "id": 407,
+  "district": "Moga",
+  "yield": 67.80561324
+ },
+ {
+  "id": 356,
+  "district": "Mokokchung",
+  "yield": 35.68716486
+ },
+ {
+  "id": 357,
+  "district": "Mon",
+  "yield": 33.15932402
+ },
+ {
+  "id": 227,
+  "district": "Mysore",
+  "yield": 46.83940389
+ },
+ {
+  "id": 313,
+  "district": "Nagpur",
+  "yield": 23.34535368
+ },
+ {
+  "id": 485,
+  "district": "Nalgonda",
+  "yield": 51.30029949
+ },
+ {
+  "id": 314,
+  "district": "Nanded",
+  "yield": 10.2600599
+ },
+ {
+  "id": 315,
+  "district": "Nandurbar",
+  "yield": 23.79144324
+ },
+ {
+  "id": 127,
+  "district": "Narmada",
+  "yield": 14.86965203
+ },
+ {
+  "id": 275,
+  "district": "Narsinghpur",
+  "yield": 31.37496578
+ },
+ {
+  "id": 316,
+  "district": "Nashik",
+  "yield": 17.69488591
+ },
+ {
+  "id": 128,
+  "district": "Navsari",
+  "yield": 39.55327439
+ },
+ {
+  "id": 409,
+  "district": "Nawan Shehar",
+  "yield": 62.15514547
+ },
+ {
+  "id": 486,
+  "district": "Nizamabad",
+  "yield": 61.70905591
+ },
+ {
+  "id": 490,
+  "district": "North Tripura",
+  "yield": 17.84358243
+ },
+ {
+  "id": 129,
+  "district": "Panch Mahals",
+  "yield": 26.17058757
+ },
+ {
+  "id": 151,
+  "district": "Panchkula",
+  "yield": 53.08465774
+ },
+ {
+  "id": 277,
+  "district": "Panna",
+  "yield": 26.91407017
+ },
+ {
+  "id": 23,
+  "district": "Papum Pare",
+  "yield": 29.73930405
+ },
+ {
+  "id": 410,
+  "district": "Patiala",
+  "yield": 58.73512551
+ },
+ {
+  "id": 358,
+  "district": "Phek",
+  "yield": 41.7837222
+ },
+ {
+  "id": 179,
+  "district": "Pulwama",
+  "yield": 40.29675699
+ },
+ {
+  "id": 180,
+  "district": "Punch",
+  "yield": 26.02189105
+ },
+ {
+  "id": 319,
+  "district": "Pune",
+  "yield": 26.91407017
+ },
+ {
+  "id": 228,
+  "district": "Raichur",
+  "yield": 52.93596122
+ },
+ {
+  "id": 104,
+  "district": "Raigarh",
+  "yield": 31.5236623
+ },
+ {
+  "id": 105,
+  "district": "Raipur",
+  "yield": 44.01417
+ },
+ {
+  "id": 278,
+  "district": "Raisen",
+  "yield": 31.37496578
+ },
+ {
+  "id": 106,
+  "district": "Raj Nandgaon",
+  "yield": 26.76537365
+ },
+ {
+  "id": 181,
+  "district": "Rajauri",
+  "yield": 18.58706503
+ },
+ {
+  "id": 279,
+  "district": "Rajgarh",
+  "yield": 23.19665716
+ },
+ {
+  "id": 439,
+  "district": "Rajsamand",
+  "yield": 32.56453794
+ },
+ {
+  "id": 487,
+  "district": "Rangareddi",
+  "yield": 49.06985169
+ },
+ {
+  "id": 281,
+  "district": "Rewa",
+  "yield": 40.14806047
+ },
+ {
+  "id": 411,
+  "district": "Rupnagar",
+  "yield": 53.5307473
+ },
+ {
+  "id": 133,
+  "district": "Sabar Kantha",
+  "yield": 38.80979179
+ },
+ {
+  "id": 282,
+  "district": "Sagar",
+  "yield": 22.60187108
+ },
+ {
+  "id": 352,
+  "district": "Saiha",
+  "yield": 31.67235882
+ },
+ {
+  "id": 322,
+  "district": "Sangli",
+  "yield": 18.88445807
+ },
+ {
+  "id": 412,
+  "district": "Sangrur",
+  "yield": 70.03606105
+ },
+ {
+  "id": 323,
+  "district": "Satara",
+  "yield": 21.41229892
+ },
+ {
+  "id": 283,
+  "district": "Satna",
+  "yield": 41.48632916
+ },
+ {
+  "id": 440,
+  "district": "Sawai Madhopur",
+  "yield": 43.12199088
+ },
+ {
+  "id": 334,
+  "district": "Senapati",
+  "yield": 6.393950372
+ },
+ {
+  "id": 285,
+  "district": "Seoni",
+  "yield": 27.80624929
+ },
+ {
+  "id": 353,
+  "district": "Serchhip",
+  "yield": 34.64628922
+ },
+ {
+  "id": 286,
+  "district": "Shahdol",
+  "yield": 33.45671706
+ },
+ {
+  "id": 288,
+  "district": "Sheopur",
+  "yield": 50.85420993
+ },
+ {
+  "id": 166,
+  "district": "Shimla",
+  "yield": 15.16704507
+ },
+ {
+  "id": 229,
+  "district": "Shimoga",
+  "yield": 40.89154307
+ },
+ {
+  "id": 289,
+  "district": "Shivpuri",
+  "yield": 39.40457787
+ },
+ {
+  "id": 290,
+  "district": "Sidhi",
+  "yield": 31.67235882
+ },
+ {
+  "id": 167,
+  "district": "Sirmaur",
+  "yield": 17.99227895
+ },
+ {
+  "id": 168,
+  "district": "Solan",
+  "yield": 37.32282659
+ },
+ {
+  "id": 491,
+  "district": "South Tripura",
+  "yield": 15.46443811
+ },
+ {
+  "id": 182,
+  "district": "Srinagar",
+  "yield": 34.05150314
+ },
+ {
+  "id": 134,
+  "district": "Surat",
+  "yield": 35.09237878
+ },
+ {
+  "id": 107,
+  "district": "Surguja",
+  "yield": 23.4940502
+ },
+ {
+  "id": 335,
+  "district": "Tamenglong",
+  "yield": 17.99227895
+ },
+ {
+  "id": 24,
+  "district": "Tawang",
+  "yield": 28.40103537
+ },
+ {
+  "id": 336,
+  "district": "Thoubal",
+  "yield": 37.76891615
+ },
+ {
+  "id": 291,
+  "district": "Tikamgarh",
+  "yield": 9.516577297
+ },
+ {
+  "id": 25,
+  "district": "Tirap",
+  "yield": 21.11490588
+ },
+ {
+  "id": 359,
+  "district": "Tuensang",
+  "yield": 35.38977182
+ },
+ {
+  "id": 230,
+  "district": "Tumkur",
+  "yield": 44.16286652
+ },
+ {
+  "id": 444,
+  "district": "Udaipur",
+  "yield": 15.01834855
+ },
+ {
+  "id": 183,
+  "district": "Udhampur",
+  "yield": 17.10009983
+ },
+ {
+  "id": 231,
+  "district": "Udupi",
+  "yield": 42.82459784
+ },
+ {
+  "id": 337,
+  "district": "Ukhrul",
+  "yield": 31.37496578
+ },
+ {
+  "id": 293,
+  "district": "Umaria",
+  "yield": 28.69842841
+ },
+ {
+  "id": 169,
+  "district": "Una",
+  "yield": 35.83586139
+ },
+ {
+  "id": 26,
+  "district": "Upper Dibang Valley",
+  "yield": 17.10009983
+ },
+ {
+  "id": 27,
+  "district": "Upper Siang",
+  "yield": 28.69842841
+ },
+ {
+  "id": 28,
+  "district": "Upper Subansiri",
+  "yield": 31.37496578
+ },
+ {
+  "id": 232,
+  "district": "Uttar Kannand",
+  "yield": 33.90280662
+ },
+ {
+  "id": 137,
+  "district": "Vadodara",
+  "yield": 30.03669709
+ },
+ {
+  "id": 138,
+  "district": "Valsad",
+  "yield": 34.4975927
+ },
+ {
+  "id": 488,
+  "district": "Warangal",
+  "yield": 51.00290645
+ },
+ {
+  "id": 29,
+  "district": "West Kameng",
+  "yield": 26.31928409
+ },
+ {
+  "id": 30,
+  "district": "West Siang",
+  "yield": 24.08883628
+ },
+ {
+  "id": 492,
+  "district": "West Tripura",
+  "yield": 16.05922419
+ },
+ {
+  "id": 360,
+  "district": "Wokha",
+  "yield": 36.28195095
+ },
+ {
+  "id": 361,
+  "district": "Zunheboto",
+  "yield": 34.79498574
+ }
+]

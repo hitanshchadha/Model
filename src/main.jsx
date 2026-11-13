@@ -1,24 +1,24 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import App from './App.jsx'
-import Variability_prediction from './variability_prediction.jsx'
-import Early_prediction from './early_prediction.jsx'
-import NextCropCycle from './ncc.jsx'
-import './index.css'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import CYP_with_crop from './cyp.jsx'
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './styles.css';
+import Layout from './components/Layout.jsx';
+import PredictionPage from './components/PredictionPage.jsx';
+import NotFound from './components/NotFound.jsx';
+import { PAGES } from './siteConfig.js';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-<Routes>
-        <Route path="/" element={<App title='App'></App>} />
-      <Route path="/variability_prediction" element={<Variability_prediction title='About'></Variability_prediction>} />
-      <Route path="/early_prediction" element={<Early_prediction title='About'></Early_prediction>} />
-      <Route path="/next_crop_cycle" element={<NextCropCycle title='About'></NextCropCycle>} />\
-      <Route path="/cyp_with_crop" element={<CYP_with_crop title='About'></CYP_with_crop>} />
+      <Routes>
+        <Route element={<Layout />}>
+          {PAGES.map((page) => (
+            <Route key={page.path} path={page.path} element={<PredictionPage key={page.path} page={page} />} />
+          ))}
+          <Route path="*" element={<NotFound />} />
+        </Route>
       </Routes>
     </BrowserRouter>
-    
   </StrictMode>,
-)
+);
