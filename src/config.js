@@ -3,9 +3,6 @@
 // or in a local .env file. Vite only exposes variables prefixed with VITE_.
 const env = import.meta.env;
 
-export const API_URL =
-  env.VITE_API_URL || 'https://coeai4agri.bits-pilani.ac.in/cyp_satran/';
-
 export const BACK_URL =
   env.VITE_BACK_URL || 'https://www.bits-pilani.ac.in/pilani/aicoe2024';
 

@@ -1,4 +1,4 @@
-import { API_URL, BACK_URL, MAPS } from './config.js'
+import { BACK_URL, MAPS } from './config.js'
 import React from 'react'
 import { useState } from 'react'
 import './App.css'
@@ -7,7 +7,6 @@ import { DataGrid } from '@mui/x-data-grid';
 import Form from 'react-bootstrap/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, NavItem } from 'react-bootstrap';
-import axios from 'axios';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -23,7 +22,7 @@ import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import dist from "./assets/csvjson.json"
 import distperf from './assets/csvjson (2).json'
-import Papa from 'papaparse';
+import wheatDataPred from './assets/csvjson (7).json'
 import Spinner from './spinner';
 import PerfGraph from './assets/Pred-Graph.jpg'
 import PerfTable from './assets/Pred-Table.jpg'
@@ -87,31 +86,16 @@ function App() {
   }
   
 
-  const call = async()=>{
-    setIsLoading(true)
-    await axios.post(API_URL,params, {headers: {
-      'content-type': 'application/json',
-   },
-})
-  .then(function (response) {
-    console.log(response.data);
-    console.log(Papa.parse(response.data));
-    Papa.parse(response.data, {
-      complete: (result) => {
-          setData1(result.data);
-          setIsLoading(false);
-          seterror(null)
-      },
-      header: true,
-  });
-  })
-  .catch(function (error) {
+  // Wheat predictions are served from a local data file (previously fetched
+  // from an external API), so the site has no dependency on outside servers.
+  const call = ()=>{
+    const wheat = wheatDataPred
+      .filter((row)=>data2.includes(row.Dist_ID))
+      .map((row)=>({DistrictID: row.Dist_ID, DistrictName: row.District, Actual: row.Actual, Predicted: row.Predicted}));
+    setData1(wheat);
     setIsLoading(false);
-    console.log(error.message);
-    seterror(error.message)
-  });
-  
-    }
+    seterror(null);
+  }
     const call2 =()=>{
       const corn = cornDataPred.filter((cornDataPred)=>{for (let index = 0; index < data2.length; index++){
         if(data2[index]==cornDataPred.Dist_ID){
