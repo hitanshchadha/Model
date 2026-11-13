@@ -1,5 +1,5 @@
 {
-  "name": "model",
+  "name": "aicoe-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,13 +13,9 @@
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.7",
-    "@mui/x-data-grid": "^7.14.0",
-    "axios": "^1.7.4",
     "bootstrap": "^5.3.3",
-    "papaparse": "^5.4.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
-    "react-bootstrap-multiselect": "^2.4.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.1"
   },

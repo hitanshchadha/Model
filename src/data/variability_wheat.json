@@ -1,0 +1,2138 @@
+[
+ {
+  "id": 479,
+  "district": "Adilabad",
+  "actual": 48.77,
+  "predicted": 45.12
+ },
+ {
+  "id": 493,
+  "district": "Agra",
+  "actual": 63.34,
+  "predicted": 54.45
+ },
+ {
+  "id": 114,
+  "district": "Ahmadabad",
+  "actual": 38.81,
+  "predicted": 35.61
+ },
+ {
+  "id": 296,
+  "district": "Ahmednagar",
+  "actual": 30.33,
+  "predicted": 30.4
+ },
+ {
+  "id": 413,
+  "district": "Ajmer",
+  "actual": 52.04,
+  "predicted": 48.63
+ },
+ {
+  "id": 297,
+  "district": "Akola",
+  "actual": 21.26,
+  "predicted": 19.05
+ },
+ {
+  "id": 494,
+  "district": "Aligarh",
+  "actual": 62.16,
+  "predicted": 54.01
+ },
+ {
+  "id": 495,
+  "district": "Allahabad",
+  "actual": 53.38,
+  "predicted": 49.05
+ },
+ {
+  "id": 563,
+  "district": "Almora",
+  "actual": 15.61,
+  "predicted": 13.53
+ },
+ {
+  "id": 414,
+  "district": "Alwar",
+  "actual": 72.12,
+  "predicted": 61.85
+ },
+ {
+  "id": 139,
+  "district": "Ambala",
+  "actual": 75.24,
+  "predicted": 64
+ },
+ {
+  "id": 496,
+  "district": "Ambedkar Nagar",
+  "actual": 57.1,
+  "predicted": 50.07
+ },
+ {
+  "id": 298,
+  "district": "Amravati",
+  "actual": 24.98,
+  "predicted": 23.91
+ },
+ {
+  "id": 115,
+  "district": "Amreli",
+  "actual": 55.17,
+  "predicted": 48.95
+ },
+ {
+  "id": 396,
+  "district": "Amritsar",
+  "actual": 70.78,
+  "predicted": 60.42
+ },
+ {
+  "id": 116,
+  "district": "Anand",
+  "actual": 44.46,
+  "predicted": 42.04
+ },
+ {
+  "id": 248,
+  "district": "Anuppur",
+  "actual": 23.49,
+  "predicted": 23.56
+ },
+ {
+  "id": 54,
+  "district": "Araria",
+  "actual": 42.08,
+  "predicted": 43.3
+ },
+ {
+  "id": 249,
+  "district": "Ashoknagar",
+  "actual": 50.26,
+  "predicted": 46.63
+ },
+ {
+  "id": 497,
+  "district": "Auraiya",
+  "actual": 61.71,
+  "predicted": 55.71
+ },
+ {
+  "id": 55,
+  "district": "Aurangabad",
+  "actual": 33.75,
+  "predicted": 34.04
+ },
+ {
+  "id": 299,
+  "district": "Aurangabad",
+  "actual": 27.51,
+  "predicted": 26.59
+ },
+ {
+  "id": 498,
+  "district": "Azamgarh",
+  "actual": 52.64,
+  "predicted": 48.91
+ },
+ {
+  "id": 206,
+  "district": "Bagalkot",
+  "actual": 29.74,
+  "predicted": 29.11
+ },
+ {
+  "id": 564,
+  "district": "Bageshwar",
+  "actual": 25.43,
+  "predicted": 23.19
+ },
+ {
+  "id": 500,
+  "district": "Baghpat",
+  "actual": 67.95,
+  "predicted": 59.4
+ },
+ {
+  "id": 501,
+  "district": "Bahraich",
+  "actual": 51.9,
+  "predicted": 48.58
+ },
+ {
+  "id": 250,
+  "district": "Balaghat",
+  "actual": 40.3,
+  "predicted": 40.25
+ },
+ {
+  "id": 502,
+  "district": "Ballia",
+  "actual": 56.06,
+  "predicted": 51.89
+ },
+ {
+  "id": 503,
+  "district": "Balrampur",
+  "actual": 50.56,
+  "predicted": 47.89
+ },
+ {
+  "id": 117,
+  "district": "Banas Kantha",
+  "actual": 46.1,
+  "predicted": 45.03
+ },
+ {
+  "id": 504,
+  "district": "Banda",
+  "actual": 41.78,
+  "predicted": 41.06
+ },
+ {
+  "id": 56,
+  "district": "Banka",
+  "actual": 37.17,
+  "predicted": 34.03
+ },
+ {
+  "id": 576,
+  "district": "Bankura",
+  "actual": 38.81,
+  "predicted": 34.15
+ },
+ {
+  "id": 415,
+  "district": "Banswara",
+  "actual": 39.55,
+  "predicted": 34.26
+ },
+ {
+  "id": 505,
+  "district": "Bara Banki",
+  "actual": 64.39,
+  "predicted": 55.08
+ },
+ {
+  "id": 416,
+  "district": "Baran",
+  "actual": 66.62,
+  "predicted": 58.65
+ },
+ {
+  "id": 506,
+  "district": "Bareilly",
+  "actual": 57.55,
+  "predicted": 51.41
+ },
+ {
+  "id": 417,
+  "district": "Barmer",
+  "actual": 23.49,
+  "predicted": 21.32
+ },
+ {
+  "id": 251,
+  "district": "Barwani",
+  "actual": 62.3,
+  "predicted": 54.17
+ },
+ {
+  "id": 92,
+  "district": "Bastar",
+  "actual": 32.71,
+  "predicted": 31.23
+ },
+ {
+  "id": 507,
+  "district": "Basti",
+  "actual": 52.94,
+  "predicted": 48.84
+ },
+ {
+  "id": 57,
+  "district": "Begusarai",
+  "actual": 54.13,
+  "predicted": 50.47
+ },
+ {
+  "id": 209,
+  "district": "Belgaum",
+  "actual": 23.05,
+  "predicted": 23.09
+ },
+ {
+  "id": 210,
+  "district": "Bellary",
+  "actual": 15.32,
+  "predicted": 15.35
+ },
+ {
+  "id": 252,
+  "district": "Betul",
+  "actual": 48.92,
+  "predicted": 45.03
+ },
+ {
+  "id": 59,
+  "district": "Bhagalpur",
+  "actual": 47.73,
+  "predicted": 43.68
+ },
+ {
+  "id": 418,
+  "district": "Bharatpur",
+  "actual": 70.04,
+  "predicted": 60.46
+ },
+ {
+  "id": 118,
+  "district": "Bharuch",
+  "actual": 29.14,
+  "predicted": 27.22
+ },
+ {
+  "id": 119,
+  "district": "Bhavnagar",
+  "actual": 48.03,
+  "predicted": 44.73
+ },
+ {
+  "id": 419,
+  "district": "Bhilwara",
+  "actual": 61.56,
+  "predicted": 53.46
+ },
+ {
+  "id": 60,
+  "district": "Bhojpur",
+  "actual": 46.54,
+  "predicted": 45.07
+ },
+ {
+  "id": 254,
+  "district": "Bhopal",
+  "actual": 51,
+  "predicted": 48.84
+ },
+ {
+  "id": 301,
+  "district": "Bid",
+  "actual": 31.82,
+  "predicted": 31.73
+ },
+ {
+  "id": 211,
+  "district": "Bidar",
+  "actual": 16.8,
+  "predicted": 14.4
+ },
+ {
+  "id": 212,
+  "district": "Bijapur",
+  "actual": 13.53,
+  "predicted": 15.62
+ },
+ {
+  "id": 508,
+  "district": "Bijnor",
+  "actual": 56.65,
+  "predicted": 49.92
+ },
+ {
+  "id": 93,
+  "district": "Bilaspur",
+  "actual": 23.2,
+  "predicted": 21.73
+ },
+ {
+  "id": 158,
+  "district": "Bilaspur",
+  "actual": 19.48,
+  "predicted": 18.46
+ },
+ {
+  "id": 578,
+  "district": "Birbhum",
+  "actual": 42.38,
+  "predicted": 41.13
+ },
+ {
+  "id": 184,
+  "district": "Bokaro",
+  "actual": 52.04,
+  "predicted": 47.46
+ },
+ {
+  "id": 509,
+  "district": "Bulandshahr",
+  "actual": 65.43,
+  "predicted": 55.79
+ },
+ {
+  "id": 302,
+  "district": "Buldana",
+  "actual": 30.04,
+  "predicted": 30.3
+ },
+ {
+  "id": 421,
+  "district": "Bundi",
+  "actual": 69.29,
+  "predicted": 59.03
+ },
+ {
+  "id": 255,
+  "district": "Burhanpur",
+  "actual": 81.63,
+  "predicted": 68.42
+ },
+ {
+  "id": 61,
+  "district": "Buxar",
+  "actual": 49.96,
+  "predicted": 44.77
+ },
+ {
+  "id": 159,
+  "district": "Chamba",
+  "actual": 27.66,
+  "predicted": 26.23
+ },
+ {
+  "id": 565,
+  "district": "Chamoli",
+  "actual": 21.56,
+  "predicted": 21.53
+ },
+ {
+  "id": 566,
+  "district": "Champawat",
+  "actual": 23.49,
+  "predicted": 21.12
+ },
+ {
+  "id": 510,
+  "district": "Chandauli",
+  "actual": 54.13,
+  "predicted": 50.59
+ },
+ {
+  "id": 91,
+  "district": "Chandigarh",
+  "actual": 74.35,
+  "predicted": 62.69
+ },
+ {
+  "id": 303,
+  "district": "Chandrapur",
+  "actual": 16.51,
+  "predicted": 13.85
+ },
+ {
+  "id": 16,
+  "district": "Changlang",
+  "actual": 34.2,
+  "predicted": 33.87
+ },
+ {
+  "id": 185,
+  "district": "Chatra",
+  "actual": 28.55,
+  "predicted": 26.6
+ },
+ {
+  "id": 256,
+  "district": "Chhatarpur",
+  "actual": 38.36,
+  "predicted": 35.4
+ },
+ {
+  "id": 257,
+  "district": "Chhindwara",
+  "actual": 78.51,
+  "predicted": 65.69
+ },
+ {
+  "id": 215,
+  "district": "Chitradurga",
+  "actual": 22.75,
+  "predicted": 20.82
+ },
+ {
+  "id": 511,
+  "district": "Chitrakoot",
+  "actual": 49.22,
+  "predicted": 46.25
+ },
+ {
+  "id": 422,
+  "district": "Chittaurgarh",
+  "actual": 65.87,
+  "predicted": 57.82
+ },
+ {
+  "id": 120,
+  "district": "Dahod",
+  "actual": 35.39,
+  "predicted": 34.64
+ },
+ {
+  "id": 258,
+  "district": "Damoh",
+  "actual": 41.19,
+  "predicted": 41.64
+ },
+ {
+  "id": 94,
+  "district": "Dantewada",
+  "actual": 32.71,
+  "predicted": 33.6
+ },
+ {
+  "id": 62,
+  "district": "Darbhanga",
+  "actual": 40.59,
+  "predicted": 40.57
+ },
+ {
+  "id": 580,
+  "district": "Darjiling",
+  "actual": 30.33,
+  "predicted": 31.34
+ },
+ {
+  "id": 259,
+  "district": "Datia",
+  "actual": 50.26,
+  "predicted": 46.32
+ },
+ {
+  "id": 424,
+  "district": "Dausa",
+  "actual": 64.53,
+  "predicted": 56.11
+ },
+ {
+  "id": 217,
+  "district": "Davanagere",
+  "actual": 19.18,
+  "predicted": 15.77
+ },
+ {
+  "id": 567,
+  "district": "Dehra Dun",
+  "actual": 44.31,
+  "predicted": 42.09
+ },
+ {
+  "id": 186,
+  "district": "Deoghar",
+  "actual": 38.66,
+  "predicted": 35.9
+ },
+ {
+  "id": 512,
+  "district": "Deoria",
+  "actual": 51.75,
+  "predicted": 47.55
+ },
+ {
+  "id": 260,
+  "district": "Dewas",
+  "actual": 50.71,
+  "predicted": 48.54
+ },
+ {
+  "id": 95,
+  "district": "Dhamtari",
+  "actual": 24.24,
+  "predicted": 22.98
+ },
+ {
+  "id": 187,
+  "district": "Dhanbad",
+  "actual": 31.52,
+  "predicted": 31.07
+ },
+ {
+  "id": 261,
+  "district": "Dhar",
+  "actual": 80.15,
+  "predicted": 69.58
+ },
+ {
+  "id": 218,
+  "district": "Dharwad",
+  "actual": 8.33,
+  "predicted": 7.62
+ },
+ {
+  "id": 304,
+  "district": "Dhule",
+  "actual": 24.53,
+  "predicted": 24.03
+ },
+ {
+  "id": 354,
+  "district": "Dimapur",
+  "actual": 27.36,
+  "predicted": 24.57
+ },
+ {
+  "id": 262,
+  "district": "Dindori",
+  "actual": 34.5,
+  "predicted": 33.38
+ },
+ {
+  "id": 188,
+  "district": "Dumka",
+  "actual": 33.75,
+  "predicted": 32.54
+ },
+ {
+  "id": 426,
+  "district": "Dungarpur",
+  "actual": 33.61,
+  "predicted": 31.65
+ },
+ {
+  "id": 96,
+  "district": "Durg",
+  "actual": 22.01,
+  "predicted": 20.83
+ },
+ {
+  "id": 339,
+  "district": "East Garo Hills",
+  "actual": 17.84,
+  "predicted": 18.83
+ },
+ {
+  "id": 17,
+  "district": "East Kameng",
+  "actual": 34.79,
+  "predicted": 32.25
+ },
+ {
+  "id": 18,
+  "district": "East Siang",
+  "actual": 39.4,
+  "predicted": 34.06
+ },
+ {
+  "id": 513,
+  "district": "Etah",
+  "actual": 61.41,
+  "predicted": 53.47
+ },
+ {
+  "id": 514,
+  "district": "Etawah",
+  "actual": 61.26,
+  "predicted": 53.03
+ },
+ {
+  "id": 515,
+  "district": "Faizabad",
+  "actual": 52.49,
+  "predicted": 48.95
+ },
+ {
+  "id": 516,
+  "district": "Farrukhabad",
+  "actual": 60.67,
+  "predicted": 53.2
+ },
+ {
+  "id": 399,
+  "district": "Fatehgarh Sahib",
+  "actual": 73.75,
+  "predicted": 63.16
+ },
+ {
+  "id": 517,
+  "district": "Fatehpur",
+  "actual": 56.5,
+  "predicted": 52.07
+ },
+ {
+  "id": 518,
+  "district": "Firozabad",
+  "actual": 61.56,
+  "predicted": 53.75
+ },
+ {
+  "id": 219,
+  "district": "Gadag",
+  "actual": 9.96,
+  "predicted": 5.85
+ },
+ {
+  "id": 121,
+  "district": "Gandhinagar",
+  "actual": 52.04,
+  "predicted": 49.42
+ },
+ {
+  "id": 427,
+  "district": "Ganganagar",
+  "actual": 65.28,
+  "predicted": 57.4
+ },
+ {
+  "id": 305,
+  "district": "Garhchiroli",
+  "actual": 9.22,
+  "predicted": 11.24
+ },
+ {
+  "id": 189,
+  "district": "Garhwa",
+  "actual": 41.64,
+  "predicted": 41.03
+ },
+ {
+  "id": 519,
+  "district": "Gautam Buddha Nagar",
+  "actual": 59.78,
+  "predicted": 53.67
+ },
+ {
+  "id": 63,
+  "district": "Gaya",
+  "actual": 41.04,
+  "predicted": 41.08
+ },
+ {
+  "id": 520,
+  "district": "Ghaziabad",
+  "actual": 63.49,
+  "predicted": 55.51
+ },
+ {
+  "id": 521,
+  "district": "Ghazipur",
+  "actual": 51.75,
+  "predicted": 48.2
+ },
+ {
+  "id": 190,
+  "district": "Giridih",
+  "actual": 40.45,
+  "predicted": 41.54
+ },
+ {
+  "id": 191,
+  "district": "Godda",
+  "actual": 37.17,
+  "predicted": 32.96
+ },
+ {
+  "id": 522,
+  "district": "Gonda",
+  "actual": 49.81,
+  "predicted": 46.29
+ },
+ {
+  "id": 306,
+  "district": "Gondiya",
+  "actual": 11.3,
+  "predicted": 9.78
+ },
+ {
+  "id": 64,
+  "district": "Gopalganj",
+  "actual": 45.65,
+  "predicted": 43.94
+ },
+ {
+  "id": 523,
+  "district": "Gorakhpur",
+  "actual": 55.61,
+  "predicted": 50.34
+ },
+ {
+  "id": 220,
+  "district": "Gulbarga",
+  "actual": 27.81,
+  "predicted": 25.33
+ },
+ {
+  "id": 192,
+  "district": "Gumla",
+  "actual": 34.79,
+  "predicted": 34.12
+ },
+ {
+  "id": 264,
+  "district": "Guna",
+  "actual": 70.48,
+  "predicted": 60.11
+ },
+ {
+  "id": 401,
+  "district": "Gurdaspur",
+  "actual": 67.36,
+  "predicted": 58.7
+ },
+ {
+  "id": 265,
+  "district": "Gwalior",
+  "actual": 58.59,
+  "predicted": 51.35
+ },
+ {
+  "id": 160,
+  "district": "Hamirpur",
+  "actual": 15.02,
+  "predicted": 14.81
+ },
+ {
+  "id": 524,
+  "district": "Hamirpur",
+  "actual": 47.73,
+  "predicted": 43.35
+ },
+ {
+  "id": 428,
+  "district": "Hanumangarh",
+  "actual": 64.09,
+  "predicted": 54.99
+ },
+ {
+  "id": 582,
+  "district": "Haora",
+  "actual": 48.18,
+  "predicted": 46.09
+ },
+ {
+  "id": 266,
+  "district": "Harda",
+  "actual": 76.43,
+  "predicted": 64.55
+ },
+ {
+  "id": 525,
+  "district": "Hardoi",
+  "actual": 55.76,
+  "predicted": 50.49
+ },
+ {
+  "id": 568,
+  "district": "Haridwar",
+  "actual": 59.18,
+  "predicted": 51.51
+ },
+ {
+  "id": 526,
+  "district": "Hathras",
+  "actual": 60.97,
+  "predicted": 53.12
+ },
+ {
+  "id": 222,
+  "district": "Haveri",
+  "actual": 7.58,
+  "predicted": 10.15
+ },
+ {
+  "id": 193,
+  "district": "Hazaribag",
+  "actual": 28.85,
+  "predicted": 26.89
+ },
+ {
+  "id": 308,
+  "district": "Hingoli",
+  "actual": 23.35,
+  "predicted": 22.09
+ },
+ {
+  "id": 267,
+  "district": "Hoshangabad",
+  "actual": 83.72,
+  "predicted": 70.86
+ },
+ {
+  "id": 402,
+  "district": "Hoshiarpur",
+  "actual": 61.56,
+  "predicted": 55.28
+ },
+ {
+  "id": 583,
+  "district": "Hugli",
+  "actual": 43.42,
+  "predicted": 42.64
+ },
+ {
+  "id": 268,
+  "district": "Indore",
+  "actual": 89.37,
+  "predicted": 73.32
+ },
+ {
+  "id": 269,
+  "district": "Jabalpur",
+  "actual": 56.95,
+  "predicted": 49.92
+ },
+ {
+  "id": 429,
+  "district": "Jaipur",
+  "actual": 57.1,
+  "predicted": 52.2
+ },
+ {
+  "id": 403,
+  "district": "Jalandhar",
+  "actual": 72.86,
+  "predicted": 62.4
+ },
+ {
+  "id": 527,
+  "district": "Jalaun",
+  "actual": 54.87,
+  "predicted": 51.06
+ },
+ {
+  "id": 309,
+  "district": "Jalgaon",
+  "actual": 26.62,
+  "predicted": 26.32
+ },
+ {
+  "id": 310,
+  "district": "Jalna",
+  "actual": 26.02,
+  "predicted": 24.64
+ },
+ {
+  "id": 431,
+  "district": "Jalor",
+  "actual": 34.79,
+  "predicted": 33.4
+ },
+ {
+  "id": 584,
+  "district": "Jalpaiguri",
+  "actual": 30.33,
+  "predicted": 31.52
+ },
+ {
+  "id": 194,
+  "district": "Jamtara",
+  "actual": 34.2,
+  "predicted": 34.19
+ },
+ {
+  "id": 65,
+  "district": "Jamui",
+  "actual": 24.53,
+  "predicted": 23.26
+ },
+ {
+  "id": 97,
+  "district": "Janjgir-champa",
+  "actual": 36.28,
+  "predicted": 33.92
+ },
+ {
+  "id": 98,
+  "district": "Jashpur",
+  "actual": 24.39,
+  "predicted": 21.87
+ },
+ {
+  "id": 528,
+  "district": "Jaunpur",
+  "actual": 55.02,
+  "predicted": 51.13
+ },
+ {
+  "id": 66,
+  "district": "Jehanabad",
+  "actual": 46.1,
+  "predicted": 42.75
+ },
+ {
+  "id": 270,
+  "district": "Jhabua",
+  "actual": 46.1,
+  "predicted": 44.77
+ },
+ {
+  "id": 145,
+  "district": "Jhajjar",
+  "actual": 67.36,
+  "predicted": 56.76
+ },
+ {
+  "id": 432,
+  "district": "Jhalawar",
+  "actual": 63.64,
+  "predicted": 56.75
+ },
+ {
+  "id": 529,
+  "district": "Jhansi",
+  "actual": 45.06,
+  "predicted": 42.6
+ },
+ {
+  "id": 434,
+  "district": "Jodhpur",
+  "actual": 36.73,
+  "predicted": 33.06
+ },
+ {
+  "id": 41,
+  "district": "Jorhat",
+  "actual": 14.87,
+  "predicted": 16.69
+ },
+ {
+  "id": 123,
+  "district": "Junagadh",
+  "actual": 65.28,
+  "predicted": 55.54
+ },
+ {
+  "id": 124,
+  "district": "Kachchh",
+  "actual": 43.27,
+  "predicted": 42.87
+ },
+ {
+  "id": 42,
+  "district": "Kamrup",
+  "actual": 14.57,
+  "predicted": 14.48
+ },
+ {
+  "id": 161,
+  "district": "Kangra",
+  "actual": 23.49,
+  "predicted": 23.55
+ },
+ {
+  "id": 99,
+  "district": "Kanker",
+  "actual": 24.83,
+  "predicted": 23.29
+ },
+ {
+  "id": 531,
+  "district": "Kannauj",
+  "actual": 61.56,
+  "predicted": 53.3
+ },
+ {
+  "id": 532,
+  "district": "Kanpur Dehat",
+  "actual": 60.52,
+  "predicted": 53.76
+ },
+ {
+  "id": 404,
+  "district": "Kapurthala",
+  "actual": 68.7,
+  "predicted": 59.47
+ },
+ {
+  "id": 435,
+  "district": "Karauli",
+  "actual": 62.6,
+  "predicted": 55.78
+ },
+ {
+  "id": 67,
+  "district": "Katihar",
+  "actual": 40,
+  "predicted": 36.49
+ },
+ {
+  "id": 271,
+  "district": "Katni",
+  "actual": 53.83,
+  "predicted": 49.53
+ },
+ {
+  "id": 534,
+  "district": "Kaushambi",
+  "actual": 49.22,
+  "predicted": 45.55
+ },
+ {
+  "id": 68,
+  "district": "Khagaria",
+  "actual": 44.76,
+  "predicted": 42.1
+ },
+ {
+  "id": 125,
+  "district": "Kheda",
+  "actual": 45.06,
+  "predicted": 42.46
+ },
+ {
+  "id": 162,
+  "district": "Kinnaur",
+  "actual": 19.48,
+  "predicted": 15.95
+ },
+ {
+  "id": 69,
+  "district": "Kishanganj",
+  "actual": 40.74,
+  "predicted": 42.89
+ },
+ {
+  "id": 195,
+  "district": "Koderma",
+  "actual": 37.17,
+  "predicted": 35.21
+ },
+ {
+  "id": 355,
+  "district": "Kohima",
+  "actual": 27.36,
+  "predicted": 26.67
+ },
+ {
+  "id": 45,
+  "district": "Kokrajhar",
+  "actual": 23.35,
+  "predicted": 23.09
+ },
+ {
+  "id": 311,
+  "district": "Kolhapur",
+  "actual": 34.5,
+  "predicted": 33.25
+ },
+ {
+  "id": 225,
+  "district": "Koppal",
+  "actual": 7.43,
+  "predicted": 9.94
+ },
+ {
+  "id": 101,
+  "district": "Korba",
+  "actual": 17.4,
+  "predicted": 14.52
+ },
+ {
+  "id": 102,
+  "district": "Koriya",
+  "actual": 19.93,
+  "predicted": 20.63
+ },
+ {
+  "id": 436,
+  "district": "Kota",
+  "actual": 64.98,
+  "predicted": 56.2
+ },
+ {
+  "id": 163,
+  "district": "Kullu",
+  "actual": 26.77,
+  "predicted": 25.24
+ },
+ {
+  "id": 9,
+  "district": "Kurnool",
+  "actual": 22.3,
+  "predicted": 21.28
+ },
+ {
+  "id": 149,
+  "district": "Kurukshetra",
+  "actual": 76.58,
+  "predicted": 66.01
+ },
+ {
+  "id": 535,
+  "district": "Kushinagar",
+  "actual": 55.61,
+  "predicted": 51.27
+ },
+ {
+  "id": 164,
+  "district": "Lahul And Spiti",
+  "actual": 25.43,
+  "predicted": 24.86
+ },
+ {
+  "id": 46,
+  "district": "Lakhimpur",
+  "actual": 21.26,
+  "predicted": 21.22
+ },
+ {
+  "id": 70,
+  "district": "Lakhisarai",
+  "actual": 45.95,
+  "predicted": 42.76
+ },
+ {
+  "id": 537,
+  "district": "Lalitpur",
+  "actual": 46.39,
+  "predicted": 44.87
+ },
+ {
+  "id": 196,
+  "district": "Latehar",
+  "actual": 19.63,
+  "predicted": 18.23
+ },
+ {
+  "id": 312,
+  "district": "Latur",
+  "actual": 23.35,
+  "predicted": 21.86
+ },
+ {
+  "id": 197,
+  "district": "Lohardaga",
+  "actual": 34.2,
+  "predicted": 33.98
+ },
+ {
+  "id": 20,
+  "district": "Lohit",
+  "actual": 31.52,
+  "predicted": 30.63
+ },
+ {
+  "id": 21,
+  "district": "Lower Dibang Valley",
+  "actual": 30.04,
+  "predicted": 32.47
+ },
+ {
+  "id": 538,
+  "district": "Lucknow",
+  "actual": 50.41,
+  "predicted": 46.63
+ },
+ {
+  "id": 405,
+  "district": "Ludhiana",
+  "actual": 73.9,
+  "predicted": 62.14
+ },
+ {
+  "id": 71,
+  "district": "Madhepura",
+  "actual": 45.06,
+  "predicted": 43.24
+ },
+ {
+  "id": 72,
+  "district": "Madhubani",
+  "actual": 31.08,
+  "predicted": 30.77
+ },
+ {
+  "id": 539,
+  "district": "Maharajganj",
+  "actual": 55.61,
+  "predicted": 51.59
+ },
+ {
+  "id": 103,
+  "district": "Mahasamund",
+  "actual": 25.58,
+  "predicted": 24.42
+ },
+ {
+  "id": 126,
+  "district": "Mahesana",
+  "actual": 50.41,
+  "predicted": 46.43
+ },
+ {
+  "id": 540,
+  "district": "Mahoba",
+  "actual": 40.3,
+  "predicted": 41.5
+ },
+ {
+  "id": 541,
+  "district": "Mainpuri",
+  "actual": 63.2,
+  "predicted": 56.27
+ },
+ {
+  "id": 587,
+  "district": "Maldah",
+  "actual": 44.31,
+  "predicted": 43.95
+ },
+ {
+  "id": 165,
+  "district": "Mandi",
+  "actual": 25.43,
+  "predicted": 24.28
+ },
+ {
+  "id": 272,
+  "district": "Mandla",
+  "actual": 48.33,
+  "predicted": 45.1
+ },
+ {
+  "id": 273,
+  "district": "Mandsaur",
+  "actual": 53.83,
+  "predicted": 48.73
+ },
+ {
+  "id": 406,
+  "district": "Mansa",
+  "actual": 73.9,
+  "predicted": 62.86
+ },
+ {
+  "id": 47,
+  "district": "Marigaon",
+  "actual": 18.59,
+  "predicted": 17.74
+ },
+ {
+  "id": 542,
+  "district": "Mathura",
+  "actual": 52.19,
+  "predicted": 49.68
+ },
+ {
+  "id": 543,
+  "district": "Mau",
+  "actual": 56.06,
+  "predicted": 49.88
+ },
+ {
+  "id": 484,
+  "district": "Medak",
+  "actual": 39.11,
+  "predicted": 36.18
+ },
+ {
+  "id": 544,
+  "district": "Meerut",
+  "actual": 67.95,
+  "predicted": 59.28
+ },
+ {
+  "id": 545,
+  "district": "Mirzapur",
+  "actual": 48.77,
+  "predicted": 44.26
+ },
+ {
+  "id": 407,
+  "district": "Moga",
+  "actual": 76.58,
+  "predicted": 64.86
+ },
+ {
+  "id": 356,
+  "district": "Mokokchung",
+  "actual": 27.21,
+  "predicted": 26.39
+ },
+ {
+  "id": 357,
+  "district": "Mon",
+  "actual": 27.36,
+  "predicted": 24.54
+ },
+ {
+  "id": 546,
+  "district": "Moradabad",
+  "actual": 64.39,
+  "predicted": 55.88
+ },
+ {
+  "id": 73,
+  "district": "Munger",
+  "actual": 39.4,
+  "predicted": 36.3
+ },
+ {
+  "id": 547,
+  "district": "Muzaffarnagar",
+  "actual": 64.53,
+  "predicted": 55.21
+ },
+ {
+  "id": 48,
+  "district": "Nagaon",
+  "actual": 16.8,
+  "predicted": 15.95
+ },
+ {
+  "id": 437,
+  "district": "Nagaur",
+  "actual": 42.38,
+  "predicted": 41.17
+ },
+ {
+  "id": 313,
+  "district": "Nagpur",
+  "actual": 31.67,
+  "predicted": 30.82
+ },
+ {
+  "id": 569,
+  "district": "Naini Tal",
+  "actual": 56.8,
+  "predicted": 50.04
+ },
+ {
+  "id": 75,
+  "district": "Nalanda",
+  "actual": 46.99,
+  "predicted": 43.42
+ },
+ {
+  "id": 49,
+  "district": "Nalbari",
+  "actual": 16.95,
+  "predicted": 14.22
+ },
+ {
+  "id": 314,
+  "district": "Nanded",
+  "actual": 22.3,
+  "predicted": 21.34
+ },
+ {
+  "id": 315,
+  "district": "Nandurbar",
+  "actual": 31.67,
+  "predicted": 32.21
+ },
+ {
+  "id": 127,
+  "district": "Narmada",
+  "actual": 41.64,
+  "predicted": 43.3
+ },
+ {
+  "id": 275,
+  "district": "Narsinghpur",
+  "actual": 62.6,
+  "predicted": 53.97
+ },
+ {
+  "id": 316,
+  "district": "Nashik",
+  "actual": 28.85,
+  "predicted": 27.23
+ },
+ {
+  "id": 128,
+  "district": "Navsari",
+  "actual": 48.77,
+  "predicted": 44.33
+ },
+ {
+  "id": 76,
+  "district": "Nawada",
+  "actual": 38.81,
+  "predicted": 34.61
+ },
+ {
+  "id": 409,
+  "district": "Nawan Shehar",
+  "actual": 73.46,
+  "predicted": 63.07
+ },
+ {
+  "id": 276,
+  "district": "Neemuch",
+  "actual": 39.55,
+  "predicted": 34.09
+ },
+ {
+  "id": 486,
+  "district": "Nizamabad",
+  "actual": 39.4,
+  "predicted": 35.27
+ },
+ {
+  "id": 317,
+  "district": "Osmanabad",
+  "actual": 22.9,
+  "predicted": 21.5
+ },
+ {
+  "id": 198,
+  "district": "Pakur",
+  "actual": 22.3,
+  "predicted": 20.45
+ },
+ {
+  "id": 199,
+  "district": "Palamu",
+  "actual": 29.14,
+  "predicted": 28.45
+ },
+ {
+  "id": 438,
+  "district": "Pali",
+  "actual": 47.43,
+  "predicted": 43.76
+ },
+ {
+  "id": 129,
+  "district": "Panch Mahals",
+  "actual": 33.61,
+  "predicted": 33.99
+ },
+ {
+  "id": 151,
+  "district": "Panchkula",
+  "actual": 53.53,
+  "predicted": 48.28
+ },
+ {
+  "id": 277,
+  "district": "Panna",
+  "actual": 36.13,
+  "predicted": 32.6
+ },
+ {
+  "id": 23,
+  "district": "Papum Pare",
+  "actual": 36.73,
+  "predicted": 34.9
+ },
+ {
+  "id": 318,
+  "district": "Parbhani",
+  "actual": 28.7,
+  "predicted": 28.15
+ },
+ {
+  "id": 77,
+  "district": "Pashchim Champaran",
+  "actual": 44.91,
+  "predicted": 44.53
+ },
+ {
+  "id": 410,
+  "district": "Patiala",
+  "actual": 73.9,
+  "predicted": 62.43
+ },
+ {
+  "id": 78,
+  "district": "Patna",
+  "actual": 51.15,
+  "predicted": 47.88
+ },
+ {
+  "id": 570,
+  "district": "Pauri Garhwal",
+  "actual": 24.68,
+  "predicted": 24.43
+ },
+ {
+  "id": 358,
+  "district": "Phek",
+  "actual": 27.21,
+  "predicted": 26.52
+ },
+ {
+  "id": 548,
+  "district": "Pilibhit",
+  "actual": 66.17,
+  "predicted": 58.36
+ },
+ {
+  "id": 571,
+  "district": "Pithoragarh",
+  "actual": 25.13,
+  "predicted": 23.72
+ },
+ {
+  "id": 549,
+  "district": "Pratapgarh",
+  "actual": 50.85,
+  "predicted": 46.76
+ },
+ {
+  "id": 180,
+  "district": "Punch",
+  "actual": 34.2,
+  "predicted": 33.95
+ },
+ {
+  "id": 319,
+  "district": "Pune",
+  "actual": 31.08,
+  "predicted": 30.67
+ },
+ {
+  "id": 79,
+  "district": "Purba Champaran",
+  "actual": 38.07,
+  "predicted": 34.44
+ },
+ {
+  "id": 80,
+  "district": "Purnia",
+  "actual": 48.33,
+  "predicted": 45.59
+ },
+ {
+  "id": 591,
+  "district": "Puruliya",
+  "actual": 26.47,
+  "predicted": 24.04
+ },
+ {
+  "id": 550,
+  "district": "Rae Bareli",
+  "actual": 57.99,
+  "predicted": 50.53
+ },
+ {
+  "id": 228,
+  "district": "Raichur",
+  "actual": 9.37,
+  "predicted": 11.65
+ },
+ {
+  "id": 104,
+  "district": "Raigarh",
+  "actual": 29.89,
+  "predicted": 26.96
+ },
+ {
+  "id": 105,
+  "district": "Raipur",
+  "actual": 33.31,
+  "predicted": 33.89
+ },
+ {
+  "id": 278,
+  "district": "Raisen",
+  "actual": 51.45,
+  "predicted": 49.43
+ },
+ {
+  "id": 106,
+  "district": "Raj Nandgaon",
+  "actual": 21.26,
+  "predicted": 19.34
+ },
+ {
+  "id": 279,
+  "district": "Rajgarh",
+  "actual": 48.18,
+  "predicted": 45.03
+ },
+ {
+  "id": 132,
+  "district": "Rajkot",
+  "actual": 56.36,
+  "predicted": 51.88
+ },
+ {
+  "id": 439,
+  "district": "Rajsamand",
+  "actual": 60.52,
+  "predicted": 54.63
+ },
+ {
+  "id": 551,
+  "district": "Rampur",
+  "actual": 62.9,
+  "predicted": 55
+ },
+ {
+  "id": 202,
+  "district": "Ranchi",
+  "actual": 29.74,
+  "predicted": 27.09
+ },
+ {
+  "id": 487,
+  "district": "Rangareddi",
+  "actual": 39.4,
+  "predicted": 35.33
+ },
+ {
+  "id": 280,
+  "district": "Ratlam",
+  "actual": 74.5,
+  "predicted": 63.77
+ },
+ {
+  "id": 281,
+  "district": "Rewa",
+  "actual": 38.36,
+  "predicted": 35.82
+ },
+ {
+  "id": 81,
+  "district": "Rohtas",
+  "actual": 52.94,
+  "predicted": 49.26
+ },
+ {
+  "id": 572,
+  "district": "Rudra Prayag",
+  "actual": 14.13,
+  "predicted": 16.17
+ },
+ {
+  "id": 411,
+  "district": "Rupnagar",
+  "actual": 67.06,
+  "predicted": 57.58
+ },
+ {
+  "id": 133,
+  "district": "Sabar Kantha",
+  "actual": 48.77,
+  "predicted": 45.88
+ },
+ {
+  "id": 282,
+  "district": "Sagar",
+  "actual": 42.38,
+  "predicted": 43.1
+ },
+ {
+  "id": 552,
+  "district": "Saharanpur",
+  "actual": 61.86,
+  "predicted": 55.63
+ },
+ {
+  "id": 82,
+  "district": "Saharsa",
+  "actual": 35.54,
+  "predicted": 34.68
+ },
+ {
+  "id": 203,
+  "district": "Sahibganj",
+  "actual": 50.71,
+  "predicted": 47.66
+ },
+ {
+  "id": 83,
+  "district": "Samastipur",
+  "actual": 50.41,
+  "predicted": 46.66
+ },
+ {
+  "id": 322,
+  "district": "Sangli",
+  "actual": 33.16,
+  "predicted": 33.58
+ },
+ {
+  "id": 412,
+  "district": "Sangrur",
+  "actual": 78.21,
+  "predicted": 65.05
+ },
+ {
+  "id": 553,
+  "district": "Sant Kabir Nagar",
+  "actual": 61.56,
+  "predicted": 55.58
+ },
+ {
+  "id": 554,
+  "district": "Sant Ravi Das Nagar",
+  "actual": 53.98,
+  "predicted": 49.26
+ },
+ {
+  "id": 204,
+  "district": "Saraikela Kharsawan",
+  "actual": 46.1,
+  "predicted": 43.12
+ },
+ {
+  "id": 84,
+  "district": "Saran",
+  "actual": 53.68,
+  "predicted": 49.58
+ },
+ {
+  "id": 323,
+  "district": "Satara",
+  "actual": 32.27,
+  "predicted": 31.04
+ },
+ {
+  "id": 283,
+  "district": "Satna",
+  "actual": 39.55,
+  "predicted": 35.88
+ },
+ {
+  "id": 440,
+  "district": "Sawai Madhopur",
+  "actual": 60.52,
+  "predicted": 54.84
+ },
+ {
+  "id": 284,
+  "district": "Sehore",
+  "actual": 49.07,
+  "predicted": 45.05
+ },
+ {
+  "id": 285,
+  "district": "Seoni",
+  "actual": 64.98,
+  "predicted": 55.46
+ },
+ {
+  "id": 286,
+  "district": "Shahdol",
+  "actual": 27.95,
+  "predicted": 25.1
+ },
+ {
+  "id": 555,
+  "district": "Shahjahanpur",
+  "actual": 66.32,
+  "predicted": 57.14
+ },
+ {
+  "id": 287,
+  "district": "Shajapur",
+  "actual": 48.18,
+  "predicted": 43.94
+ },
+ {
+  "id": 85,
+  "district": "Sheikhpura",
+  "actual": 31.97,
+  "predicted": 33.26
+ },
+ {
+  "id": 86,
+  "district": "Sheohar",
+  "actual": 38.22,
+  "predicted": 35.35
+ },
+ {
+  "id": 288,
+  "district": "Sheopur",
+  "actual": 81.34,
+  "predicted": 67.85
+ },
+ {
+  "id": 166,
+  "district": "Shimla",
+  "actual": 25.13,
+  "predicted": 23.47
+ },
+ {
+  "id": 289,
+  "district": "Shivpuri",
+  "actual": 44.01,
+  "predicted": 42.07
+ },
+ {
+  "id": 556,
+  "district": "Shravasti",
+  "actual": 50.41,
+  "predicted": 46.84
+ },
+ {
+  "id": 51,
+  "district": "Sibsagar",
+  "actual": 22.3,
+  "predicted": 22.19
+ },
+ {
+  "id": 557,
+  "district": "Siddharth Nagar",
+  "actual": 58.88,
+  "predicted": 53.12
+ },
+ {
+  "id": 290,
+  "district": "Sidhi",
+  "actual": 34.65,
+  "predicted": 33.92
+ },
+ {
+  "id": 441,
+  "district": "Sikar",
+  "actual": 49.81,
+  "predicted": 46.49
+ },
+ {
+  "id": 205,
+  "district": "Simdega",
+  "actual": 33.46,
+  "predicted": 32.9
+ },
+ {
+  "id": 167,
+  "district": "Sirmaur",
+  "actual": 31.23,
+  "predicted": 32.71
+ },
+ {
+  "id": 442,
+  "district": "Sirohi",
+  "actual": 52.34,
+  "predicted": 49.52
+ },
+ {
+  "id": 87,
+  "district": "Sitamarhi",
+  "actual": 41.64,
+  "predicted": 41.04
+ },
+ {
+  "id": 558,
+  "district": "Sitapur",
+  "actual": 53.98,
+  "predicted": 49.29
+ },
+ {
+  "id": 88,
+  "district": "Siwan",
+  "actual": 44.76,
+  "predicted": 43.51
+ },
+ {
+  "id": 168,
+  "district": "Solan",
+  "actual": 35.24,
+  "predicted": 32.64
+ },
+ {
+  "id": 325,
+  "district": "Solapur",
+  "actual": 20.97,
+  "predicted": 19.02
+ },
+ {
+  "id": 559,
+  "district": "Sonbhadra",
+  "actual": 38.96,
+  "predicted": 36.01
+ },
+ {
+  "id": 52,
+  "district": "Sonitpur",
+  "actual": 14.57,
+  "predicted": 16.5
+ },
+ {
+  "id": 560,
+  "district": "Sultanpur",
+  "actual": 57.4,
+  "predicted": 50.46
+ },
+ {
+  "id": 89,
+  "district": "Supaul",
+  "actual": 41.93,
+  "predicted": 43.19
+ },
+ {
+  "id": 134,
+  "district": "Surat",
+  "actual": 39.4,
+  "predicted": 36.25
+ },
+ {
+  "id": 135,
+  "district": "Surendranagar",
+  "actual": 44.61,
+  "predicted": 42.32
+ },
+ {
+  "id": 107,
+  "district": "Surguja",
+  "actual": 35.09,
+  "predicted": 34.15
+ },
+ {
+  "id": 24,
+  "district": "Tawang",
+  "actual": 26.02,
+  "predicted": 23.74
+ },
+ {
+  "id": 573,
+  "district": "Tehri Garhwal",
+  "actual": 27.06,
+  "predicted": 25.63
+ },
+ {
+  "id": 291,
+  "district": "Tikamgarh",
+  "actual": 42.82,
+  "predicted": 43.27
+ },
+ {
+  "id": 53,
+  "district": "Tinsukia",
+  "actual": 21.26,
+  "predicted": 19.24
+ },
+ {
+  "id": 25,
+  "district": "Tirap",
+  "actual": 23.49,
+  "predicted": 22.22
+ },
+ {
+  "id": 443,
+  "district": "Tonk",
+  "actual": 52.94,
+  "predicted": 48.68
+ },
+ {
+  "id": 359,
+  "district": "Tuensang",
+  "actual": 27.21,
+  "predicted": 26.48
+ },
+ {
+  "id": 444,
+  "district": "Udaipur",
+  "actual": 38.22,
+  "predicted": 33.47
+ },
+ {
+  "id": 574,
+  "district": "Udham Singh Nagar",
+  "actual": 66.17,
+  "predicted": 58.35
+ },
+ {
+  "id": 292,
+  "district": "Ujjain",
+  "actual": 50.56,
+  "predicted": 47.68
+ },
+ {
+  "id": 293,
+  "district": "Umaria",
+  "actual": 27.66,
+  "predicted": 25.14
+ },
+ {
+  "id": 169,
+  "district": "Una",
+  "actual": 31.52,
+  "predicted": 31.13
+ },
+ {
+  "id": 561,
+  "district": "Unnao",
+  "actual": 51.75,
+  "predicted": 48.07
+ },
+ {
+  "id": 575,
+  "district": "Uttarkashi",
+  "actual": 24.83,
+  "predicted": 22.42
+ },
+ {
+  "id": 137,
+  "district": "Vadodara",
+  "actual": 36.73,
+  "predicted": 33.77
+ },
+ {
+  "id": 90,
+  "district": "Vaishali",
+  "actual": 50.26,
+  "predicted": 48.43
+ },
+ {
+  "id": 562,
+  "district": "Varanasi",
+  "actual": 54.57,
+  "predicted": 48.73
+ },
+ {
+  "id": 294,
+  "district": "Vidisha",
+  "actual": 45.65,
+  "predicted": 43.86
+ },
+ {
+  "id": 327,
+  "district": "Wardha",
+  "actual": 32.12,
+  "predicted": 32.82
+ },
+ {
+  "id": 328,
+  "district": "Washim",
+  "actual": 35.98,
+  "predicted": 34.93
+ },
+ {
+  "id": 29,
+  "district": "West Kameng",
+  "actual": 25.13,
+  "predicted": 23.79
+ },
+ {
+  "id": 345,
+  "district": "West Khasi Hills",
+  "actual": 23.79,
+  "predicted": 23.3
+ },
+ {
+  "id": 594,
+  "district": "West Midnapore",
+  "actual": 37.17,
+  "predicted": 34.32
+ },
+ {
+  "id": 492,
+  "district": "West Tripura",
+  "actual": 32.27,
+  "predicted": 30.89
+ },
+ {
+  "id": 360,
+  "district": "Wokha",
+  "actual": 27.36,
+  "predicted": 25.02
+ },
+ {
+  "id": 329,
+  "district": "Yavatmal",
+  "actual": 21.26,
+  "predicted": 19.04
+ },
+ {
+  "id": 361,
+  "district": "Zunheboto",
+  "actual": 27.06,
+  "predicted": 24.3
+ }
+]
