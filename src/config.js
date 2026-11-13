@@ -4,7 +4,7 @@
 const env = import.meta.env;
 
 export const BACK_URL =
-  env.VITE_BACK_URL || 'https://www.bits-pilani.ac.in/pilani/aicoe2024';
+  env.VITE_BACK_URL || '/';
 
 // Datawrapper map embeds
 export const MAPS = {

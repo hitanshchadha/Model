@@ -1,3 +1,5 @@
+import SiteNav from './SiteNav.jsx'
+import { Link } from 'react-router-dom'
 import { BACK_URL, MAPS } from './config.js'
 import React from 'react'
 import { useState } from 'react'
@@ -132,10 +134,8 @@ function Variability_prediction() {
     return ( <>
     <Navbar  className='navbar' data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home"><img src={bits} alt="" height={80} /></Navbar.Brand>
-          <Nav className="me-auto">
-            
-          </Nav>
+          <Navbar.Brand as={Link} to="/"><img src={bits} alt="" height={80} /></Navbar.Brand>
+          <SiteNav />
         </Container>
       </Navbar>
 
