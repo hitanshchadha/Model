@@ -1,3 +1,4 @@
+import { BACK_URL, MAPS } from './config.js'
 import React from 'react'
 import { useState } from 'react'
 import './App.css'
@@ -6,7 +7,6 @@ import { DataGrid } from '@mui/x-data-grid';
 import Form from 'react-bootstrap/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, NavItem } from 'react-bootstrap';
-import axios from 'axios';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -22,7 +22,7 @@ import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import dist from "./assets/csvjson.json"
 import distperf from './assets/csvjson (2).json'
-import Papa from 'papaparse';
+import wheatDataPred from './assets/csvjson (7).json'
 import Spinner from './spinner';
 import PerfGraph from './assets/Pred-Graph.jpg'
 import PerfTable from './assets/Pred-Table.jpg'
@@ -86,31 +86,16 @@ function App() {
   }
   
 
-  const call = async()=>{
-    setIsLoading(true)
-    await axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
-      'content-type': 'application/json',
-   },
-})
-  .then(function (response) {
-    console.log(response.data);
-    console.log(Papa.parse(response.data));
-    Papa.parse(response.data, {
-      complete: (result) => {
-          setData1(result.data);
-          setIsLoading(false);
-          seterror(null)
-      },
-      header: true,
-  });
-  })
-  .catch(function (error) {
+  // Wheat predictions are served from a local data file (previously fetched
+  // from an external API), so the site has no dependency on outside servers.
+  const call = ()=>{
+    const wheat = wheatDataPred
+      .filter((row)=>data2.includes(row.Dist_ID))
+      .map((row)=>({DistrictID: row.Dist_ID, DistrictName: row.District, Actual: row.Actual, Predicted: row.Predicted}));
+    setData1(wheat);
     setIsLoading(false);
-    console.log(error.message);
-    seterror(error.message)
-  });
-  
-    }
+    seterror(null);
+  }
     const call2 =()=>{
       const corn = cornDataPred.filter((cornDataPred)=>{for (let index = 0; index < data2.length; index++){
         if(data2[index]==cornDataPred.Dist_ID){
@@ -164,7 +149,7 @@ function App() {
       <div style={{ display: 'flex', alignItems: 'center' }}>
 
           <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Crop Yield Prediction</h2>
-          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href={BACK_URL}>Back</Button>
         </div>
       <div className='dropdown-container'>
       <FormControl sx={{ m: 1, width: 400 }}>
@@ -223,7 +208,7 @@ function App() {
         </tbody></Table>
     </div>
 
-    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
+    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src={MAPS.wheat}></iframe>
     {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
     </div>
     </>
@@ -254,7 +239,7 @@ function App() {
         </tbody></Table>
     </div>
 
-    <iframe className='Map' title="Corn Producing Districts" aria-label="Map" id="datawrapper-chart-0qze0" src="https://datawrapper.dwcdn.net/0qze0/1/" scrolling="no" frameborder="0"></iframe><script type="text/javascript">{!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+    <iframe className='Map' title="Corn Producing Districts" aria-label="Map" id="datawrapper-chart-0qze0" src={MAPS.corn} scrolling="no" frameborder="0"></iframe><script type="text/javascript">{!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
 </script>
     </div>
     </>
@@ -265,7 +250,7 @@ function App() {
     
    
     {data==="Rice"?<>
-      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/"  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src={MAPS.variability}  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
       </script>
     </>
     :<></>}

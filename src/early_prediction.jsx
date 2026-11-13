@@ -1,3 +1,4 @@
+import { BACK_URL, MAPS } from './config.js'
 import React from 'react'
 import { useState } from 'react'
 import './App.css'
@@ -190,7 +191,7 @@ function Early_prediction() {
         <div style={{ display: 'flex', alignItems: 'center' }}>
 
           <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Early Prediction</h2>
-          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href={BACK_URL}>Back</Button>
         </div>
       <div className='dropdown-container'>
         <FormControl sx={{ m: 1, width: 350 }}>
@@ -250,7 +251,7 @@ function Early_prediction() {
                 </tbody></Table>
             </div>
 
-            <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
+            <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src={MAPS.wheat}></iframe>
             {!function () { window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }()}
           </div>
         </>
@@ -281,7 +282,7 @@ function Early_prediction() {
                 </tbody></Table>
             </div>
 
-            <iframe className='Map' title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-zkBDx" src="https://datawrapper.dwcdn.net/zkBDx/1/" scrolling="no" frameborder="0" ></iframe><script type="text/javascript">{!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }()}
+            <iframe className='Map' title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-zkBDx" src={MAPS.rice} scrolling="no" frameborder="0" ></iframe><script type="text/javascript">{!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }()}
             </script>
           </div>
         </>
@@ -292,7 +293,7 @@ function Early_prediction() {
 
 
         {data === "Rice" ? <>
-          <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/" style={{ "width": 500, "min-width": 100, " height": 800 }}></iframe><script type="text/javascript">{!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }()}
+          <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src={MAPS.variability} style={{ "width": 500, "min-width": 100, " height": 800 }}></iframe><script type="text/javascript">{!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }()}
           </script>
         </>
           : <></>}
