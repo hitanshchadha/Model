@@ -1,3 +1,4 @@
+import { API_URL, BACK_URL, MAPS } from './config.js'
 import React from 'react'
 import { useState } from 'react'
 import './App.css'
@@ -88,7 +89,7 @@ function App() {
 
   const call = async()=>{
     setIsLoading(true)
-    await axios.post("https://coeai4agri.bits-pilani.ac.in/cyp_satran/",params, {headers: {
+    await axios.post(API_URL,params, {headers: {
       'content-type': 'application/json',
    },
 })
@@ -164,7 +165,7 @@ function App() {
       <div style={{ display: 'flex', alignItems: 'center' }}>
 
           <h2 style={{ marginTop: 20, width:'90vw', paddingLeft:'8vw' }}>Crop Yield Prediction</h2>
-          <Button style={{ height: '2.3rem', width: '5rem',  }} href='https://www.bits-pilani.ac.in/pilani/aicoe2024'>Back</Button>
+          <Button style={{ height: '2.3rem', width: '5rem',  }} href={BACK_URL}>Back</Button>
         </div>
       <div className='dropdown-container'>
       <FormControl sx={{ m: 1, width: 400 }}>
@@ -223,7 +224,7 @@ function App() {
         </tbody></Table>
     </div>
 
-    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src="https://datawrapper.dwcdn.net/yFKAB/1/"></iframe>
+    <iframe className='Map' title="Wheat Producing Districts" aria-label="Map" id="datawrapper-chart-yFKAB" src={MAPS.wheat}></iframe>
     {!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
     </div>
     </>
@@ -254,7 +255,7 @@ function App() {
         </tbody></Table>
     </div>
 
-    <iframe className='Map' title="Corn Producing Districts" aria-label="Map" id="datawrapper-chart-0qze0" src="https://datawrapper.dwcdn.net/0qze0/1/" scrolling="no" frameborder="0"></iframe><script type="text/javascript">{!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+    <iframe className='Map' title="Corn Producing Districts" aria-label="Map" id="datawrapper-chart-0qze0" src={MAPS.corn} scrolling="no" frameborder="0"></iframe><script type="text/javascript">{!function(){window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
 </script>
     </div>
     </>
@@ -265,7 +266,7 @@ function App() {
     
    
     {data==="Rice"?<>
-      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src="https://datawrapper.dwcdn.net/TumWF/1/"  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
+      <iframe title="Rice Producing Districts" aria-label="Map" id="datawrapper-chart-TumWF" src={MAPS.variability}  style={{"width": 500, "min-width": 100," height":800}}></iframe><script type="text/javascript">{!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}()}
       </script>
     </>
     :<></>}
